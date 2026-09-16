@@ -47,6 +47,28 @@
         "facebook"
       ],
       "yayinlandi": false
+    },
+    {
+      "id": "tanitim-filmi",
+      "tarih": "2026-09-17",
+      "slot": "ogle",
+      "tip": "video",
+      "dosyalar": [
+        "tanitim-filmi.mp4"
+      ],
+      "baslik": {
+        "ig": "🎬 Beyoğlu Taşımacılık — Tanıtım Filmimiz Yayında!\n\n📦 Modern ambalaj, 🏗️ 25. kata kadar asansörlü taşıma, 👷 uzman ekip, 🚚 dona",
+        "fb": "🎬 Tanıtım Filmimiz Yayında!"
+      },
+      "aciklama": {
+        "ig": "🎬 Beyoğlu Taşımacılık — Tanıtım Filmimiz Yayında!\n\n📦 Modern ambalaj, 🏗️ 25. kata kadar asansörlü taşıma, 👷 uzman ekip, 🚚 donanımlı filo...\n\nGaziantep'te taşınmanın en güvenli yolu! Eşyalarınız bize emanet. 🙏\n\n📲 Ücretsiz ekspertiz için hemen yazın — profildeki linke dokunun 👆\n📞 0543 667 85 84 | 0544 102 27 97\n\n#gaziantep #evdenevenakliyat #gaziantepevdeneve #taşımacılık #evtaşıma #nakliyat #asansörlütaşımacılık #şehirlerarasınakliyat #gaziantepnakliyat #evdenevez",
+        "fb": "🎬 Beyoğlu Taşımacılık — Tanıtım Filmimiz Yayında!\n\n📦 Modern ambalaj, 🏗️ 25. kata kadar asansörlü taşıma, 👷 uzman ekip, 🚚 donanımlı filo...\n\nGaziantep'te taşınmanın en güvenli yolu! Eşyalarınız bize emanet. 🙏\n\n📲 Ücretsiz ekspertiz için WhatsApp'tan yazın: https://wa.me/905322345678?text=Merhaba%2C%20tan%C4%B1t%C4%B1m%20filminizi%20izledim%2C%20fiyat%20almak%20istiyorum\n📞 0543 667 85 84 | 0544 102 27 97\n🌐 evdenevegaziantep.com"
+      },
+      "platformlar": [
+        "instagram",
+        "facebook"
+      ],
+      "yayinlandi": false
     }
   ]
 }
