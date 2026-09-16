@@ -1,0 +1,14 @@
+{
+  "_aciklama": "tarih: YYYY-AA-GG | slot: sabah(09:00) / ogle(12:30) / aksam(19:30) | tip: reels/foto/carousel/story | medya: repo içi dosya yolu (carousel'da liste)",
+  "items": [
+    {
+      "tarih": "2026-09-17",
+      "slot": "aksam",
+      "platform": "instagram",
+      "tip": "carousel",
+      "baslik": "2. Gün - 5 Soru",
+      "medya": ["medya/gun02-01.png", "medya/gun02-02.png", "medya/gun02-03.png", "medya/gun02-04.png", "medya/gun02-05.png", "medya/gun02-06.png", "medya/gun02-07.png"],
+      "aciklama": "ORNEK - kurulumda doldurulacak"
+    }
+  ]
+}
