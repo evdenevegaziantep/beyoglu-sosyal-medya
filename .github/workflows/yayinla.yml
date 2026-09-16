@@ -1,0 +1,27 @@
+name: Otomatik Yayın
+
+# Saatler UTC. İstanbul = UTC+3
+# 06:00 UTC = 09:00 sabah slotu | 09:30 UTC = 12:30 öğlen slotu | 16:30 UTC = 19:30 akşam slotu
+on:
+  schedule:
+    - cron: '0 6 * * *'
+    - cron: '30 9 * * *'
+    - cron: '30 16 * * *'
+  workflow_dispatch:
+
+jobs:
+  yayinla:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Zamanı gelen yayınları yap
+        run: python yayinla.py
+        env:
+          META_USER_TOKEN: ${{ secrets.META_USER_TOKEN }}
+          META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
+          META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
+          META_IG_ID: ${{ secrets.META_IG_ID }}
+          REPO: ${{ github.repository }}
