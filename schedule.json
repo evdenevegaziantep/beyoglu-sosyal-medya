@@ -7,8 +7,46 @@
       "platform": "instagram",
       "tip": "carousel",
       "baslik": "2. Gün - 5 Soru",
-      "medya": ["medya/gun02-01.png", "medya/gun02-02.png", "medya/gun02-03.png", "medya/gun02-04.png", "medya/gun02-05.png", "medya/gun02-06.png", "medya/gun02-07.png"],
+      "medya": [
+        "medya/gun02-01.png",
+        "medya/gun02-02.png",
+        "medya/gun02-03.png",
+        "medya/gun02-04.png",
+        "medya/gun02-05.png",
+        "medya/gun02-06.png",
+        "medya/gun02-07.png"
+      ],
       "aciklama": "ORNEK - kurulumda doldurulacak"
+    }
+  ],
+  "program": [
+    {
+      "id": "gun02-carousel",
+      "tarih": "2026-09-16",
+      "slot": "aksam",
+      "tip": "carousel",
+      "dosyalar": [
+        "gun02-01.png",
+        "gun02-02.png",
+        "gun02-03.png",
+        "gun02-04.png",
+        "gun02-05.png",
+        "gun02-06.png",
+        "gun02-07.png"
+      ],
+      "baslik": {
+        "ig": "🚚 Beyoğlu Taşımacılık — Hizmetlerimiz (kaydırmalı 👉)\n\n1️⃣ Evden Eve Taşımacılık\n2️⃣ Ambalajlı & Paketli Taşıma\n3️⃣ Asansörlü ",
+        "fb": "🚚 Beyoğlu Taşımacılık — Hizmetlerimiz"
+      },
+      "aciklama": {
+        "ig": "🚚 Beyoğlu Taşımacılık — Hizmetlerimiz (kaydırmalı 👉)\n\n1️⃣ Evden Eve Taşımacılık\n2️⃣ Ambalajlı & Paketli Taşıma\n3️⃣ Asansörlü Taşımacılık\n4️⃣ Şehirlerarası Nakliyat\n5️⃣ Ofis & Büro Taşımacılığı\n6️⃣ Sigortalı + Ücretsiz Ekspertiz\n\n📦 Eşyalarınız bize emanet — Gaziantep içi ve Türkiye geneli!\n\n📲 Ücretsiz fiyat için WhatsApp: profildeki linke dokun 👆\n📞 Hemen ara, aynı gün ekspertiz yapalım!\n\n#gaziantep #evdenevenakliyat #gaziantepevdeneve #taşımacılık #evtaşıma #nakliyat #asansörlütaşımacılık #şehirlerarasınakliyat #evdeneve #gaziantepnakliyat",
+        "fb": "🚚 Beyoğlu Taşımacılık — Hizmetlerimiz\n\n✅ Evden Eve Taşımacılık\n✅ Ambalajlı & Paketli Taşıma\n✅ Asansörlü Taşımacılık\n✅ Şehirlerarası Nakliyat\n✅ Ofis & Büro Taşımacılığı\n✅ Sigortalı + Ücretsiz Ekspertiz\n\n📦 Eşyalarınız bize emanet — Gaziantep içi ve Türkiye geneli!\n\n📲 Ücretsiz fiyat için WhatsApp'tan yazın: https://wa.me/905322345678?text=Merhaba%2C%20ta%C5%9F%C4%B1ma%20fiyat%C4%B1%20almak%20istiyorum\n📞 Hemen arayın, aynı gün ekspertiz yapalım!"
+      },
+      "platformlar": [
+        "instagram",
+        "facebook"
+      ],
+      "yayinlandi": false
     }
   ]
 }
