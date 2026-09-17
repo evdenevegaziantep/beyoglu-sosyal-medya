@@ -128,6 +128,33 @@ def facebook_post(cfg, urls, kind, caption):
     return result.get("post_id") or result.get("id")
 
 
+def caption_for(item, platform):
+    """Programdaki kısa (ig/fb) ve uzun platform anahtarlarını birlikte destekler."""
+    caption_data = item.get("aciklama", {})
+    if not isinstance(caption_data, dict):
+        return str(caption_data)
+    aliases = {"instagram": "ig", "facebook": "fb"}
+    return str(caption_data.get(platform) or caption_data.get(aliases.get(platform, "")) or "").strip()
+
+
+def validate_caption(item, platform, caption):
+    """Örnek/eksik açıklamaların canlıya çıkmasını engeller."""
+    normalized = caption.casefold()
+    forbidden = ("ornek", "örnek", "kurulumda doldurulacak", "placeholder", "todo")
+    if any(word in normalized for word in forbidden):
+        raise RuntimeError("örnek veya tamamlanmamış açıklama engellendi")
+    # Hikâyelerde Instagram/Facebook API açıklama alanı göstermediği için iletişim
+    # bilgileri hikâye görselinin içinde yer alır.
+    if item.get("tip") != "story":
+        missing = []
+        if "0546 112 27 97" not in caption:
+            missing.append("telefon")
+        if "evdenevegaziantep.com" not in normalized:
+            missing.append("site")
+        if missing:
+            raise RuntimeError("açıklamada zorunlu iletişim bilgisi eksik: " + ", ".join(missing))
+
+
 def load_state():
     if not STATE.exists():
         return {"published": {}}
@@ -176,10 +203,10 @@ def main():
             if key in published and not force_republish:
                 print(f"↪️ zaten yayınlandı: {key} → {published[key].get('post_id')}")
                 continue
-            caption_data = item.get("aciklama", {})
-            caption = caption_data.get(platform, "") if isinstance(caption_data, dict) else str(caption_data)
+            caption = caption_for(item, platform)
             print(f"→ {key} / {item.get('tip')}")
             try:
+                validate_caption(item, platform, caption)
                 if platform == "instagram":
                     post_id = instagram_post(cfg, urls, item["tip"], caption)
                 elif platform == "facebook":
