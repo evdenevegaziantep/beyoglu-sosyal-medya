@@ -2,34 +2,6 @@
   "_aciklama": "tarih: YYYY-AA-GG | slot: sabah(09:00) / ogle(12:30) / aksam(19:30) | tip: reels/foto/carousel/story | medya: repo içi dosya yolu (carousel'da liste)",
   "program": [
     {
-      "id": "gun02-carousel",
-      "tarih": "2026-09-24",
-      "slot": "sabah",
-      "tip": "carousel",
-      "dosyalar": [
-        "gun02-01.png",
-        "gun02-02.png",
-        "gun02-03.png",
-        "gun02-04.png",
-        "gun02-05.png",
-        "gun02-06.png",
-        "gun02-07.png"
-      ],
-      "baslik": {
-        "ig": "🚚 Beyoğlu Taşımacılık — Hizmetlerimiz (kaydırmalı 👉)\n\n1️⃣ Evden Eve Taşımacılık\n2️⃣ Ambalajlı & Paketli Taşıma\n3️⃣ Asansörlü ",
-        "fb": "🚚 Beyoğlu Taşımacılık — Hizmetlerimiz"
-      },
-      "aciklama": {
-        "ig": "🚚 Beyoğlu Taşımacılık ile planlı ve özenli taşımacılık\n\nGaziantep içi ve şehirlerarası taşınma ihtiyaçlarınız için süreci baştan sona planlıyoruz:\n\n✅ Evden eve taşımacılık\n✅ Profesyonel ambalaj ve paketleme\n✅ 20. kata kadar asansörlü taşıma\n✅ Şehirlerarası nakliyat\n✅ Ofis ve iş yeri taşımacılığı\n✅ Ücretsiz ekspertiz\n\nEşyalarınızın yapısına, bina koşullarına ve taşıma mesafesine göre size özel bir taşıma planı oluşturuyoruz.\n\nÜcretsiz ekspertiz ve taşıma planlaması için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 www.evdenevegaziantep.com\n📲 WhatsApp: Profilimizdeki bağlantı\n\n#BeyoğluTaşımacılık #GaziantepNakliyat #EvdenEveNakliyat #AsansörlüTaşımacılık #ŞehirlerarasıNakliyat",
-        "fb": "🚚 Beyoğlu Taşımacılık ile planlı ve özenli taşımacılık\n\nGaziantep içi ve şehirlerarası taşınma ihtiyaçlarınız için süreci baştan sona planlıyoruz:\n\n✅ Evden eve taşımacılık\n✅ Profesyonel ambalaj ve paketleme\n✅ 20. kata kadar asansörlü taşıma\n✅ Şehirlerarası nakliyat\n✅ Ofis ve iş yeri taşımacılığı\n✅ Ücretsiz ekspertiz\n\nEşyalarınızın yapısına, bina koşullarına ve taşıma mesafesine göre size özel bir taşıma planı oluşturuyoruz.\n\nÜcretsiz ekspertiz ve taşıma planlaması için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com\n📲 WhatsApp: https://wa.me/905461122797"
-      },
-      "platformlar": [
-        "instagram",
-        "facebook"
-      ],
-      "yayinlandi": false
-    },
-    {
       "id": "tanitim-filmi",
       "tarih": "2026-09-17",
       "slot": "ogle",
@@ -50,28 +22,6 @@
         "facebook"
       ],
       "yayinlandi": true
-    },
-    {
-      "id": "ekip-guven",
-      "tarih": "2026-09-24",
-      "slot": "aksam",
-      "tip": "post",
-      "dosyalar": [
-        "IMG-20250302-WA0014.jpg"
-      ],
-      "baslik": {
-        "ig": "💪 Eşyanı kendi eşyası gibi taşıyan ekip!\n\nBeyoğlu'nda her taşıma aynı özenle yapılır:\n✅ Tecrübeli, güler yüzlü kadro\n✅ Modern",
-        "fb": "💪 Ekibimizle Tanışın!"
-      },
-      "aciklama": {
-        "ig": "👷 Deneyimli ekip, planlı taşınma\n\nTaşınma sürecinin her aşamasında düzenli ve dikkatli çalışıyoruz:\n\n✅ Eşyaya uygun ambalajlama\n✅ Mobilya söküm ve montaj desteği\n✅ Kontrollü yükleme ve yerleştirme\n✅ Bina koşullarına uygun taşıma planı\n\nAmacımız, eşyalarınızı yeni adresinize düzenli ve özenli şekilde ulaştırmaktır.\n\nÜcretsiz ekspertiz ve taşıma planlaması için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 www.evdenevegaziantep.com\n📲 WhatsApp: Profilimizdeki bağlantı\n\n#BeyoğluTaşımacılık #GaziantepNakliyat #EvdenEveNakliyat #ProfesyonelTaşımacılık",
-        "fb": "👷 Deneyimli ekip, planlı taşınma\n\nTaşınma sürecinin her aşamasında düzenli ve dikkatli çalışıyoruz:\n\n✅ Eşyaya uygun ambalajlama\n✅ Mobilya söküm ve montaj desteği\n✅ Kontrollü yükleme ve yerleştirme\n✅ Bina koşullarına uygun taşıma planı\n\nAmacımız, eşyalarınızı yeni adresinize düzenli ve özenli şekilde ulaştırmaktır.\n\nÜcretsiz ekspertiz ve taşıma planlaması için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com\n📲 WhatsApp: https://wa.me/905461122797"
-      },
-      "platformlar": [
-        "instagram",
-        "facebook"
-      ],
-      "yayinlandi": false
     },
     {
       "id": "story-tel-v1",
@@ -402,6 +352,764 @@
         "facebook"
       ],
       "yayinlandi": false
+    },
+    {
+      "id": "gun02-carousel",
+      "tarih": "2026-09-24",
+      "slot": "sabah",
+      "tip": "carousel",
+      "dosyalar": [
+        "gun02-01.png",
+        "gun02-02.png",
+        "gun02-03.png",
+        "gun02-04.png",
+        "gun02-05.png",
+        "gun02-06.png",
+        "gun02-07.png"
+      ],
+      "baslik": {
+        "ig": "🚚 Beyoğlu Taşımacılık — Hizmetlerimiz (kaydırmalı 👉)\n\n1️⃣ Evden Eve Taşımacılık\n2️⃣ Ambalajlı & Paketli Taşıma\n3️⃣ Asansörlü ",
+        "fb": "🚚 Beyoğlu Taşımacılık — Hizmetlerimiz"
+      },
+      "aciklama": {
+        "ig": "🚚 Beyoğlu Taşımacılık ile planlı ve özenli taşımacılık\n\nGaziantep içi ve şehirlerarası taşınma ihtiyaçlarınız için süreci baştan sona planlıyoruz:\n\n✅ Evden eve taşımacılık\n✅ Profesyonel ambalaj ve paketleme\n✅ 20. kata kadar asansörlü taşıma\n✅ Şehirlerarası nakliyat\n✅ Ofis ve iş yeri taşımacılığı\n✅ Ücretsiz ekspertiz\n\nEşyalarınızın yapısına, bina koşullarına ve taşıma mesafesine göre size özel bir taşıma planı oluşturuyoruz.\n\nÜcretsiz ekspertiz ve taşıma planlaması için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 www.evdenevegaziantep.com\n📲 WhatsApp: Profilimizdeki bağlantı\n\n#BeyoğluTaşımacılık #GaziantepNakliyat #EvdenEveNakliyat #AsansörlüTaşımacılık #ŞehirlerarasıNakliyat",
+        "fb": "🚚 Beyoğlu Taşımacılık ile planlı ve özenli taşımacılık\n\nGaziantep içi ve şehirlerarası taşınma ihtiyaçlarınız için süreci baştan sona planlıyoruz:\n\n✅ Evden eve taşımacılık\n✅ Profesyonel ambalaj ve paketleme\n✅ 20. kata kadar asansörlü taşıma\n✅ Şehirlerarası nakliyat\n✅ Ofis ve iş yeri taşımacılığı\n✅ Ücretsiz ekspertiz\n\nEşyalarınızın yapısına, bina koşullarına ve taşıma mesafesine göre size özel bir taşıma planı oluşturuyoruz.\n\nÜcretsiz ekspertiz ve taşıma planlaması için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com\n📲 WhatsApp: https://wa.me/905461122797"
+      },
+      "platformlar": [
+        "instagram",
+        "facebook"
+      ],
+      "yayinlandi": false
+    },
+    {
+      "id": "ekip-guven",
+      "tarih": "2026-09-24",
+      "slot": "aksam",
+      "tip": "post",
+      "dosyalar": [
+        "IMG-20250302-WA0014.jpg"
+      ],
+      "baslik": {
+        "ig": "💪 Eşyanı kendi eşyası gibi taşıyan ekip!\n\nBeyoğlu'nda her taşıma aynı özenle yapılır:\n✅ Tecrübeli, güler yüzlü kadro\n✅ Modern",
+        "fb": "💪 Ekibimizle Tanışın!"
+      },
+      "aciklama": {
+        "ig": "👷 Deneyimli ekip, planlı taşınma\n\nTaşınma sürecinin her aşamasında düzenli ve dikkatli çalışıyoruz:\n\n✅ Eşyaya uygun ambalajlama\n✅ Mobilya söküm ve montaj desteği\n✅ Kontrollü yükleme ve yerleştirme\n✅ Bina koşullarına uygun taşıma planı\n\nAmacımız, eşyalarınızı yeni adresinize düzenli ve özenli şekilde ulaştırmaktır.\n\nÜcretsiz ekspertiz ve taşıma planlaması için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 www.evdenevegaziantep.com\n📲 WhatsApp: Profilimizdeki bağlantı\n\n#BeyoğluTaşımacılık #GaziantepNakliyat #EvdenEveNakliyat #ProfesyonelTaşımacılık",
+        "fb": "👷 Deneyimli ekip, planlı taşınma\n\nTaşınma sürecinin her aşamasında düzenli ve dikkatli çalışıyoruz:\n\n✅ Eşyaya uygun ambalajlama\n✅ Mobilya söküm ve montaj desteği\n✅ Kontrollü yükleme ve yerleştirme\n✅ Bina koşullarına uygun taşıma planı\n\nAmacımız, eşyalarınızı yeni adresinize düzenli ve özenli şekilde ulaştırmaktır.\n\nÜcretsiz ekspertiz ve taşıma planlaması için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com\n📲 WhatsApp: https://wa.me/905461122797"
+      },
+      "platformlar": [
+        "instagram",
+        "facebook"
+      ],
+      "yayinlandi": false
+    },
+    {
+      "id": "30g-01-paketli-ev-video",
+      "tarih": "2026-09-25",
+      "slot": "aksam",
+      "tip": "video",
+      "dosyalar": [
+        "video-paketli-ev-01.mp4"
+      ],
+      "baslik": {
+        "ig": "Taşınma öncesi hazırlık neden önemlidir?",
+        "fb": "Taşınma öncesi hazırlık neden önemlidir?"
+      },
+      "aciklama": {
+        "ig": "🎬 Taşınma öncesi hazırlık neden önemlidir?\n\nEşyaların taşıma gününden önce gruplandırılması ve uygun malzemelerle paketlenmesi; yükleme süresini kısaltır, araç içi yerleşimi kolaylaştırır ve yeni adresteki teslimatı daha düzenli hâle getirir.\n\nBu gerçek çalışma görüntülerinde mobilyaların taşıma öncesinde nasıl koruma altına alındığını görebilirsiniz.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 www.evdenevegaziantep.com\n📲 WhatsApp: Profilimizdeki bağlantı\n\n#BeyoğluTaşımacılık #GaziantepNakliyat #EvdenEveNakliyat #ProfesyonelPaketleme #TaşınmaHazırlığı",
+        "fb": "🎬 Taşınma öncesi hazırlık neden önemlidir?\n\nEşyaların taşıma gününden önce gruplandırılması ve uygun malzemelerle paketlenmesi; yükleme süresini kısaltır, araç içi yerleşimi kolaylaştırır ve yeni adresteki teslimatı daha düzenli hâle getirir.\n\nBu gerçek çalışma görüntülerinde mobilyaların taşıma öncesinde nasıl koruma altına alındığını görebilirsiniz.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com\n📲 WhatsApp: https://wa.me/905461122797?text=Merhaba%2C%20ta%C5%9F%C4%B1nma%20i%C3%A7in%20%C3%BCcretsiz%20ekspertiz%20ve%20fiyat%20almak%20istiyorum.\n\n#BeyoğluTaşımacılık #GaziantepNakliyat #EvdenEveNakliyat #ProfesyonelPaketleme #TaşınmaHazırlığı"
+      },
+      "platformlar": [
+        "instagram",
+        "facebook"
+      ],
+      "yayinlandi": false,
+      "kaynak": "Google Drive — profesyonel 30 günlük plan"
+    },
+    {
+      "id": "30g-02-desenli-paketleme",
+      "tarih": "2026-09-26",
+      "slot": "sabah",
+      "tip": "post",
+      "dosyalar": [
+        "30gun/30g-01-desenli-paketleme.jpg"
+      ],
+      "baslik": {
+        "ig": "Mobilyalarda katmanlı koruma",
+        "fb": "Mobilyalarda katmanlı koruma"
+      },
+      "aciklama": {
+        "ig": "📦 Mobilyalarda katmanlı koruma\n\nKoltuk, sandalye ve dolap gibi mobilyalar; yüzey yapısına ve hassas noktalarına göre ayrı ayrı hazırlanmalıdır. Koruyucu örtü, streç ve sabitleme bantları doğru sırayla kullanıldığında taşıma sırasında oluşabilecek sürtünme ve darbe riski azalır.\n\nHer eşya için aynı yöntemi değil, doğru yöntemi uyguluyoruz.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 www.evdenevegaziantep.com\n📲 WhatsApp: Profilimizdeki bağlantı\n\n#ProfesyonelPaketleme #GaziantepNakliyat #EvdenEveNakliyat #MobilyaTaşıma #BeyoğluTaşımacılık",
+        "fb": "📦 Mobilyalarda katmanlı koruma\n\nKoltuk, sandalye ve dolap gibi mobilyalar; yüzey yapısına ve hassas noktalarına göre ayrı ayrı hazırlanmalıdır. Koruyucu örtü, streç ve sabitleme bantları doğru sırayla kullanıldığında taşıma sırasında oluşabilecek sürtünme ve darbe riski azalır.\n\nHer eşya için aynı yöntemi değil, doğru yöntemi uyguluyoruz.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com\n📲 WhatsApp: https://wa.me/905461122797?text=Merhaba%2C%20ta%C5%9F%C4%B1nma%20i%C3%A7in%20%C3%BCcretsiz%20ekspertiz%20ve%20fiyat%20almak%20istiyorum.\n\n#ProfesyonelPaketleme #GaziantepNakliyat #EvdenEveNakliyat #MobilyaTaşıma #BeyoğluTaşımacılık"
+      },
+      "platformlar": [
+        "instagram",
+        "facebook"
+      ],
+      "yayinlandi": false,
+      "kaynak": "Google Drive — profesyonel 30 günlük plan"
+    },
+    {
+      "id": "30g-03-story-ekspertiz",
+      "tarih": "2026-09-27",
+      "slot": "aksam",
+      "tip": "story",
+      "dosyalar": [
+        "30gun/30g-story-ekspertiz.jpg"
+      ],
+      "baslik": {
+        "ig": "Ücretsiz ekspertiz",
+        "fb": "Ücretsiz ekspertiz"
+      },
+      "aciklama": {
+        "ig": "Taşınma planınız; eşya miktarı, kat bilgisi, bina koşulları ve mesafeye göre hazırlanır.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 www.evdenevegaziantep.com\n📲 WhatsApp: Profilimizdeki bağlantı\n\n#ÜcretsizEkspertiz #GaziantepNakliyat #BeyoğluTaşımacılık",
+        "fb": "Taşınma planınız; eşya miktarı, kat bilgisi, bina koşulları ve mesafeye göre hazırlanır.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com\n📲 WhatsApp: https://wa.me/905461122797?text=Merhaba%2C%20ta%C5%9F%C4%B1nma%20i%C3%A7in%20%C3%BCcretsiz%20ekspertiz%20ve%20fiyat%20almak%20istiyorum.\n\n#ÜcretsizEkspertiz #GaziantepNakliyat #BeyoğluTaşımacılık"
+      },
+      "platformlar": [
+        "instagram",
+        "facebook"
+      ],
+      "yayinlandi": false,
+      "kaynak": "Google Drive — profesyonel 30 günlük plan"
+    },
+    {
+      "id": "30g-04-komple-ev-carousel",
+      "tarih": "2026-09-28",
+      "slot": "aksam",
+      "tip": "carousel",
+      "dosyalar": [
+        "30gun/30g-02-tasima-ani.jpg",
+        "30gun/30g-04-yuklu-kamyon.jpg",
+        "30gun/30g-05-paketli-oda.jpg",
+        "30gun/30g-06-duzenli-oda.jpg"
+      ],
+      "baslik": {
+        "ig": "Komple ev taşıma süreci",
+        "fb": "Komple ev taşıma süreci"
+      },
+      "aciklama": {
+        "ig": "🏠 Komple ev taşıma süreci nasıl ilerler?\n\n1️⃣ Eşya ve bina koşulları değerlendirilir.\n2️⃣ Mobilyalar sökülür ve eşyalar türüne göre paketlenir.\n3️⃣ Paketler kontrollü biçimde araca yerleştirilir.\n4️⃣ Yeni adreste mobilya montajı ve yerleştirme yapılır.\n\nDoğru planlama, taşınma günündeki belirsizlikleri azaltır ve tüm sürecin tek ekip tarafından koordineli yürütülmesini sağlar.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 www.evdenevegaziantep.com\n📲 WhatsApp: Profilimizdeki bağlantı\n\n#EvdenEveNakliyat #GaziantepNakliyat #KompleEvTaşıma #ProfesyonelPaketleme #BeyoğluTaşımacılık",
+        "fb": "🏠 Komple ev taşıma süreci nasıl ilerler?\n\n1️⃣ Eşya ve bina koşulları değerlendirilir.\n2️⃣ Mobilyalar sökülür ve eşyalar türüne göre paketlenir.\n3️⃣ Paketler kontrollü biçimde araca yerleştirilir.\n4️⃣ Yeni adreste mobilya montajı ve yerleştirme yapılır.\n\nDoğru planlama, taşınma günündeki belirsizlikleri azaltır ve tüm sürecin tek ekip tarafından koordineli yürütülmesini sağlar.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com\n📲 WhatsApp: https://wa.me/905461122797?text=Merhaba%2C%20ta%C5%9F%C4%B1nma%20i%C3%A7in%20%C3%BCcretsiz%20ekspertiz%20ve%20fiyat%20almak%20istiyorum.\n\n#EvdenEveNakliyat #GaziantepNakliyat #KompleEvTaşıma #ProfesyonelPaketleme #BeyoğluTaşımacılık"
+      },
+      "platformlar": [
+        "instagram",
+        "facebook"
+      ],
+      "yayinlandi": false,
+      "kaynak": "Google Drive — profesyonel 30 günlük plan"
+    },
+    {
+      "id": "30g-05-asansorlu-bina",
+      "tarih": "2026-09-29",
+      "slot": "ogle",
+      "tip": "post",
+      "dosyalar": [
+        "30gun/30g-07-asansor-bina.jpg"
+      ],
+      "baslik": {
+        "ig": "Yüksek katlarda asansörlü taşıma",
+        "fb": "Yüksek katlarda asansörlü taşıma"
+      },
+      "aciklama": {
+        "ig": "🏗️ Yüksek katlarda asansörlü taşıma\n\nDış cephe asansörü; uygun bina ve çevre koşullarında taşıma mesafesini kısaltır, apartman içindeki yoğunluğu azaltır ve büyük eşyaların kontrollü taşınmasına yardımcı olur.\n\nKurulumdan önce bina cephesi, balkon veya pencere uygunluğu ile araç çalışma alanı mutlaka değerlendirilir. Sistemimiz 20. kata kadar hizmet verebilir.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 www.evdenevegaziantep.com\n📲 WhatsApp: Profilimizdeki bağlantı\n\n#AsansörlüTaşımacılık #GaziantepNakliyat #YüksekKatTaşıma #EvdenEveNakliyat #BeyoğluTaşımacılık",
+        "fb": "🏗️ Yüksek katlarda asansörlü taşıma\n\nDış cephe asansörü; uygun bina ve çevre koşullarında taşıma mesafesini kısaltır, apartman içindeki yoğunluğu azaltır ve büyük eşyaların kontrollü taşınmasına yardımcı olur.\n\nKurulumdan önce bina cephesi, balkon veya pencere uygunluğu ile araç çalışma alanı mutlaka değerlendirilir. Sistemimiz 20. kata kadar hizmet verebilir.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com\n📲 WhatsApp: https://wa.me/905461122797?text=Merhaba%2C%20ta%C5%9F%C4%B1nma%20i%C3%A7in%20%C3%BCcretsiz%20ekspertiz%20ve%20fiyat%20almak%20istiyorum.\n\n#AsansörlüTaşımacılık #GaziantepNakliyat #YüksekKatTaşıma #EvdenEveNakliyat #BeyoğluTaşımacılık"
+      },
+      "platformlar": [
+        "instagram",
+        "facebook"
+      ],
+      "yayinlandi": false,
+      "kaynak": "Google Drive — profesyonel 30 günlük plan"
+    },
+    {
+      "id": "30g-06-mobilya-video",
+      "tarih": "2026-09-30",
+      "slot": "aksam",
+      "tip": "video",
+      "dosyalar": [
+        "video-mobilya-sokum-01.mp4"
+      ],
+      "baslik": {
+        "ig": "Mobilya hazırlığı ve söküm süreci",
+        "fb": "Mobilya hazırlığı ve söküm süreci"
+      },
+      "aciklama": {
+        "ig": "🪛 Mobilya hazırlığı ve söküm süreci\n\nTaşınma öncesinde mobilyaların hareketli parçaları ayrılır, bağlantı elemanları sınıflandırılır ve yüzeyler koruyucu malzemelerle sarılır. Bu yöntem hem araç içinde daha düzenli yerleşim sağlar hem de yeni adresteki montaj sürecini kolaylaştırır.\n\nGerçek çalışma görüntülerimizden bir kesit.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 www.evdenevegaziantep.com\n📲 WhatsApp: Profilimizdeki bağlantı\n\n#MobilyaSöküm #MobilyaMontaj #GaziantepNakliyat #EvdenEveNakliyat #BeyoğluTaşımacılık",
+        "fb": "🪛 Mobilya hazırlığı ve söküm süreci\n\nTaşınma öncesinde mobilyaların hareketli parçaları ayrılır, bağlantı elemanları sınıflandırılır ve yüzeyler koruyucu malzemelerle sarılır. Bu yöntem hem araç içinde daha düzenli yerleşim sağlar hem de yeni adresteki montaj sürecini kolaylaştırır.\n\nGerçek çalışma görüntülerimizden bir kesit.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com\n📲 WhatsApp: https://wa.me/905461122797?text=Merhaba%2C%20ta%C5%9F%C4%B1nma%20i%C3%A7in%20%C3%BCcretsiz%20ekspertiz%20ve%20fiyat%20almak%20istiyorum.\n\n#MobilyaSöküm #MobilyaMontaj #GaziantepNakliyat #EvdenEveNakliyat #BeyoğluTaşımacılık"
+      },
+      "platformlar": [
+        "instagram",
+        "facebook"
+      ],
+      "yayinlandi": false,
+      "kaynak": "Google Drive — profesyonel 30 günlük plan"
+    },
+    {
+      "id": "30g-07-story-whatsapp",
+      "tarih": "2026-10-01",
+      "slot": "ogle",
+      "tip": "story",
+      "dosyalar": [
+        "30gun/30g-story-whatsapp.jpg"
+      ],
+      "baslik": {
+        "ig": "WhatsApp'tan fiyat alın",
+        "fb": "WhatsApp'tan fiyat alın"
+      },
+      "aciklama": {
+        "ig": "Eşya fotoğraflarınızı, iki adresi ve kat bilgilerini WhatsApp üzerinden ileterek ön değerlendirme isteyebilirsiniz.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 www.evdenevegaziantep.com\n📲 WhatsApp: Profilimizdeki bağlantı\n\n#WhatsAppFiyat #GaziantepNakliyat #BeyoğluTaşımacılık",
+        "fb": "Eşya fotoğraflarınızı, iki adresi ve kat bilgilerini WhatsApp üzerinden ileterek ön değerlendirme isteyebilirsiniz.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com\n📲 WhatsApp: https://wa.me/905461122797?text=Merhaba%2C%20ta%C5%9F%C4%B1nma%20i%C3%A7in%20%C3%BCcretsiz%20ekspertiz%20ve%20fiyat%20almak%20istiyorum.\n\n#WhatsAppFiyat #GaziantepNakliyat #BeyoğluTaşımacılık"
+      },
+      "platformlar": [
+        "instagram",
+        "facebook"
+      ],
+      "yayinlandi": false,
+      "kaynak": "Google Drive — profesyonel 30 günlük plan"
+    },
+    {
+      "id": "30g-08-kamyon-ici",
+      "tarih": "2026-10-02",
+      "slot": "aksam",
+      "tip": "post",
+      "dosyalar": [
+        "30gun/30g-03-kamyon-ici.jpg"
+      ],
+      "baslik": {
+        "ig": "Kamyon içinde düzenli yükleme",
+        "fb": "Kamyon içinde düzenli yükleme"
+      },
+      "aciklama": {
+        "ig": "🚚 Kamyon içinde düzenli yükleme\n\nPaketleme kadar araç içi yerleşim de önemlidir. Ağır ve dayanıklı parçalar tabanda dengeli biçimde konumlandırılır; hassas eşyalar ayrı bölgelerde tutulur ve hareket etmeyecek şekilde sabitlenir.\n\nEşya miktarına uygun araç seçimi ve doğru yük dağılımı, güvenli taşımanın temel adımlarındandır.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 www.evdenevegaziantep.com\n📲 WhatsApp: Profilimizdeki bağlantı\n\n#NakliyeAracı #DüzenliYükleme #GaziantepNakliyat #EvdenEveNakliyat #BeyoğluTaşımacılık",
+        "fb": "🚚 Kamyon içinde düzenli yükleme\n\nPaketleme kadar araç içi yerleşim de önemlidir. Ağır ve dayanıklı parçalar tabanda dengeli biçimde konumlandırılır; hassas eşyalar ayrı bölgelerde tutulur ve hareket etmeyecek şekilde sabitlenir.\n\nEşya miktarına uygun araç seçimi ve doğru yük dağılımı, güvenli taşımanın temel adımlarındandır.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com\n📲 WhatsApp: https://wa.me/905461122797?text=Merhaba%2C%20ta%C5%9F%C4%B1nma%20i%C3%A7in%20%C3%BCcretsiz%20ekspertiz%20ve%20fiyat%20almak%20istiyorum.\n\n#NakliyeAracı #DüzenliYükleme #GaziantepNakliyat #EvdenEveNakliyat #BeyoğluTaşımacılık"
+      },
+      "platformlar": [
+        "instagram",
+        "facebook"
+      ],
+      "yayinlandi": false,
+      "kaynak": "Google Drive — profesyonel 30 günlük plan"
+    },
+    {
+      "id": "30g-09-kirmizi-paket-carousel",
+      "tarih": "2026-10-03",
+      "slot": "sabah",
+      "tip": "carousel",
+      "dosyalar": [
+        "30gun/30g-09-kirmizi-paket-1.jpg",
+        "30gun/30g-10-kirmizi-paket-2.jpg",
+        "30gun/30g-22-kirmizi-paket-3.jpg"
+      ],
+      "baslik": {
+        "ig": "Salon takımının paketlenmesi",
+        "fb": "Salon takımının paketlenmesi"
+      },
+      "aciklama": {
+        "ig": "🛋️ Salon takımının paketlenmesi\n\nKoltuk, berjer ve yüksek mobilyalarda köşeler, ayaklar ve çıkıntılı yüzeyler taşıma öncesinde ayrıca korunmalıdır. Parçaların tek tek sarılması ve doğru noktalardan sabitlenmesi, yüzey temasını ve hareketi azaltır.\n\nKaydırarak gerçek bir paketleme çalışmasının farklı aşamalarını inceleyebilirsiniz.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 www.evdenevegaziantep.com\n📲 WhatsApp: Profilimizdeki bağlantı\n\n#KoltukPaketleme #ProfesyonelPaketleme #GaziantepNakliyat #EvTaşıma #BeyoğluTaşımacılık",
+        "fb": "🛋️ Salon takımının paketlenmesi\n\nKoltuk, berjer ve yüksek mobilyalarda köşeler, ayaklar ve çıkıntılı yüzeyler taşıma öncesinde ayrıca korunmalıdır. Parçaların tek tek sarılması ve doğru noktalardan sabitlenmesi, yüzey temasını ve hareketi azaltır.\n\nKaydırarak gerçek bir paketleme çalışmasının farklı aşamalarını inceleyebilirsiniz.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com\n📲 WhatsApp: https://wa.me/905461122797?text=Merhaba%2C%20ta%C5%9F%C4%B1nma%20i%C3%A7in%20%C3%BCcretsiz%20ekspertiz%20ve%20fiyat%20almak%20istiyorum.\n\n#KoltukPaketleme #ProfesyonelPaketleme #GaziantepNakliyat #EvTaşıma #BeyoğluTaşımacılık"
+      },
+      "platformlar": [
+        "instagram",
+        "facebook"
+      ],
+      "yayinlandi": false,
+      "kaynak": "Google Drive — profesyonel 30 günlük plan"
+    },
+    {
+      "id": "30g-10-yuksek-kat",
+      "tarih": "2026-10-04",
+      "slot": "aksam",
+      "tip": "post",
+      "dosyalar": [
+        "30gun/30g-08-yuksek-kat.jpg"
+      ],
+      "baslik": {
+        "ig": "Yüksek kat operasyon planı",
+        "fb": "Yüksek kat operasyon planı"
+      },
+      "aciklama": {
+        "ig": "🏢 Yüksek kat taşımalarında operasyon planı\n\nKat sayısı, bina girişi, merdiven ve asansör ölçüleri, dış cephe erişimi ve araç park alanı taşıma öncesinde değerlendirilir. Uygun koşullarda dış cephe asansörü kullanılarak büyük eşyalar daha kısa bir taşıma hattı üzerinden indirilebilir.\n\nHer bina için yerinde değerlendirme yaparak uygun yöntemi belirliyoruz.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 www.evdenevegaziantep.com\n📲 WhatsApp: Profilimizdeki bağlantı\n\n#YüksekKatTaşıma #AsansörlüNakliyat #GaziantepNakliyat #EvdenEveNakliyat #BeyoğluTaşımacılık",
+        "fb": "🏢 Yüksek kat taşımalarında operasyon planı\n\nKat sayısı, bina girişi, merdiven ve asansör ölçüleri, dış cephe erişimi ve araç park alanı taşıma öncesinde değerlendirilir. Uygun koşullarda dış cephe asansörü kullanılarak büyük eşyalar daha kısa bir taşıma hattı üzerinden indirilebilir.\n\nHer bina için yerinde değerlendirme yaparak uygun yöntemi belirliyoruz.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com\n📲 WhatsApp: https://wa.me/905461122797?text=Merhaba%2C%20ta%C5%9F%C4%B1nma%20i%C3%A7in%20%C3%BCcretsiz%20ekspertiz%20ve%20fiyat%20almak%20istiyorum.\n\n#YüksekKatTaşıma #AsansörlüNakliyat #GaziantepNakliyat #EvdenEveNakliyat #BeyoğluTaşımacılık"
+      },
+      "platformlar": [
+        "instagram",
+        "facebook"
+      ],
+      "yayinlandi": false,
+      "kaynak": "Google Drive — profesyonel 30 günlük plan"
+    },
+    {
+      "id": "30g-11-paketleme-video",
+      "tarih": "2026-10-05",
+      "slot": "aksam",
+      "tip": "video",
+      "dosyalar": [
+        "video-paketleme-sureci-01.mp4"
+      ],
+      "baslik": {
+        "ig": "Oda bazlı paketleme süreci",
+        "fb": "Oda bazlı paketleme süreci"
+      },
+      "aciklama": {
+        "ig": "🎥 Oda bazlı paketleme süreci\n\nEşyaların ait oldukları odaya göre gruplandırılması, paketlerin karışmasını önler ve yeni adresteki yerleştirmeyi hızlandırır. Büyük parçalar koruyucu malzemelerle sarılır; küçük parçalar kutulanır ve ilgili oda bilgisiyle işaretlenir.\n\nBu videoda gerçek bir çalışma alanındaki hazırlık sürecini görebilirsiniz.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 www.evdenevegaziantep.com\n📲 WhatsApp: Profilimizdeki bağlantı\n\n#PaketlemeSüreci #OdaBazlıPaketleme #GaziantepNakliyat #EvdenEveNakliyat #BeyoğluTaşımacılık",
+        "fb": "🎥 Oda bazlı paketleme süreci\n\nEşyaların ait oldukları odaya göre gruplandırılması, paketlerin karışmasını önler ve yeni adresteki yerleştirmeyi hızlandırır. Büyük parçalar koruyucu malzemelerle sarılır; küçük parçalar kutulanır ve ilgili oda bilgisiyle işaretlenir.\n\nBu videoda gerçek bir çalışma alanındaki hazırlık sürecini görebilirsiniz.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com\n📲 WhatsApp: https://wa.me/905461122797?text=Merhaba%2C%20ta%C5%9F%C4%B1nma%20i%C3%A7in%20%C3%BCcretsiz%20ekspertiz%20ve%20fiyat%20almak%20istiyorum.\n\n#PaketlemeSüreci #OdaBazlıPaketleme #GaziantepNakliyat #EvdenEveNakliyat #BeyoğluTaşımacılık"
+      },
+      "platformlar": [
+        "instagram",
+        "facebook"
+      ],
+      "yayinlandi": false,
+      "kaynak": "Google Drive — profesyonel 30 günlük plan"
+    },
+    {
+      "id": "30g-12-story-paketleme",
+      "tarih": "2026-10-06",
+      "slot": "ogle",
+      "tip": "story",
+      "dosyalar": [
+        "30gun/30g-story-paketleme.jpg"
+      ],
+      "baslik": {
+        "ig": "Profesyonel ambalajlama",
+        "fb": "Profesyonel ambalajlama"
+      },
+      "aciklama": {
+        "ig": "Mobilya ve hassas eşyaları yapılarına uygun koruyucu malzemelerle hazırlıyoruz.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 www.evdenevegaziantep.com\n📲 WhatsApp: Profilimizdeki bağlantı\n\n#ProfesyonelPaketleme #EvdenEveNakliyat #BeyoğluTaşımacılık",
+        "fb": "Mobilya ve hassas eşyaları yapılarına uygun koruyucu malzemelerle hazırlıyoruz.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com\n📲 WhatsApp: https://wa.me/905461122797?text=Merhaba%2C%20ta%C5%9F%C4%B1nma%20i%C3%A7in%20%C3%BCcretsiz%20ekspertiz%20ve%20fiyat%20almak%20istiyorum.\n\n#ProfesyonelPaketleme #EvdenEveNakliyat #BeyoğluTaşımacılık"
+      },
+      "platformlar": [
+        "instagram",
+        "facebook"
+      ],
+      "yayinlandi": false,
+      "kaynak": "Google Drive — profesyonel 30 günlük plan"
+    },
+    {
+      "id": "30g-13-sehirlerarasi-yol",
+      "tarih": "2026-10-07",
+      "slot": "aksam",
+      "tip": "post",
+      "dosyalar": [
+        "30gun/30g-11-yolda-kamyon.jpg"
+      ],
+      "baslik": {
+        "ig": "Şehirlerarası nakliyatta planlama",
+        "fb": "Şehirlerarası nakliyatta planlama"
+      },
+      "aciklama": {
+        "ig": "🛣️ Şehirlerarası nakliyatta planlama\n\nUzun mesafeli taşınmalarda eşya listesi, ambalajlama yöntemi, araç seçimi, çıkış zamanı, güzergâh ve teslimat planı önceden netleştirilmelidir.\n\nGaziantep’ten Türkiye geneline gerçekleştirdiğimiz taşımalarda süreci baştan sona planlıyor ve müşterilerimizi aşamalar hakkında bilgilendiriyoruz.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 www.evdenevegaziantep.com\n📲 WhatsApp: Profilimizdeki bağlantı\n\n#ŞehirlerarasıNakliyat #TürkiyeGeneliNakliyat #GaziantepNakliyat #EvdenEveNakliyat #BeyoğluTaşımacılık",
+        "fb": "🛣️ Şehirlerarası nakliyatta planlama\n\nUzun mesafeli taşınmalarda eşya listesi, ambalajlama yöntemi, araç seçimi, çıkış zamanı, güzergâh ve teslimat planı önceden netleştirilmelidir.\n\nGaziantep’ten Türkiye geneline gerçekleştirdiğimiz taşımalarda süreci baştan sona planlıyor ve müşterilerimizi aşamalar hakkında bilgilendiriyoruz.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com\n📲 WhatsApp: https://wa.me/905461122797?text=Merhaba%2C%20ta%C5%9F%C4%B1nma%20i%C3%A7in%20%C3%BCcretsiz%20ekspertiz%20ve%20fiyat%20almak%20istiyorum.\n\n#ŞehirlerarasıNakliyat #TürkiyeGeneliNakliyat #GaziantepNakliyat #EvdenEveNakliyat #BeyoğluTaşımacılık"
+      },
+      "platformlar": [
+        "instagram",
+        "facebook"
+      ],
+      "yayinlandi": false,
+      "kaynak": "Google Drive — profesyonel 30 günlük plan"
+    },
+    {
+      "id": "30g-14-mavi-ambalaj",
+      "tarih": "2026-10-08",
+      "slot": "ogle",
+      "tip": "post",
+      "dosyalar": [
+        "30gun/30g-12-mavi-paket-1.jpg"
+      ],
+      "baslik": {
+        "ig": "Koruyucu ambalaj neden önemlidir?",
+        "fb": "Koruyucu ambalaj neden önemlidir?"
+      },
+      "aciklama": {
+        "ig": "💙 Koruyucu ambalaj neden önemlidir?\n\nMobilyaların yüzeyini toz, sürtünme ve darbelere karşı korumak için eşyanın ölçüsüne uygun ambalaj kullanılmalıdır. Kapaklar, köşeler ve hareketli bölümler ayrıca sabitlenerek taşıma sırasında açılmaları önlenir.\n\nHazırlık tamamlandığında her parça düzenli biçimde yüklemeye alınır.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 www.evdenevegaziantep.com\n📲 WhatsApp: Profilimizdeki bağlantı\n\n#KoruyucuAmbalaj #ProfesyonelPaketleme #GaziantepNakliyat #MobilyaTaşıma #BeyoğluTaşımacılık",
+        "fb": "💙 Koruyucu ambalaj neden önemlidir?\n\nMobilyaların yüzeyini toz, sürtünme ve darbelere karşı korumak için eşyanın ölçüsüne uygun ambalaj kullanılmalıdır. Kapaklar, köşeler ve hareketli bölümler ayrıca sabitlenerek taşıma sırasında açılmaları önlenir.\n\nHazırlık tamamlandığında her parça düzenli biçimde yüklemeye alınır.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com\n📲 WhatsApp: https://wa.me/905461122797?text=Merhaba%2C%20ta%C5%9F%C4%B1nma%20i%C3%A7in%20%C3%BCcretsiz%20ekspertiz%20ve%20fiyat%20almak%20istiyorum.\n\n#KoruyucuAmbalaj #ProfesyonelPaketleme #GaziantepNakliyat #MobilyaTaşıma #BeyoğluTaşımacılık"
+      },
+      "platformlar": [
+        "instagram",
+        "facebook"
+      ],
+      "yayinlandi": false,
+      "kaynak": "Google Drive — profesyonel 30 günlük plan"
+    },
+    {
+      "id": "30g-15-mavi-carousel",
+      "tarih": "2026-10-09",
+      "slot": "aksam",
+      "tip": "carousel",
+      "dosyalar": [
+        "30gun/30g-13-mavi-paket-2.jpg",
+        "30gun/30g-14-mavi-paket-3.jpg",
+        "30gun/30g-15-yuk-hazirligi.jpg",
+        "30gun/30g-16-koltuk-koruma.jpg",
+        "30gun/30g-17-yatak-koruma.jpg"
+      ],
+      "baslik": {
+        "ig": "Oda oda paketleme ve yük hazırlığı",
+        "fb": "Oda oda paketleme ve yük hazırlığı"
+      },
+      "aciklama": {
+        "ig": "📦 Oda oda paketleme ve yük hazırlığı\n\nBu gerçek çalışmada dolap, masa, koltuk ve yatak gibi farklı eşya gruplarının ayrı ayrı koruma altına alındığını görebilirsiniz.\n\n✅ Eşya türüne uygun sarım\n✅ Köşe ve yüzey koruması\n✅ Oda bazlı gruplandırma\n✅ Araç öncesi düzenli hazırlık\n\nKaydırarak paketleme ayrıntılarını inceleyin.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 www.evdenevegaziantep.com\n📲 WhatsApp: Profilimizdeki bağlantı\n\n#Paketleme #EvTaşıma #GaziantepNakliyat #MobilyaKoruma #BeyoğluTaşımacılık",
+        "fb": "📦 Oda oda paketleme ve yük hazırlığı\n\nBu gerçek çalışmada dolap, masa, koltuk ve yatak gibi farklı eşya gruplarının ayrı ayrı koruma altına alındığını görebilirsiniz.\n\n✅ Eşya türüne uygun sarım\n✅ Köşe ve yüzey koruması\n✅ Oda bazlı gruplandırma\n✅ Araç öncesi düzenli hazırlık\n\nKaydırarak paketleme ayrıntılarını inceleyin.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com\n📲 WhatsApp: https://wa.me/905461122797?text=Merhaba%2C%20ta%C5%9F%C4%B1nma%20i%C3%A7in%20%C3%BCcretsiz%20ekspertiz%20ve%20fiyat%20almak%20istiyorum.\n\n#Paketleme #EvTaşıma #GaziantepNakliyat #MobilyaKoruma #BeyoğluTaşımacılık"
+      },
+      "platformlar": [
+        "instagram",
+        "facebook"
+      ],
+      "yayinlandi": false,
+      "kaynak": "Google Drive — profesyonel 30 günlük plan"
+    },
+    {
+      "id": "30g-16-story-asansor",
+      "tarih": "2026-10-10",
+      "slot": "sabah",
+      "tip": "story",
+      "dosyalar": [
+        "30gun/30g-story-asansor.jpg"
+      ],
+      "baslik": {
+        "ig": "20. kata kadar asansörlü taşıma",
+        "fb": "20. kata kadar asansörlü taşıma"
+      },
+      "aciklama": {
+        "ig": "Bina ve çevre koşullarının uygunluğu ekip tarafından değerlendirildikten sonra dış cephe asansörü kurulur.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 www.evdenevegaziantep.com\n📲 WhatsApp: Profilimizdeki bağlantı\n\n#AsansörlüTaşımacılık #GaziantepNakliyat #BeyoğluTaşımacılık",
+        "fb": "Bina ve çevre koşullarının uygunluğu ekip tarafından değerlendirildikten sonra dış cephe asansörü kurulur.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com\n📲 WhatsApp: https://wa.me/905461122797?text=Merhaba%2C%20ta%C5%9F%C4%B1nma%20i%C3%A7in%20%C3%BCcretsiz%20ekspertiz%20ve%20fiyat%20almak%20istiyorum.\n\n#AsansörlüTaşımacılık #GaziantepNakliyat #BeyoğluTaşımacılık"
+      },
+      "platformlar": [
+        "instagram",
+        "facebook"
+      ],
+      "yayinlandi": false,
+      "kaynak": "Google Drive — profesyonel 30 günlük plan"
+    },
+    {
+      "id": "30g-17-hassas-sabitleme",
+      "tarih": "2026-10-11",
+      "slot": "aksam",
+      "tip": "post",
+      "dosyalar": [
+        "30gun/30g-24-hassas-ikili.jpg"
+      ],
+      "baslik": {
+        "ig": "Hassas parçaların sabitlenmesi",
+        "fb": "Hassas parçaların sabitlenmesi"
+      },
+      "aciklama": {
+        "ig": "🔒 Hassas parçaların sabitlenmesi\n\nPaketlenen eşyaların şekline uygun bağlantı ve sabitleme noktaları kullanılmalıdır. Özellikle köşeli mobilyalarda koruyucu katmanın kaymaması ve parçaların birbirine temas etmemesi önemlidir.\n\nTaşıma öncesi son kontrol, yükleme aşamasındaki riskleri azaltır.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 www.evdenevegaziantep.com\n📲 WhatsApp: Profilimizdeki bağlantı\n\n#HassasEşyaTaşıma #ProfesyonelPaketleme #GaziantepNakliyat #EvTaşıma #BeyoğluTaşımacılık",
+        "fb": "🔒 Hassas parçaların sabitlenmesi\n\nPaketlenen eşyaların şekline uygun bağlantı ve sabitleme noktaları kullanılmalıdır. Özellikle köşeli mobilyalarda koruyucu katmanın kaymaması ve parçaların birbirine temas etmemesi önemlidir.\n\nTaşıma öncesi son kontrol, yükleme aşamasındaki riskleri azaltır.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com\n📲 WhatsApp: https://wa.me/905461122797?text=Merhaba%2C%20ta%C5%9F%C4%B1nma%20i%C3%A7in%20%C3%BCcretsiz%20ekspertiz%20ve%20fiyat%20almak%20istiyorum.\n\n#HassasEşyaTaşıma #ProfesyonelPaketleme #GaziantepNakliyat #EvTaşıma #BeyoğluTaşımacılık"
+      },
+      "platformlar": [
+        "instagram",
+        "facebook"
+      ],
+      "yayinlandi": false,
+      "kaynak": "Google Drive — profesyonel 30 günlük plan"
+    },
+    {
+      "id": "30g-18-ekip-sahada",
+      "tarih": "2026-10-12",
+      "slot": "aksam",
+      "tip": "post",
+      "dosyalar": [
+        "30gun/30g-18-ekip-sahada.jpg"
+      ],
+      "baslik": {
+        "ig": "Deneyimli ekip, kontrollü süreç",
+        "fb": "Deneyimli ekip, kontrollü süreç"
+      },
+      "aciklama": {
+        "ig": "👷 Deneyimli ekip, kontrollü süreç\n\nProfesyonel taşımacılık; görev dağılımı, doğru ekipman kullanımı ve ekip içi koordinasyon gerektirir. Paketleme, yükleme, taşıma ve montaj aşamalarında sorumlulukların belirli olması işin düzenli ilerlemesini sağlar.\n\nTaşınma sürecinizi tek bir plan ve muhatap üzerinden yönetiyoruz.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 www.evdenevegaziantep.com\n📲 WhatsApp: Profilimizdeki bağlantı\n\n#DeneyimliEkip #ProfesyonelTaşımacılık #GaziantepNakliyat #EvdenEveNakliyat #BeyoğluTaşımacılık",
+        "fb": "👷 Deneyimli ekip, kontrollü süreç\n\nProfesyonel taşımacılık; görev dağılımı, doğru ekipman kullanımı ve ekip içi koordinasyon gerektirir. Paketleme, yükleme, taşıma ve montaj aşamalarında sorumlulukların belirli olması işin düzenli ilerlemesini sağlar.\n\nTaşınma sürecinizi tek bir plan ve muhatap üzerinden yönetiyoruz.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com\n📲 WhatsApp: https://wa.me/905461122797?text=Merhaba%2C%20ta%C5%9F%C4%B1nma%20i%C3%A7in%20%C3%BCcretsiz%20ekspertiz%20ve%20fiyat%20almak%20istiyorum.\n\n#DeneyimliEkip #ProfesyonelTaşımacılık #GaziantepNakliyat #EvdenEveNakliyat #BeyoğluTaşımacılık"
+      },
+      "platformlar": [
+        "instagram",
+        "facebook"
+      ],
+      "yayinlandi": false,
+      "kaynak": "Google Drive — profesyonel 30 günlük plan"
+    },
+    {
+      "id": "30g-19-story-ekip",
+      "tarih": "2026-10-13",
+      "slot": "ogle",
+      "tip": "story",
+      "dosyalar": [
+        "30gun/30g-story-ekip.jpg"
+      ],
+      "baslik": {
+        "ig": "Deneyimli ekip",
+        "fb": "Deneyimli ekip"
+      },
+      "aciklama": {
+        "ig": "Paketlemeden montaja kadar taşınma sürecinizi planlı ve koordineli şekilde yürütüyoruz.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 www.evdenevegaziantep.com\n📲 WhatsApp: Profilimizdeki bağlantı\n\n#ProfesyonelTaşımacılık #GaziantepNakliyat #BeyoğluTaşımacılık",
+        "fb": "Paketlemeden montaja kadar taşınma sürecinizi planlı ve koordineli şekilde yürütüyoruz.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com\n📲 WhatsApp: https://wa.me/905461122797?text=Merhaba%2C%20ta%C5%9F%C4%B1nma%20i%C3%A7in%20%C3%BCcretsiz%20ekspertiz%20ve%20fiyat%20almak%20istiyorum.\n\n#ProfesyonelTaşımacılık #GaziantepNakliyat #BeyoğluTaşımacılık"
+      },
+      "platformlar": [
+        "instagram",
+        "facebook"
+      ],
+      "yayinlandi": false,
+      "kaynak": "Google Drive — profesyonel 30 günlük plan"
+    },
+    {
+      "id": "30g-20-renkli-paketler",
+      "tarih": "2026-10-14",
+      "slot": "aksam",
+      "tip": "post",
+      "dosyalar": [
+        "30gun/30g-23-renkli-paketler.jpg"
+      ],
+      "baslik": {
+        "ig": "Oda bazlı ambalajlama",
+        "fb": "Oda bazlı ambalajlama"
+      },
+      "aciklama": {
+        "ig": "🗂️ Oda bazlı ambalajlama\n\nPaketlerin oda ve eşya grubuna göre ayrılması, hem araç içi sıralamayı hem de yeni adresteki teslimatı kolaylaştırır. Büyük mobilyalar koruyucu katmanlarla sarılır; küçük parçalar etiketli kutularda taşınır.\n\nDüzenli hazırlık, taşınma gününde zaman kaybını azaltır.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 www.evdenevegaziantep.com\n📲 WhatsApp: Profilimizdeki bağlantı\n\n#OdaBazlıPaketleme #DüzenliTaşıma #GaziantepNakliyat #EvdenEveNakliyat #BeyoğluTaşımacılık",
+        "fb": "🗂️ Oda bazlı ambalajlama\n\nPaketlerin oda ve eşya grubuna göre ayrılması, hem araç içi sıralamayı hem de yeni adresteki teslimatı kolaylaştırır. Büyük mobilyalar koruyucu katmanlarla sarılır; küçük parçalar etiketli kutularda taşınır.\n\nDüzenli hazırlık, taşınma gününde zaman kaybını azaltır.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com\n📲 WhatsApp: https://wa.me/905461122797?text=Merhaba%2C%20ta%C5%9F%C4%B1nma%20i%C3%A7in%20%C3%BCcretsiz%20ekspertiz%20ve%20fiyat%20almak%20istiyorum.\n\n#OdaBazlıPaketleme #DüzenliTaşıma #GaziantepNakliyat #EvdenEveNakliyat #BeyoğluTaşımacılık"
+      },
+      "platformlar": [
+        "instagram",
+        "facebook"
+      ],
+      "yayinlandi": false,
+      "kaynak": "Google Drive — profesyonel 30 günlük plan"
+    },
+    {
+      "id": "30g-21-asansor-carousel",
+      "tarih": "2026-10-15",
+      "slot": "ogle",
+      "tip": "carousel",
+      "dosyalar": [
+        "30gun/30g-07-asansor-bina.jpg",
+        "30gun/30g-08-yuksek-kat.jpg",
+        "30gun/30g-21-kirmizi-kamyon.jpg"
+      ],
+      "baslik": {
+        "ig": "Asansörlü taşıma için ön kontrol",
+        "fb": "Asansörlü taşıma için ön kontrol"
+      },
+      "aciklama": {
+        "ig": "🏗️ Asansörlü taşıma için ön kontrol\n\nDış cephe asansörü kurulmadan önce şu noktaları değerlendiriyoruz:\n\n✅ Bina cephesi ve erişim yüksekliği\n✅ Balkon veya pencere açıklığı\n✅ Araç ve asansör için çalışma alanı\n✅ Zemin eğimi ve çevre güvenliği\n✅ Eşya miktarı ve taşıma sırası\n\nBu değerlendirme sonucunda binaya uygun operasyon planı hazırlanır.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 www.evdenevegaziantep.com\n📲 WhatsApp: Profilimizdeki bağlantı\n\n#AsansörlüTaşıma #ÜcretsizEkspertiz #GaziantepNakliyat #YüksekKatTaşıma #BeyoğluTaşımacılık",
+        "fb": "🏗️ Asansörlü taşıma için ön kontrol\n\nDış cephe asansörü kurulmadan önce şu noktaları değerlendiriyoruz:\n\n✅ Bina cephesi ve erişim yüksekliği\n✅ Balkon veya pencere açıklığı\n✅ Araç ve asansör için çalışma alanı\n✅ Zemin eğimi ve çevre güvenliği\n✅ Eşya miktarı ve taşıma sırası\n\nBu değerlendirme sonucunda binaya uygun operasyon planı hazırlanır.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com\n📲 WhatsApp: https://wa.me/905461122797?text=Merhaba%2C%20ta%C5%9F%C4%B1nma%20i%C3%A7in%20%C3%BCcretsiz%20ekspertiz%20ve%20fiyat%20almak%20istiyorum.\n\n#AsansörlüTaşıma #ÜcretsizEkspertiz #GaziantepNakliyat #YüksekKatTaşıma #BeyoğluTaşımacılık"
+      },
+      "platformlar": [
+        "instagram",
+        "facebook"
+      ],
+      "yayinlandi": false,
+      "kaynak": "Google Drive — profesyonel 30 günlük plan"
+    },
+    {
+      "id": "30g-22-salon-koruma",
+      "tarih": "2026-10-16",
+      "slot": "aksam",
+      "tip": "post",
+      "dosyalar": [
+        "30gun/30g-22-kirmizi-paket-3.jpg"
+      ],
+      "baslik": {
+        "ig": "Salon mobilyalarında yüzey koruma",
+        "fb": "Salon mobilyalarında yüzey koruma"
+      },
+      "aciklama": {
+        "ig": "🛋️ Salon mobilyalarında yüzey koruma\n\nKoltuk ve berjerlerde kumaş yüzeyi, ahşap bölümler, ayaklar ve köşeler ayrı ayrı değerlendirilir. Koruyucu malzemenin yüzeye tam oturması ve taşıma sırasında kaymaması için uygun noktalardan sabitleme yapılır.\n\nHer mobilya, yapısına uygun şekilde hazırlanır.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 www.evdenevegaziantep.com\n📲 WhatsApp: Profilimizdeki bağlantı\n\n#KoltukPaketleme #MobilyaKoruma #GaziantepNakliyat #EvTaşıma #BeyoğluTaşımacılık",
+        "fb": "🛋️ Salon mobilyalarında yüzey koruma\n\nKoltuk ve berjerlerde kumaş yüzeyi, ahşap bölümler, ayaklar ve köşeler ayrı ayrı değerlendirilir. Koruyucu malzemenin yüzeye tam oturması ve taşıma sırasında kaymaması için uygun noktalardan sabitleme yapılır.\n\nHer mobilya, yapısına uygun şekilde hazırlanır.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com\n📲 WhatsApp: https://wa.me/905461122797?text=Merhaba%2C%20ta%C5%9F%C4%B1nma%20i%C3%A7in%20%C3%BCcretsiz%20ekspertiz%20ve%20fiyat%20almak%20istiyorum.\n\n#KoltukPaketleme #MobilyaKoruma #GaziantepNakliyat #EvTaşıma #BeyoğluTaşımacılık"
+      },
+      "platformlar": [
+        "instagram",
+        "facebook"
+      ],
+      "yayinlandi": false,
+      "kaynak": "Google Drive — profesyonel 30 günlük plan"
+    },
+    {
+      "id": "30g-23-story-sehirlerarasi",
+      "tarih": "2026-10-17",
+      "slot": "sabah",
+      "tip": "story",
+      "dosyalar": [
+        "30gun/30g-story-sehirlerarasi.jpg"
+      ],
+      "baslik": {
+        "ig": "Türkiye geneli şehirlerarası nakliyat",
+        "fb": "Türkiye geneli şehirlerarası nakliyat"
+      },
+      "aciklama": {
+        "ig": "Gaziantep çıkışlı şehirlerarası taşınmalar için güzergâh ve teslimat planınızı birlikte oluşturalım.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 www.evdenevegaziantep.com\n📲 WhatsApp: Profilimizdeki bağlantı\n\n#ŞehirlerarasıNakliyat #TürkiyeGeneli #BeyoğluTaşımacılık",
+        "fb": "Gaziantep çıkışlı şehirlerarası taşınmalar için güzergâh ve teslimat planınızı birlikte oluşturalım.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com\n📲 WhatsApp: https://wa.me/905461122797?text=Merhaba%2C%20ta%C5%9F%C4%B1nma%20i%C3%A7in%20%C3%BCcretsiz%20ekspertiz%20ve%20fiyat%20almak%20istiyorum.\n\n#ŞehirlerarasıNakliyat #TürkiyeGeneli #BeyoğluTaşımacılık"
+      },
+      "platformlar": [
+        "instagram",
+        "facebook"
+      ],
+      "yayinlandi": false,
+      "kaynak": "Google Drive — profesyonel 30 günlük plan"
+    },
+    {
+      "id": "30g-24-duzenli-oda",
+      "tarih": "2026-10-18",
+      "slot": "aksam",
+      "tip": "post",
+      "dosyalar": [
+        "30gun/30g-06-duzenli-oda.jpg"
+      ],
+      "baslik": {
+        "ig": "Etiketleme ve düzenli teslimat",
+        "fb": "Etiketleme ve düzenli teslimat"
+      },
+      "aciklama": {
+        "ig": "🏷️ Etiketleme ve düzenli teslimat\n\nPaketlerin hangi odaya ve eşya grubuna ait olduğunun işaretlenmesi, yeni adresteki yerleştirme sürecini kolaylaştırır. Montaj sırası gerektiren parçalar ayrıca ayrılır ve bağlantı elemanları düzenli biçimde saklanır.\n\nPlanlı paketleme, teslimat sonrasında oluşabilecek karışıklığı azaltır.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 www.evdenevegaziantep.com\n📲 WhatsApp: Profilimizdeki bağlantı\n\n#DüzenliTeslimat #OdaBazlıPaketleme #GaziantepNakliyat #EvdenEveNakliyat #BeyoğluTaşımacılık",
+        "fb": "🏷️ Etiketleme ve düzenli teslimat\n\nPaketlerin hangi odaya ve eşya grubuna ait olduğunun işaretlenmesi, yeni adresteki yerleştirme sürecini kolaylaştırır. Montaj sırası gerektiren parçalar ayrıca ayrılır ve bağlantı elemanları düzenli biçimde saklanır.\n\nPlanlı paketleme, teslimat sonrasında oluşabilecek karışıklığı azaltır.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com\n📲 WhatsApp: https://wa.me/905461122797?text=Merhaba%2C%20ta%C5%9F%C4%B1nma%20i%C3%A7in%20%C3%BCcretsiz%20ekspertiz%20ve%20fiyat%20almak%20istiyorum.\n\n#DüzenliTeslimat #OdaBazlıPaketleme #GaziantepNakliyat #EvdenEveNakliyat #BeyoğluTaşımacılık"
+      },
+      "platformlar": [
+        "instagram",
+        "facebook"
+      ],
+      "yayinlandi": false,
+      "kaynak": "Google Drive — profesyonel 30 günlük plan"
+    },
+    {
+      "id": "30g-25-ambalaj-detay-carousel",
+      "tarih": "2026-10-19",
+      "slot": "aksam",
+      "tip": "carousel",
+      "dosyalar": [
+        "30gun/30g-19-saha-calisma.jpg",
+        "30gun/30g-20-mavi-ambalaj.jpg",
+        "30gun/30g-25-ambalaj-detay.jpg",
+        "30gun/30g-01-desenli-paketleme.jpg"
+      ],
+      "baslik": {
+        "ig": "Ambalajlama ayrıntıları",
+        "fb": "Ambalajlama ayrıntıları"
+      },
+      "aciklama": {
+        "ig": "🔍 Ambalajlama ayrıntıları\n\nCam, ayna, mobilya, beyaz eşya ve tekstil ürünleri aynı yöntemle paketlenmez. Her eşya grubunda yüzey, köşe, hareketli parça ve bağlantı noktaları ayrı ayrı korunmalıdır.\n\nBu kaydırmalı gönderide gerçek çalışmalarımızdan farklı ambalajlama örneklerini görebilirsiniz.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 www.evdenevegaziantep.com\n📲 WhatsApp: Profilimizdeki bağlantı\n\n#Ambalajlama #HassasEşyaTaşıma #GaziantepNakliyat #EvdenEveNakliyat #BeyoğluTaşımacılık",
+        "fb": "🔍 Ambalajlama ayrıntıları\n\nCam, ayna, mobilya, beyaz eşya ve tekstil ürünleri aynı yöntemle paketlenmez. Her eşya grubunda yüzey, köşe, hareketli parça ve bağlantı noktaları ayrı ayrı korunmalıdır.\n\nBu kaydırmalı gönderide gerçek çalışmalarımızdan farklı ambalajlama örneklerini görebilirsiniz.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com\n📲 WhatsApp: https://wa.me/905461122797?text=Merhaba%2C%20ta%C5%9F%C4%B1nma%20i%C3%A7in%20%C3%BCcretsiz%20ekspertiz%20ve%20fiyat%20almak%20istiyorum.\n\n#Ambalajlama #HassasEşyaTaşıma #GaziantepNakliyat #EvdenEveNakliyat #BeyoğluTaşımacılık"
+      },
+      "platformlar": [
+        "instagram",
+        "facebook"
+      ],
+      "yayinlandi": false,
+      "kaynak": "Google Drive — profesyonel 30 günlük plan"
+    },
+    {
+      "id": "30g-26-story-plan",
+      "tarih": "2026-10-20",
+      "slot": "ogle",
+      "tip": "story",
+      "dosyalar": [
+        "30gun/30g-story-ekspertiz.jpg"
+      ],
+      "baslik": {
+        "ig": "Taşınma planı ve ekspertiz",
+        "fb": "Taşınma planı ve ekspertiz"
+      },
+      "aciklama": {
+        "ig": "Adres, kat, eşya ve tarih bilgilerinizi paylaşın; ihtiyaçlarınıza uygun taşıma planını oluşturalım.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 www.evdenevegaziantep.com\n📲 WhatsApp: Profilimizdeki bağlantı\n\n#ÜcretsizEkspertiz #TaşınmaPlanı #BeyoğluTaşımacılık",
+        "fb": "Adres, kat, eşya ve tarih bilgilerinizi paylaşın; ihtiyaçlarınıza uygun taşıma planını oluşturalım.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com\n📲 WhatsApp: https://wa.me/905461122797?text=Merhaba%2C%20ta%C5%9F%C4%B1nma%20i%C3%A7in%20%C3%BCcretsiz%20ekspertiz%20ve%20fiyat%20almak%20istiyorum.\n\n#ÜcretsizEkspertiz #TaşınmaPlanı #BeyoğluTaşımacılık"
+      },
+      "platformlar": [
+        "instagram",
+        "facebook"
+      ],
+      "yayinlandi": false,
+      "kaynak": "Google Drive — profesyonel 30 günlük plan"
+    },
+    {
+      "id": "30g-27-gaziantep-arac",
+      "tarih": "2026-10-21",
+      "slot": "aksam",
+      "tip": "post",
+      "dosyalar": [
+        "30gun/30g-21-kirmizi-kamyon.jpg"
+      ],
+      "baslik": {
+        "ig": "Gaziantep şehir içi taşıma",
+        "fb": "Gaziantep şehir içi taşıma"
+      },
+      "aciklama": {
+        "ig": "📍 Gaziantep şehir içi taşıma\n\nŞahinbey, Şehitkamil ve çevresindeki taşınmalarda bina koşulları, kat bilgileri, eşya miktarı ve iki adres arasındaki mesafeye göre ekip ve araç planlaması yapıyoruz.\n\nTaşınma tarihinizi önceden belirleyerek ücretsiz ekspertiz randevusu oluşturabilirsiniz.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 www.evdenevegaziantep.com\n📲 WhatsApp: Profilimizdeki bağlantı\n\n#GaziantepNakliyat #ŞahinbeyNakliyat #ŞehitkamilNakliyat #EvdenEveNakliyat #BeyoğluTaşımacılık",
+        "fb": "📍 Gaziantep şehir içi taşıma\n\nŞahinbey, Şehitkamil ve çevresindeki taşınmalarda bina koşulları, kat bilgileri, eşya miktarı ve iki adres arasındaki mesafeye göre ekip ve araç planlaması yapıyoruz.\n\nTaşınma tarihinizi önceden belirleyerek ücretsiz ekspertiz randevusu oluşturabilirsiniz.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com\n📲 WhatsApp: https://wa.me/905461122797?text=Merhaba%2C%20ta%C5%9F%C4%B1nma%20i%C3%A7in%20%C3%BCcretsiz%20ekspertiz%20ve%20fiyat%20almak%20istiyorum.\n\n#GaziantepNakliyat #ŞahinbeyNakliyat #ŞehitkamilNakliyat #EvdenEveNakliyat #BeyoğluTaşımacılık"
+      },
+      "platformlar": [
+        "instagram",
+        "facebook"
+      ],
+      "yayinlandi": false,
+      "kaynak": "Google Drive — profesyonel 30 günlük plan"
+    },
+    {
+      "id": "30g-28-yukleme-dengesi",
+      "tarih": "2026-10-22",
+      "slot": "ogle",
+      "tip": "post",
+      "dosyalar": [
+        "30gun/30g-04-yuklu-kamyon.jpg"
+      ],
+      "baslik": {
+        "ig": "Kamyon içinde hacim ve ağırlık dengesi",
+        "fb": "Kamyon içinde hacim ve ağırlık dengesi"
+      },
+      "aciklama": {
+        "ig": "⚖️ Kamyon içinde hacim ve ağırlık dengesi\n\nAraç içi yerleşimde yalnızca boş alanı doldurmak yeterli değildir. Ağır parçaların dengeli konumlandırılması, hassas paketlerin basınç altında kalmaması ve yükün hareket etmeyecek şekilde sabitlenmesi gerekir.\n\nDoğru yükleme planı, taşıma sürecinin önemli bir parçasıdır.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 www.evdenevegaziantep.com\n📲 WhatsApp: Profilimizdeki bağlantı\n\n#DengeliYükleme #NakliyeAracı #GaziantepNakliyat #ProfesyonelTaşımacılık #BeyoğluTaşımacılık",
+        "fb": "⚖️ Kamyon içinde hacim ve ağırlık dengesi\n\nAraç içi yerleşimde yalnızca boş alanı doldurmak yeterli değildir. Ağır parçaların dengeli konumlandırılması, hassas paketlerin basınç altında kalmaması ve yükün hareket etmeyecek şekilde sabitlenmesi gerekir.\n\nDoğru yükleme planı, taşıma sürecinin önemli bir parçasıdır.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com\n📲 WhatsApp: https://wa.me/905461122797?text=Merhaba%2C%20ta%C5%9F%C4%B1nma%20i%C3%A7in%20%C3%BCcretsiz%20ekspertiz%20ve%20fiyat%20almak%20istiyorum.\n\n#DengeliYükleme #NakliyeAracı #GaziantepNakliyat #ProfesyonelTaşımacılık #BeyoğluTaşımacılık"
+      },
+      "platformlar": [
+        "instagram",
+        "facebook"
+      ],
+      "yayinlandi": false,
+      "kaynak": "Google Drive — profesyonel 30 günlük plan"
+    },
+    {
+      "id": "30g-29-kurumsal-video",
+      "tarih": "2026-10-23",
+      "slot": "aksam",
+      "tip": "video",
+      "dosyalar": [
+        "tanitim-filmi.mp4"
+      ],
+      "baslik": {
+        "ig": "Beyoğlu Taşımacılık hizmetleri",
+        "fb": "Beyoğlu Taşımacılık hizmetleri"
+      },
+      "aciklama": {
+        "ig": "🎬 Beyoğlu Taşımacılık hizmetleri\n\nGaziantep içi ve şehirlerarası taşınmalarda; ekspertiz, profesyonel ambalajlama, mobilya söküm ve montajı, uygun araç seçimi ve 20. kata kadar asansörlü taşıma hizmetlerini tek plan altında sunuyoruz.\n\nTaşınma sürecinizi başlamadan önce netleştirmek için bizimle iletişime geçebilirsiniz.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 www.evdenevegaziantep.com\n📲 WhatsApp: Profilimizdeki bağlantı\n\n#BeyoğluTaşımacılık #GaziantepNakliyat #EvdenEveNakliyat #AsansörlüTaşımacılık #ŞehirlerarasıNakliyat",
+        "fb": "🎬 Beyoğlu Taşımacılık hizmetleri\n\nGaziantep içi ve şehirlerarası taşınmalarda; ekspertiz, profesyonel ambalajlama, mobilya söküm ve montajı, uygun araç seçimi ve 20. kata kadar asansörlü taşıma hizmetlerini tek plan altında sunuyoruz.\n\nTaşınma sürecinizi başlamadan önce netleştirmek için bizimle iletişime geçebilirsiniz.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com\n📲 WhatsApp: https://wa.me/905461122797?text=Merhaba%2C%20ta%C5%9F%C4%B1nma%20i%C3%A7in%20%C3%BCcretsiz%20ekspertiz%20ve%20fiyat%20almak%20istiyorum.\n\n#BeyoğluTaşımacılık #GaziantepNakliyat #EvdenEveNakliyat #AsansörlüTaşımacılık #ŞehirlerarasıNakliyat"
+      },
+      "platformlar": [
+        "instagram",
+        "facebook"
+      ],
+      "yayinlandi": false,
+      "kaynak": "Google Drive — profesyonel 30 günlük plan"
+    },
+    {
+      "id": "30g-30-ay-ozeti",
+      "tarih": "2026-10-24",
+      "slot": "sabah",
+      "tip": "carousel",
+      "dosyalar": [
+        "30gun/30g-01-desenli-paketleme.jpg",
+        "30gun/30g-07-asansor-bina.jpg",
+        "30gun/30g-18-ekip-sahada.jpg",
+        "30gun/30g-21-kirmizi-kamyon.jpg",
+        "30gun/30g-14-mavi-paket-3.jpg"
+      ],
+      "baslik": {
+        "ig": "Gerçek çalışmalarımızdan seçkiler",
+        "fb": "Gerçek çalışmalarımızdan seçkiler"
+      },
+      "aciklama": {
+        "ig": "📸 Gerçek çalışmalarımızdan seçkiler\n\nProfesyonel taşımacılığın her aşaması birbiriyle bağlantılıdır: doğru paketleme, uygun ekipman, deneyimli ekip, düzenli yükleme ve kontrollü teslimat.\n\nSon dönem çalışmalarımızdan hazırladığımız bu seçkide farklı taşınma süreçlerini kaydırarak inceleyebilirsiniz.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 www.evdenevegaziantep.com\n📲 WhatsApp: Profilimizdeki bağlantı\n\n#GerçekÇalışma #GaziantepNakliyat #EvdenEveNakliyat #ProfesyonelTaşımacılık #BeyoğluTaşımacılık",
+        "fb": "📸 Gerçek çalışmalarımızdan seçkiler\n\nProfesyonel taşımacılığın her aşaması birbiriyle bağlantılıdır: doğru paketleme, uygun ekipman, deneyimli ekip, düzenli yükleme ve kontrollü teslimat.\n\nSon dönem çalışmalarımızdan hazırladığımız bu seçkide farklı taşınma süreçlerini kaydırarak inceleyebilirsiniz.\n\nÜcretsiz ekspertiz, taşıma planı ve fiyat bilgisi için bizimle iletişime geçin.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com\n📲 WhatsApp: https://wa.me/905461122797?text=Merhaba%2C%20ta%C5%9F%C4%B1nma%20i%C3%A7in%20%C3%BCcretsiz%20ekspertiz%20ve%20fiyat%20almak%20istiyorum.\n\n#GerçekÇalışma #GaziantepNakliyat #EvdenEveNakliyat #ProfesyonelTaşımacılık #BeyoğluTaşımacılık"
+      },
+      "platformlar": [
+        "instagram",
+        "facebook"
+      ],
+      "yayinlandi": false,
+      "kaynak": "Google Drive — profesyonel 30 günlük plan"
     }
   ]
 }

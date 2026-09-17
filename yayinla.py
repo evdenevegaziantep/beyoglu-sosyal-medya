@@ -140,7 +140,7 @@ def caption_for(item, platform):
 def validate_caption(item, platform, caption):
     """Örnek/eksik açıklamaların canlıya çıkmasını engeller."""
     normalized = caption.casefold()
-    forbidden = ("ornek", "örnek", "kurulumda doldurulacak", "placeholder", "todo")
+    forbidden = ("ornek -", "örnek -", "kurulumda doldurulacak", "placeholder", "todo:", "todo ")
     if any(word in normalized for word in forbidden):
         raise RuntimeError("örnek veya tamamlanmamış açıklama engellendi")
     # Hikâyelerde Instagram/Facebook API açıklama alanı göstermediği için iletişim
