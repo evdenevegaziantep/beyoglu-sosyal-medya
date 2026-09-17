@@ -1,3 +1,12 @@
 {
-  "published": {}
+  "published": {
+    "tanitim-filmi:instagram": {
+      "post_id": "17885093394618716",
+      "published_at": "2026-09-17T19:43:32.542536+03:00"
+    },
+    "tanitim-filmi:facebook": {
+      "post_id": "1008359272259232",
+      "published_at": "2026-09-17T19:43:38.412252+03:00"
+    }
+  }
 }
