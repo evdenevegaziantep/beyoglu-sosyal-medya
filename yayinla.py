@@ -72,13 +72,17 @@ def wait_ig_container(token, creation_id, limit=40):
     raise RuntimeError("Instagram medya işleme süresi aşıldı")
 
 
-def instagram_post(cfg, urls, kind, caption):
+def instagram_post(cfg, urls, kind, caption, alt_texts=None):
     token = cfg["UT"]
     base = {"access_token": token}
+    alt_texts = alt_texts or []
     if kind == "carousel":
         children = []
-        for url in urls:
-            item = api(f"/{cfg['IG']}/media", {**base, "image_url": url, "is_carousel_item": "true"})
+        for index, url in enumerate(urls):
+            params = {**base, "image_url": url, "is_carousel_item": "true"}
+            if index < len(alt_texts) and alt_texts[index]:
+                params["alt_text"] = alt_texts[index]
+            item = api(f"/{cfg['IG']}/media", params)
             children.append(item["id"])
         container = api(
             f"/{cfg['IG']}/media",
@@ -100,7 +104,10 @@ def instagram_post(cfg, urls, kind, caption):
         wait_ig_container(token, container["id"])
         return api(f"/{cfg['IG']}/media_publish", {**base, "creation_id": container["id"]})["id"]
 
-    container = api(f"/{cfg['IG']}/media", {**base, "image_url": urls[0], "caption": caption})
+    params = {**base, "image_url": urls[0], "caption": caption}
+    if alt_texts and alt_texts[0]:
+        params["alt_text"] = alt_texts[0]
+    container = api(f"/{cfg['IG']}/media", params)
     wait_ig_container(token, container["id"])
     return api(f"/{cfg['IG']}/media_publish", {**base, "creation_id": container["id"]})["id"]
 
@@ -155,6 +162,16 @@ def validate_caption(item, platform, caption):
             raise RuntimeError("açıklamada zorunlu iletişim bilgisi eksik: " + ", ".join(missing))
 
 
+def validate_seo_media(item, urls, alt_texts):
+    """SEO işaretli görsel gönderilerinde açıklayıcı alternatif metni zorunlu tutar."""
+    if not item.get("seo_uyumlu") or item.get("tip") not in {"post", "carousel"}:
+        return
+    if len(alt_texts) != len(urls) or any(not str(text).strip() for text in alt_texts):
+        raise RuntimeError("SEO görsel alternatif metni eksik")
+    if any(len(str(text)) > 1000 for text in alt_texts):
+        raise RuntimeError("SEO görsel alternatif metni 1000 karakter sınırını aşıyor")
+
+
 def load_state():
     if not STATE.exists():
         return {"published": {}}
@@ -198,6 +215,9 @@ def main():
         if not urls:
             failures.append(f"{item_id}: medya yok")
             continue
+        alt_texts = item.get("alternatif_metinler", [])
+        if not isinstance(alt_texts, list):
+            alt_texts = []
         for platform in item.get("platformlar", []):
             key = f"{item_id}:{platform}"
             if key in published and not force_republish:
@@ -208,7 +228,8 @@ def main():
             try:
                 validate_caption(item, platform, caption)
                 if platform == "instagram":
-                    post_id = instagram_post(cfg, urls, item["tip"], caption)
+                    validate_seo_media(item, urls, alt_texts)
+                    post_id = instagram_post(cfg, urls, item["tip"], caption, alt_texts)
                 elif platform == "facebook":
                     post_id = facebook_post(cfg, urls, item["tip"], caption)
                 else:

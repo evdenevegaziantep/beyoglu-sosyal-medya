@@ -22,6 +22,18 @@
 - Instagram’da gönderi konusuna göre 5–7 hedefli hashtag; Facebook’ta daha sınırlı hashtag kullanıldı.
 - Tamamlanmamış metin, örnek içerik, eksik telefon veya eksik site otomasyon tarafından engellenir.
 
+## Yerel SEO ve müşteri kazanımı standardı
+
+- Açıklamalarda anahtar kelimeler doğal biçimde kullanılır: **Gaziantep evden eve nakliyat**, **Gaziantep asansörlü nakliyat**, **Şahinbey nakliyat**, **Şehitkamil nakliyat** ve içerikle ilgili hizmet terimleri.
+- Karataş, Binevler, İbrahimli ve diğer hizmet bölgeleri ilgili gönderilere dağıtıldı; anahtar kelime yığılması yapılmadı.
+- Her gönderi, konusuyla eşleşen mevcut site sayfasına yönlendirilir; toplam 18 farklı hizmet, bölge, rehber ve teklif sayfası kullanılır.
+- Facebook bağlantılarında tıklama ve müşteri dönüşümünü ölçmek için UTM parametreleri bulunur.
+- Instagram tek fotoğraf ve carousel görsellerinde açıklayıcı alternatif metin kullanılır.
+- Hashtag sayısı sınırlı ve hedeflidir; genel, yerel, hizmet ve marka etiketleri dengeli kullanılır.
+- Telefon, site ve marka adı bütün içeriklerde aynı yazılarak NAP/marka tutarlılığı korunur.
+
+> Sosyal medya çalışmaları marka aramalarını, site trafiğini ve müşteri talebini destekler. Google sıralamasında kalıcı yükseliş için site teknik SEO’su, Google İşletme Profili ve gerçek müşteri yorumları da birlikte yürütülmelidir.
+
 ## Takvim
 
 | # | Tarih | Saat | Format | Konu |
