@@ -1,17 +1,34 @@
 name: Otomatik Yayın
 
-# Saatler UTC. İstanbul = UTC+3
-# 06:00 UTC = 09:00 sabah slotu | 09:30 UTC = 12:30 öğlen slotu | 16:30 UTC = 19:30 akşam slotu
+# Saatler UTC. İstanbul: 09:00 / 12:30 / 19:30
 on:
   schedule:
     - cron: '0 6 * * *'
     - cron: '30 9 * * *'
     - cron: '30 16 * * *'
   workflow_dispatch:
+    inputs:
+      force_ids:
+        description: 'Zorla yayınlanacak program kimlikleri (virgülle)'
+        required: false
+        type: string
+      force_republish:
+        description: 'Daha önce yayınlanmış olsa da tekrar yayınla'
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sosyal-medya-yayin
+  cancel-in-progress: false
 
 jobs:
   yayinla:
     runs-on: ubuntu-latest
+    timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -25,3 +42,17 @@ jobs:
           META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
           META_IG_ID: ${{ secrets.META_IG_ID }}
           REPO: ${{ github.repository }}
+          FORCE_IDS: ${{ inputs.force_ids }}
+          FORCE_REPUBLISH: ${{ inputs.force_republish && '1' || '0' }}
+      - name: Yayın durumunu depoya kaydet
+        if: always()
+        run: |
+          if git diff --quiet -- schedule.json published.json; then
+            echo "Kaydedilecek değişiklik yok."
+            exit 0
+          fi
+          git config user.name "beyoglu-yayin-botu"
+          git config user.email "actions@users.noreply.github.com"
+          git add schedule.json published.json
+          git commit -m "yayın durumunu güncelle"
+          git push
