@@ -2,10 +2,11 @@
 
 Özel gün içerikleri satış baskısı oluşturmadan, kurumsal ve saygılı bir dille hazırlanmıştır. Telefon ve site bilgileri yalnızca marka imzası olarak kullanılır.
 
+**İçerik kuralı:** Atatürk ile ilgili özel gün içerikleri hazırlanmayacak ve yayımlanmayacaktır.
+
 | Tarih | Saat | Özel gün | Durum |
 |---|---:|---|---|
 | 29 Ekim 2026 | 09:00 | Cumhuriyet Bayramı — 103. yıl | Hazır ve otomasyonda |
-| 10 Kasım 2026 | 09:00 | Atatürk’ü Anma Günü — 88. yıl | Hazır ve otomasyonda |
 | 24 Kasım 2026 | 09:00 | Öğretmenler Günü | Hazır ve otomasyonda |
 | 25 Aralık 2026 | 09:00 | Gaziantep’in Kurtuluşu — 105. yıl | Hazır ve otomasyonda |
 | 31 Aralık 2026 | 19:30 | 2027 Yeni Yıl Mesajı | Hazır ve otomasyonda |
