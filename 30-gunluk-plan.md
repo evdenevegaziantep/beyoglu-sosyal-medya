@@ -2,15 +2,15 @@
 
 **Dönem:** 25 Eylül–24 Ekim 2026  
 **Platformlar:** Instagram + Facebook  
-**Yayın sıklığı:** Her gün 1 içerik  
-**Toplam:** 30 içerik
+**Yayın sıklığı:** Her gün en az 1 içerik; cuma günleri ek sabah hikâyesi  
+**Toplam:** 35 içerik
 
 ## İçerik dağılımı
 
 - 13 fotoğraf gönderisi
 - 6 kaydırmalı gönderi
 - 4 dikey video/Reels
-- 7 hikâye
+- 12 hikâye (7 hizmet hikâyesi + 5 Hayırlı Cumalar hikâyesi)
 
 ## Uygulanan standartlar
 
@@ -68,6 +68,18 @@
 | 28 | 22 Ekim Perşembe | 12:30 | Fotoğraf | Kamyon içinde hacim ve ağırlık dengesi |
 | 29 | 23 Ekim Cuma | 19:30 | Reels | Kurumsal hizmet tanıtımı |
 | 30 | 24 Ekim Cumartesi | 09:00 | Carousel | Aylık çalışma özeti |
+
+## Cuma sabahı ek hikâyeleri
+
+Aşağıdaki cuma günlerinde saat 09:00’da, akşamki profesyonel hizmet gönderisine ek olarak ayrı bir **Hayırlı Cumalar** hikâyesi yayımlanacaktır:
+
+- 25 Eylül 2026
+- 2 Ekim 2026
+- 9 Ekim 2026
+- 16 Ekim 2026
+- 23 Ekim 2026
+
+Beş hikâye için birbirinden farklı kurumsal tasarım kullanılır. Mesajlar satış baskısı içermez; telefon ve site yalnızca marka imzası olarak gösterilir.
 
 ## Sabit iletişim bilgileri
 
