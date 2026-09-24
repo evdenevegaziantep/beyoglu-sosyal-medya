@@ -1,0 +1,519 @@
+{
+  "campaign": "ay2-organik-2026",
+  "period": {
+    "start": "2026-10-25",
+    "end": "2026-11-24"
+  },
+  "counts": {
+    "main": 31,
+    "reels": 13,
+    "carousels": 10,
+    "photos": 8,
+    "support_stories": 31,
+    "friday_stories": 4,
+    "new_schedule_items": 66
+  },
+  "source": "https://www.evdenevegaziantep.com/galeri/",
+  "assets": [
+    {
+      "path": "medya/ay2/MUZIK-LISANSI.txt",
+      "bytes": 117,
+      "sha256": "930b34e7f15aa5fad778c2395d5e0e37994369fb2fe300e68188df1131bfdf8a"
+    },
+    {
+      "path": "medya/ay2/ana/01-20261025-reel.jpg",
+      "bytes": 184493,
+      "sha256": "65ee7615009a8548480152a78d71b3c7b2fd833a0f0be431cbc6631ff85180db"
+    },
+    {
+      "path": "medya/ay2/ana/01-20261025-reel.mp4",
+      "bytes": 939503,
+      "sha256": "33df67702a10c2c71e3cf494a01c42bcfdc34e3b6b6a29af52ad918a3c0f9bc1"
+    },
+    {
+      "path": "medya/ay2/ana/02-20261026-carousel-01.jpg",
+      "bytes": 143905,
+      "sha256": "af77f1a6d958d43a91a6bdc7bd1b5021c9ffb8671a468481d0b3690c424ab5ac"
+    },
+    {
+      "path": "medya/ay2/ana/02-20261026-carousel-02.jpg",
+      "bytes": 276404,
+      "sha256": "33d1b3e804db7fb3a3482778603976942d8ed2521bf602ca1023ba9454fe5f40"
+    },
+    {
+      "path": "medya/ay2/ana/02-20261026-carousel-03.jpg",
+      "bytes": 196748,
+      "sha256": "8fb8ff31dca1eda2666f5ad4ed79a1be2fd9013146ffa4e834d8986eed120e23"
+    },
+    {
+      "path": "medya/ay2/ana/03-20261027-post.jpg",
+      "bytes": 270494,
+      "sha256": "a55a5317e3203e505fae220149c3ee564b0940a113ed19e25b0cf25e21632ba3"
+    },
+    {
+      "path": "medya/ay2/ana/04-20261028-reel.jpg",
+      "bytes": 141247,
+      "sha256": "1f3aaa3ebf3af40a6db849609e7b847e6f17419a50c5358b7fc8e21ee6b4666a"
+    },
+    {
+      "path": "medya/ay2/ana/04-20261028-reel.mp4",
+      "bytes": 960583,
+      "sha256": "2fcd6be04d3caeffa7bea70bc469b4653fbab7f4ef95a383eb7454b560c37e38"
+    },
+    {
+      "path": "medya/ay2/ana/05-20261029-carousel-01.jpg",
+      "bytes": 199819,
+      "sha256": "baaae8db6592bcb56a85d120e3aa07d605bf590c232ab932fc2a2e885901a58d"
+    },
+    {
+      "path": "medya/ay2/ana/05-20261029-carousel-02.jpg",
+      "bytes": 310804,
+      "sha256": "8b634bcd3138957eea31a42cc4183e5cd974d0e90aa69a3c6290a7df323af084"
+    },
+    {
+      "path": "medya/ay2/ana/05-20261029-carousel-03.jpg",
+      "bytes": 205366,
+      "sha256": "cea4dafb1149ceaeb5494d779f5a4365954c61e505cdbe2ba8623ef5ba6ecf52"
+    },
+    {
+      "path": "medya/ay2/ana/06-20261030-reel.jpg",
+      "bytes": 122116,
+      "sha256": "a89caec186461365903200e683cd3ab51face8a91861df36b3db5c655e929d5b"
+    },
+    {
+      "path": "medya/ay2/ana/06-20261030-reel.mp4",
+      "bytes": 951341,
+      "sha256": "63b3954e1161e810b314efe6770cc2932c258a8e717e82440e91ef779c28a46e"
+    },
+    {
+      "path": "medya/ay2/ana/07-20261031-carousel-01.jpg",
+      "bytes": 248957,
+      "sha256": "040900612667f56c48ff5eaa8ef2e512457f97202c4c2aa7adc1e42d3902302a"
+    },
+    {
+      "path": "medya/ay2/ana/07-20261031-carousel-02.jpg",
+      "bytes": 200562,
+      "sha256": "252270493e7b162ef2c5ef3d8691795ba6be769274c37df34423cc9a56f9e336"
+    },
+    {
+      "path": "medya/ay2/ana/07-20261031-carousel-03.jpg",
+      "bytes": 250854,
+      "sha256": "d6923250407896526b50e316a25a54f4d4b09d05aede3aa74e85a1da9fdec950"
+    },
+    {
+      "path": "medya/ay2/ana/08-20261101-post.jpg",
+      "bytes": 208735,
+      "sha256": "d9522e6c0ed38917c93d7b2fe966e24a695798f222ac3832fc037032dbc9d9f6"
+    },
+    {
+      "path": "medya/ay2/ana/09-20261102-reel.jpg",
+      "bytes": 140631,
+      "sha256": "55f0a71966d70724c645e6be6483c9f3c6e9a82253ff4a718a72b7d18ef56c78"
+    },
+    {
+      "path": "medya/ay2/ana/09-20261102-reel.mp4",
+      "bytes": 967554,
+      "sha256": "348e3ed81ed1ba27b5f791a3b9d8010d594307d22cf95e22045e4125edff2ad5"
+    },
+    {
+      "path": "medya/ay2/ana/10-20261103-carousel-01.jpg",
+      "bytes": 165519,
+      "sha256": "6f7c22825d5dd583ba70c0b8fb6c25eed5985899de7e4b195fe3f39986a2ad40"
+    },
+    {
+      "path": "medya/ay2/ana/10-20261103-carousel-02.jpg",
+      "bytes": 187038,
+      "sha256": "b4a92d9161fe5f1050ebe87d24e0998af83aedeca85b26c52ca6ff6b976fc388"
+    },
+    {
+      "path": "medya/ay2/ana/10-20261103-carousel-03.jpg",
+      "bytes": 243194,
+      "sha256": "0633beb83c2affeb4fc91aa000ea1d2271620990edcab648af5133ddea4dcaec"
+    },
+    {
+      "path": "medya/ay2/ana/11-20261104-reel.jpg",
+      "bytes": 184021,
+      "sha256": "bca63e0cb2f876975958944ee5aede6a26d714177fa53c0cadaff161094bdce5"
+    },
+    {
+      "path": "medya/ay2/ana/11-20261104-reel.mp4",
+      "bytes": 947332,
+      "sha256": "7a048a11dbe500864d403db67007f9093da0684e97209fa25c7724517fd36341"
+    },
+    {
+      "path": "medya/ay2/ana/12-20261105-post.jpg",
+      "bytes": 200012,
+      "sha256": "c80478492f31cf478d855f86afe86ab66014ada8cb5d2ac81f69de66e7697c62"
+    },
+    {
+      "path": "medya/ay2/ana/13-20261106-reel.jpg",
+      "bytes": 141593,
+      "sha256": "c38d7927c92e021375ef4be58e25a2dde2cfd72841d992cf9a73d56aeaa580b2"
+    },
+    {
+      "path": "medya/ay2/ana/13-20261106-reel.mp4",
+      "bytes": 958867,
+      "sha256": "ecd0fe766164c9d4dc4974aad069041c7993663aef02895bce70b700a759c1d9"
+    },
+    {
+      "path": "medya/ay2/ana/14-20261107-carousel-01.jpg",
+      "bytes": 173371,
+      "sha256": "ed70798738356b404490a56fb58f5493cc2db0c1f966a192d02d68320cab7bd8"
+    },
+    {
+      "path": "medya/ay2/ana/14-20261107-carousel-02.jpg",
+      "bytes": 233303,
+      "sha256": "91f8650354d8bdd29b54f537d6f9afd3c431c59573e66aa22e9978fd6f684e62"
+    },
+    {
+      "path": "medya/ay2/ana/14-20261107-carousel-03.jpg",
+      "bytes": 181605,
+      "sha256": "a9e5948a8a21acbfc6b48214b5d0259eb0cb01767fd665a474dbd923566acca6"
+    },
+    {
+      "path": "medya/ay2/ana/15-20261108-reel.jpg",
+      "bytes": 134332,
+      "sha256": "5ecad6907c9ef7ecab708ed86d9fe0fdc246c1f57f24aff1f7ddfaac15b69343"
+    },
+    {
+      "path": "medya/ay2/ana/15-20261108-reel.mp4",
+      "bytes": 959177,
+      "sha256": "e37adf4b0d553fd22c6041bea3dead98ebf1e0e31aa10add1c9a4e2d9ce56b8b"
+    },
+    {
+      "path": "medya/ay2/ana/16-20261109-post.jpg",
+      "bytes": 181857,
+      "sha256": "00e25b65f7344fe54cb0d0fe1116dbfed18d1cafcd67678f534f4b3bae6b9ea2"
+    },
+    {
+      "path": "medya/ay2/ana/17-20261110-carousel-01.jpg",
+      "bytes": 208673,
+      "sha256": "c8fc57f70948e38b37ec0eb311d363bcdec66413ee16bb608b89b8caabb1b27b"
+    },
+    {
+      "path": "medya/ay2/ana/17-20261110-carousel-02.jpg",
+      "bytes": 245337,
+      "sha256": "7dd86d4069ef577e83787f3dc8f8418b7dff4f186c0941f616bf84874c989c9a"
+    },
+    {
+      "path": "medya/ay2/ana/17-20261110-carousel-03.jpg",
+      "bytes": 277678,
+      "sha256": "a8336ff1c0f08d2b6cecaaed523f450455ef50c9d28d9365f95c0ce195ca6ec1"
+    },
+    {
+      "path": "medya/ay2/ana/18-20261111-reel.jpg",
+      "bytes": 122213,
+      "sha256": "f27953986be1ba0a21b55db920ef8bdf0f270629054d8604b995b21b4448e6ac"
+    },
+    {
+      "path": "medya/ay2/ana/18-20261111-reel.mp4",
+      "bytes": 951957,
+      "sha256": "488ed7fc53338855a37c906cb3751f2fe9fb9d1647cdac642c7b12296a43d256"
+    },
+    {
+      "path": "medya/ay2/ana/19-20261112-post.jpg",
+      "bytes": 187758,
+      "sha256": "eeb0cb109e2357421b633f7a84dee759fcccc5e0e50d3d09544d95c224fe4db8"
+    },
+    {
+      "path": "medya/ay2/ana/20-20261113-reel.jpg",
+      "bytes": 180959,
+      "sha256": "b17e8c0d290c222106cbc8b1207ffacf26848d2f6dc7170e63b6d7780e99ffbb"
+    },
+    {
+      "path": "medya/ay2/ana/20-20261113-reel.mp4",
+      "bytes": 940645,
+      "sha256": "1efcb3fb59fadf6733e906eaea020af754bf48e00c303c0d79d81a3641a414c3"
+    },
+    {
+      "path": "medya/ay2/ana/21-20261114-carousel-01.jpg",
+      "bytes": 240237,
+      "sha256": "3000d9271026aeac2d21df9d7561a7c8b3f5feb6201a6fec3b87c3a7a3d02a25"
+    },
+    {
+      "path": "medya/ay2/ana/21-20261114-carousel-02.jpg",
+      "bytes": 239222,
+      "sha256": "473ca65f9d7d0dac2212d34e6f71d35fa7a688e7d21339e0750851ee8471b947"
+    },
+    {
+      "path": "medya/ay2/ana/21-20261114-carousel-03.jpg",
+      "bytes": 203697,
+      "sha256": "240d706ef040c822c031eba62bd498cbfd995358cb67334dba09cce86967a66f"
+    },
+    {
+      "path": "medya/ay2/ana/22-20261115-reel.jpg",
+      "bytes": 161955,
+      "sha256": "543886e5f0c4cc1d1404b097113a8a53b65c9bd2e1a93b1f1d2f984a14f7b6e3"
+    },
+    {
+      "path": "medya/ay2/ana/22-20261115-reel.mp4",
+      "bytes": 948205,
+      "sha256": "48df20f60b958e2a91beef4edbcf1cc8cf11bb9053aff70c630e75bf0915581c"
+    },
+    {
+      "path": "medya/ay2/ana/23-20261116-post.jpg",
+      "bytes": 165033,
+      "sha256": "e6bc287abb77b1c139d1395994c4b80ef134fd761af2df6ff4bc0cbc521aee30"
+    },
+    {
+      "path": "medya/ay2/ana/24-20261117-carousel-01.jpg",
+      "bytes": 175057,
+      "sha256": "4211cd6336fcb749dccf734df224d91ec44a281775f50497533a6a164949c2af"
+    },
+    {
+      "path": "medya/ay2/ana/24-20261117-carousel-02.jpg",
+      "bytes": 264208,
+      "sha256": "8c0848b2612cc56dbc5ee9fb50f010568492e224e5d00c173e3ebe557334b2a4"
+    },
+    {
+      "path": "medya/ay2/ana/24-20261117-carousel-03.jpg",
+      "bytes": 175542,
+      "sha256": "34603b86aaa7d59c44fcebf64d1e815047703be4232986acc9e50506afa3c01d"
+    },
+    {
+      "path": "medya/ay2/ana/25-20261118-reel.jpg",
+      "bytes": 150055,
+      "sha256": "eb1376827de0825fbd01adb0e9e38d58baaba2c5711900191a1bc6961f3b25bb"
+    },
+    {
+      "path": "medya/ay2/ana/25-20261118-reel.mp4",
+      "bytes": 962107,
+      "sha256": "247c182a27236040e444212015092a21f67c980a7adbaec2070564856329a61d"
+    },
+    {
+      "path": "medya/ay2/ana/26-20261119-post.jpg",
+      "bytes": 182877,
+      "sha256": "62543c763dc78b65cf6a5df52e44ad15d57eca6c17af2a853203a0528375e240"
+    },
+    {
+      "path": "medya/ay2/ana/27-20261120-reel.jpg",
+      "bytes": 141241,
+      "sha256": "5defa697960315bcab212f583e6d6a63827d6a90e7f04992e0593a3df0d4d187"
+    },
+    {
+      "path": "medya/ay2/ana/27-20261120-reel.mp4",
+      "bytes": 953459,
+      "sha256": "e7909686255e6da30a95ac58337e7555d8994a62b6273f5cffe9c41221ee7ecb"
+    },
+    {
+      "path": "medya/ay2/ana/28-20261121-carousel-01.jpg",
+      "bytes": 159177,
+      "sha256": "75b148242fd3e1f4fc3d797e48ec686360fe2c9835f4b37f077437ad79adadb0"
+    },
+    {
+      "path": "medya/ay2/ana/28-20261121-carousel-02.jpg",
+      "bytes": 222621,
+      "sha256": "48842d5c0de302b051a12254a5105862fae9bdb566dd04d5ac802fc2972cf9c7"
+    },
+    {
+      "path": "medya/ay2/ana/28-20261121-carousel-03.jpg",
+      "bytes": 165357,
+      "sha256": "248c6a8434b152cac87364ccdb8a3ef262828bac413a9444cbba9517a7910aa3"
+    },
+    {
+      "path": "medya/ay2/ana/29-20261122-reel.jpg",
+      "bytes": 186388,
+      "sha256": "d51505c234f820fdf1ccbc82cc53636b82d5381c9a8aeae5f743422154f34e31"
+    },
+    {
+      "path": "medya/ay2/ana/29-20261122-reel.mp4",
+      "bytes": 951368,
+      "sha256": "a27081e134ca42c4b3074790d733220f839cd81268082d96d5526386d8df370a"
+    },
+    {
+      "path": "medya/ay2/ana/30-20261123-post.jpg",
+      "bytes": 226839,
+      "sha256": "7dd62ba3d078c692b8542b8c3e8925043c087be0a8ea52b67067509ad3df59b4"
+    },
+    {
+      "path": "medya/ay2/ana/31-20261124-carousel-01.jpg",
+      "bytes": 145707,
+      "sha256": "40394d50f657616656b33e8922a93aad02e82d2477866f253a3ac816217b5d7c"
+    },
+    {
+      "path": "medya/ay2/ana/31-20261124-carousel-02.jpg",
+      "bytes": 247637,
+      "sha256": "fc4f0126bb3a8e511e8da3d61a4d1b4d9092d9f3fb113f68c6d0496dc757fb74"
+    },
+    {
+      "path": "medya/ay2/ana/31-20261124-carousel-03.jpg",
+      "bytes": 154713,
+      "sha256": "b084e7ca0fbad5542e6105ac82688f147811e2e51b6257dab0d24615acfb6fee"
+    },
+    {
+      "path": "medya/ay2/hikaye/01-20261025-destek.jpg",
+      "bytes": 272351,
+      "sha256": "92172e78aa5be56489067c32c47cb988df089cc0c0f29a9d20989557e06a1026"
+    },
+    {
+      "path": "medya/ay2/hikaye/02-20261026-destek.jpg",
+      "bytes": 182256,
+      "sha256": "9d5ad7a3021fb96ae83e569155cf41296515219a56fa41b1af48fa9d35c1f81a"
+    },
+    {
+      "path": "medya/ay2/hikaye/03-20261027-destek.jpg",
+      "bytes": 278288,
+      "sha256": "1ec7b1125768554c438f1b8a1d6c6270c9a6f21f6849deba7c530a4d8772c0f2"
+    },
+    {
+      "path": "medya/ay2/hikaye/04-20261028-destek.jpg",
+      "bytes": 215843,
+      "sha256": "754121072247454347119cef958cd45b11841c6d830eabd6ad5844c100752e32"
+    },
+    {
+      "path": "medya/ay2/hikaye/05-20261029-destek.jpg",
+      "bytes": 225686,
+      "sha256": "51a8f38321c5bbbcf9599b8a5c527794571f3459f028320565e1ffa9b59c4e35"
+    },
+    {
+      "path": "medya/ay2/hikaye/06-20261030-destek.jpg",
+      "bytes": 195842,
+      "sha256": "cac353b08df1d205190cfe805b8abdb081dc385d8fb06bbffbbb8c10c3e414c1"
+    },
+    {
+      "path": "medya/ay2/hikaye/07-20261031-destek.jpg",
+      "bytes": 316146,
+      "sha256": "186d2f2bd385c52f7493d5b3298f1f4df6d519e905516280bb4ad69a39ddb397"
+    },
+    {
+      "path": "medya/ay2/hikaye/08-20261101-destek.jpg",
+      "bytes": 246212,
+      "sha256": "5269f411da42e7a34c9bbf2ef580ebee5f7f509bd6d50c8344d4b61c3b05e4ec"
+    },
+    {
+      "path": "medya/ay2/hikaye/09-20261102-destek.jpg",
+      "bytes": 216989,
+      "sha256": "977a80941abab552265dffca898b09107447c4785d3e55c2643b511c194b9361"
+    },
+    {
+      "path": "medya/ay2/hikaye/10-20261103-destek.jpg",
+      "bytes": 189882,
+      "sha256": "e19b6bd19597aee3508349619606c202fcc9fdf52fe22c8d0fab54acdd8d4f3b"
+    },
+    {
+      "path": "medya/ay2/hikaye/11-20261104-destek.jpg",
+      "bytes": 286691,
+      "sha256": "abb320817d32488c11de7bc0d9eda288c3eacc75d3c32ec3c13a58f980b5b078"
+    },
+    {
+      "path": "medya/ay2/hikaye/12-20261105-destek.jpg",
+      "bytes": 228825,
+      "sha256": "ac4f4d284ee8685f77396c38208115ae487432cc84f063f49994305d45ae4428"
+    },
+    {
+      "path": "medya/ay2/hikaye/13-20261106-destek.jpg",
+      "bytes": 221683,
+      "sha256": "512b1d7e78e9bd049145908af22d8416b480123436b8d501a43a519369fba1ba"
+    },
+    {
+      "path": "medya/ay2/hikaye/14-20261107-destek.jpg",
+      "bytes": 208133,
+      "sha256": "95cfa16391f0961a7f72dc016f98162924e74edda8c5234b6268643c8eab71e9"
+    },
+    {
+      "path": "medya/ay2/hikaye/15-20261108-destek.jpg",
+      "bytes": 199876,
+      "sha256": "92403fd1e5945f8cb80daee35e6828714bc491e9e173552ddb4a5f19991d2039"
+    },
+    {
+      "path": "medya/ay2/hikaye/16-20261109-destek.jpg",
+      "bytes": 205257,
+      "sha256": "4b3523d74e60d4706ba08e113093a3f42b429a3d1a6e573d5851fd1458281b45"
+    },
+    {
+      "path": "medya/ay2/hikaye/17-20261110-destek.jpg",
+      "bytes": 230154,
+      "sha256": "d94200fd2e7683f960a1050088d0c5848c811113ba6de443a1321bf7aa1e36f7"
+    },
+    {
+      "path": "medya/ay2/hikaye/18-20261111-destek.jpg",
+      "bytes": 191372,
+      "sha256": "b2ac0ad4659d8021a2c8a1e9f5b063024905faf8687890f1229861df38c66e90"
+    },
+    {
+      "path": "medya/ay2/hikaye/19-20261112-destek.jpg",
+      "bytes": 201786,
+      "sha256": "3a978eb9484efa392c274b9355c8afcf94f075cc9094c2aaf3cbb1b1a3d9618e"
+    },
+    {
+      "path": "medya/ay2/hikaye/20-20261113-destek.jpg",
+      "bytes": 268769,
+      "sha256": "940c1df58ee4ceff15ff20f31798b6ed2e9100dadb69e9f4e8a17ca945d361df"
+    },
+    {
+      "path": "medya/ay2/hikaye/21-20261114-destek.jpg",
+      "bytes": 286214,
+      "sha256": "2e40c4d6eb165c7fa96efd22172dfdbb4a1e33aa225e134becc8c5724d46c8c1"
+    },
+    {
+      "path": "medya/ay2/hikaye/22-20261115-destek.jpg",
+      "bytes": 248053,
+      "sha256": "59d01f2dfc22a6f66e5a30e5ed1e994faffce53a4ec06bab6f6a6ba891d9add6"
+    },
+    {
+      "path": "medya/ay2/hikaye/23-20261116-destek.jpg",
+      "bytes": 177741,
+      "sha256": "d507a5c893bea65c122823684277fda1efeeaf6b89f0ced37865d6ff40e383cd"
+    },
+    {
+      "path": "medya/ay2/hikaye/24-20261117-destek.jpg",
+      "bytes": 197268,
+      "sha256": "88bda189cd1a23e0d122887c210626e9144271f220bf06146f96e5c907961850"
+    },
+    {
+      "path": "medya/ay2/hikaye/25-20261118-destek.jpg",
+      "bytes": 226222,
+      "sha256": "79aa518dab41b6ae6215b3169eccf94233359f97134ba50062c1e6c77d151f83"
+    },
+    {
+      "path": "medya/ay2/hikaye/26-20261119-destek.jpg",
+      "bytes": 215495,
+      "sha256": "3f38a03d8abc9d639087c3d751449717f37fc62b9cfc3391504772caa7c0eb95"
+    },
+    {
+      "path": "medya/ay2/hikaye/27-20261120-destek.jpg",
+      "bytes": 205029,
+      "sha256": "c2744bace034650442bdbb8e4c9ec57a745cafcbd51dfd8db46fdbf9b908f510"
+    },
+    {
+      "path": "medya/ay2/hikaye/28-20261121-destek.jpg",
+      "bytes": 193547,
+      "sha256": "c0c0a48e31444757f31147a0385c1ddcd01227b6b093709c9e29ccd55ad2989c"
+    },
+    {
+      "path": "medya/ay2/hikaye/29-20261122-destek.jpg",
+      "bytes": 275948,
+      "sha256": "31a2d4d8298ad3835fa7d5ce65678975772f920b186178fa0ca7caa6ca1b1088"
+    },
+    {
+      "path": "medya/ay2/hikaye/30-20261123-destek.jpg",
+      "bytes": 234779,
+      "sha256": "4c60b671aaff585c34f08fe3b5f55dca36086500056eb15a9c6a4391405de705"
+    },
+    {
+      "path": "medya/ay2/hikaye/31-20261124-destek.jpg",
+      "bytes": 178572,
+      "sha256": "f446a507f54f76197dc1432cdd32ea7d8be4887f78f40bcd56b6de984cb29e1b"
+    },
+    {
+      "path": "medya/ay2/hikaye/cuma-20261030.jpg",
+      "bytes": 158843,
+      "sha256": "5335300cf97fd3f86e8b107cb4d3e25f9ddc4a538f9a087e0bdf48815666641c"
+    },
+    {
+      "path": "medya/ay2/hikaye/cuma-20261106.jpg",
+      "bytes": 150819,
+      "sha256": "9b48569c9ab397f6be572564f3e8a3b70503c7894291420c49bc379d97504dc7"
+    },
+    {
+      "path": "medya/ay2/hikaye/cuma-20261113.jpg",
+      "bytes": 189348,
+      "sha256": "d5e880a73c1499c0656ab25a8d8f8e0dce27926d94222d6158232bf9a468af03"
+    },
+    {
+      "path": "medya/ay2/hikaye/cuma-20261120.jpg",
+      "bytes": 190017,
+      "sha256": "a635e2490f6e2f723d2434f7871b4fdf16a65762b5d66467aaf236cd93faec1e"
+    }
+  ]
+}
