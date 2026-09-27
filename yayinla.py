@@ -17,6 +17,8 @@ import urllib.request
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
+from threads_api import publish as threads_publish
+
 API = "https://graph.facebook.com/v26.0"
 IST = timezone(timedelta(hours=3))
 ROOT = Path(__file__).resolve().parent
@@ -136,12 +138,53 @@ def facebook_post(cfg, urls, kind, caption):
 
 
 def caption_for(item, platform):
-    """Programdaki kısa (ig/fb) ve uzun platform anahtarlarını birlikte destekler."""
+    """Programdaki kısa ve uzun platform anahtarlarını birlikte destekler."""
     caption_data = item.get("aciklama", {})
     if not isinstance(caption_data, dict):
         return str(caption_data)
-    aliases = {"instagram": "ig", "facebook": "fb"}
+    aliases = {"instagram": "ig", "facebook": "fb", "threads": "threads"}
     return str(caption_data.get(platform) or caption_data.get(aliases.get(platform, "")) or "").strip()
+
+
+def trim_utf8(text, max_bytes):
+    """Unicode karakterlerini bölmeden UTF-8 bayt sınırına indirir."""
+    text = text.strip()
+    if len(text.encode("utf-8")) <= max_bytes:
+        return text
+    suffix = "…"
+    while text and len((text.rstrip() + suffix).encode("utf-8")) > max_bytes:
+        text = text[:-1]
+    return text.rstrip(" ,.;:-") + suffix
+
+
+def threads_caption_for(item):
+    """Açıkça yazılmış Threads metnini veya IG metninden güvenli kısa sürümü döndürür."""
+    explicit = caption_for(item, "threads")
+    if explicit:
+        if len(explicit.encode("utf-8")) > 500:
+            raise RuntimeError("Threads açıklaması 500 UTF-8 bayt sınırını aşıyor")
+        return explicit
+
+    source = caption_for(item, "instagram")
+    blocks = []
+    for block in source.split("\n\n"):
+        folded = block.casefold()
+        if not block.strip() or block.lstrip().startswith("#"):
+            continue
+        if any(mark in folded for mark in ("0546 112 27 97", "evdenevegaziantep.com", "whatsapp:", "profilimizdeki bağlantı")):
+            continue
+        blocks.append(block.strip())
+        if len(blocks) == 2:
+            break
+
+    target = str(item.get("hedef_url") or "https://www.evdenevegaziantep.com/")
+    parts = urllib.parse.urlsplit(target)
+    query = dict(urllib.parse.parse_qsl(parts.query, keep_blank_values=True))
+    query.update({"utm_source": "threads", "utm_medium": "organic_social", "utm_campaign": "threads"})
+    tracked = urllib.parse.urlunsplit((parts.scheme or "https", parts.netloc or "www.evdenevegaziantep.com", parts.path or "/", urllib.parse.urlencode(query), ""))
+    footer = f"\n\n📞 0546 112 27 97\n🌐 {tracked}"
+    body = trim_utf8("\n\n".join(blocks) or str(item.get("baslik", {}).get("ig", "Beyoğlu Nakliyat — Gaziantep")), 500 - len(footer.encode("utf-8")))
+    return body + footer
 
 
 def validate_caption(item, platform, caption):
@@ -189,6 +232,8 @@ def main():
         "PT": os.environ["META_PAGE_TOKEN"],
         "PG": os.environ["META_PAGE_ID"],
         "IG": os.environ["META_IG_ID"],
+        "TT": os.environ.get("THREADS_ACCESS_TOKEN", ""),
+        "TUID": os.environ.get("THREADS_USER_ID", ""),
     }
     repo = os.environ["REPO"]
     plan = json.loads(SCHEDULE.read_text(encoding="utf-8"))
@@ -223,7 +268,7 @@ def main():
             if key in published and not force_republish:
                 print(f"↪️ zaten yayınlandı: {key} → {published[key].get('post_id')}")
                 continue
-            caption = caption_for(item, platform)
+            caption = threads_caption_for(item) if platform == "threads" else caption_for(item, platform)
             print(f"→ {key} / {item.get('tip')}")
             try:
                 validate_caption(item, platform, caption)
@@ -232,6 +277,12 @@ def main():
                     post_id = instagram_post(cfg, urls, item["tip"], caption, alt_texts)
                 elif platform == "facebook":
                     post_id = facebook_post(cfg, urls, item["tip"], caption)
+                elif platform == "threads":
+                    if not cfg["TT"] or not cfg["TUID"]:
+                        raise RuntimeError("Threads GitHub sırları eksik")
+                    if item.get("tip") == "story":
+                        raise RuntimeError("Threads hikâye biçimini desteklemiyor")
+                    post_id = threads_publish(cfg["TT"], cfg["TUID"], urls, item["tip"], caption, alt_texts)
                 else:
                     raise RuntimeError(f"Bilinmeyen platform: {platform}")
                 published[key] = {"post_id": str(post_id), "published_at": datetime.now(IST).isoformat()}
