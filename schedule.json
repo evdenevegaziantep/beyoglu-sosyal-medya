@@ -1075,6 +1075,32 @@
       ]
     },
     {
+      "id": "google-yorum-elif-y-story",
+      "tarih": "2026-10-06",
+      "slot": "aksam",
+      "tip": "story",
+      "dosyalar": [
+        "google-harita/google-yorum-elif-yilmaz-story.jpg"
+      ],
+      "baslik": {
+        "ig": "Müşterimizden 5 yıldız",
+        "fb": "Gerçek müşteri deneyimi"
+      },
+      "aciklama": {
+        "ig": "⭐⭐⭐⭐⭐ Gerçek müşteri deneyimi\n📞 0546 112 27 97\n🌐 evdenevegaziantep.com",
+        "fb": "⭐⭐⭐⭐⭐ Gerçek müşteri deneyimi\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/"
+      },
+      "platformlar": [
+        "instagram",
+        "facebook"
+      ],
+      "yayinlandi": false,
+      "kaynak": "Google İşletme Profili — kamuya açık değerlendirme; kullanıcı içerik kullanımına açık izin verdi; ad gizliliği için soyadı kısaltıldı",
+      "alternatif_metinler": [
+        "Beş yıldızlı Google müşteri değerlendirmesini, Beyoğlu Nakliyat iletişim bilgilerini ve ücretsiz ekspertiz çağrısını gösteren dikey hikâye tasarımı."
+      ]
+    },
+    {
       "id": "30g-13-sehirlerarasi-yol",
       "tarih": "2026-10-07",
       "slot": "aksam",
