@@ -1,0 +1,5 @@
+
+# Yerel sosyal medya kimlik bilgileri
+credentials/
+*token*.json
+.env
