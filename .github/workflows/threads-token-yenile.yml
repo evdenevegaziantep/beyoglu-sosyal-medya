@@ -1,0 +1,34 @@
+name: Threads Token Yenile
+
+on:
+  schedule:
+    - cron: '15 5 * * 0'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: threads-token-yenile
+  cancel-in-progress: false
+
+jobs:
+  yenile:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Uzun süreli Threads tokenini yenile
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+        run: python threads_refresh.py --output .threads-token-new
+      - name: Yeni tokeni güvenli GitHub sırrına kaydet
+        env:
+          GH_TOKEN: ${{ secrets.REPO_ADMIN_TOKEN }}
+        run: |
+          gh secret set THREADS_ACCESS_TOKEN --repo "$GITHUB_REPOSITORY" < .threads-token-new
+          rm -f .threads-token-new
+          echo "Threads token sırrı güncellendi."
