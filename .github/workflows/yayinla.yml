@@ -41,6 +41,8 @@ jobs:
           META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
           META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
           META_IG_ID: ${{ secrets.META_IG_ID }}
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
           REPO: ${{ github.repository }}
           FORCE_IDS: ${{ inputs.force_ids }}
           FORCE_REPUBLISH: ${{ inputs.force_republish && '1' || '0' }}
