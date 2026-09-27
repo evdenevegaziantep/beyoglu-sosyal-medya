@@ -1,0 +1,40 @@
+name: Threads Günlük İzleme
+
+on:
+  schedule:
+    - cron: '45 18 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: threads-gunluk-izleme
+  cancel-in-progress: false
+
+jobs:
+  izle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Threads profil, gönderi, yanıt ve içgörülerini kontrol et
+        env:
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+          THREADS_REPORT_PATH: raporlar/threads-son-durum.json
+        run: python threads_monitor.py
+      - name: Salt-okunur raporu depoya kaydet
+        run: |
+          if git diff --quiet -- raporlar/threads-son-durum.json; then
+            echo "Rapor değişmedi."
+            exit 0
+          fi
+          git config user.name "beyoglu-threads-botu"
+          git config user.email "actions@users.noreply.github.com"
+          git add raporlar/threads-son-durum.json
+          git commit -m "Threads günlük izleme raporu"
+          git push
