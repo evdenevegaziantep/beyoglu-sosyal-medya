@@ -1,0 +1,65 @@
+{
+  "generated_at": "2026-09-27T20:52:43.281820+00:00",
+  "profile": {
+    "id": "27965371029808800",
+    "username": "evdenevegaziantep",
+    "name": "BEYOĞLU EVDEN EVE TAŞIMACILIK",
+    "is_verified": false
+  },
+  "account_metrics": {
+    "views": 0,
+    "likes": 0,
+    "replies": 0,
+    "reposts": 0,
+    "quotes": 0,
+    "clicks": [
+      {
+        "value": 0,
+        "link_url": "https://www.evdenevegaziantep.com/"
+      }
+    ],
+    "followers_count": 0
+  },
+  "publishing_limit": [
+    {
+      "quota_usage": 1,
+      "config": {
+        "quota_total": 250,
+        "quota_duration": 86400
+      },
+      "reply_quota_usage": 0,
+      "reply_config": {
+        "quota_total": 1000,
+        "quota_duration": 86400
+      }
+    }
+  ],
+  "post_count_read": 1,
+  "reply_count_read": 0,
+  "posts": [
+    {
+      "id": "18115009904108958",
+      "media_type": "IMAGE",
+      "permalink": "https://www.threads.com/@evdenevegaziantep/post/Ddzf5U8AeSN",
+      "username": "evdenevegaziantep",
+      "text": "Gaziantep’te taşınmayı planlı ve güvenli hale getiriyoruz. 🚚\n\nBeyoğlu Nakliyat olarak evden eve, asansörlü ve şehirler arası taşımacılıkta paketlemeden mobilya montajına kadar tüm süreci tek ekip ile yönetiyoruz.\n\nÜcretsiz keşif ve net fiyat:\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/",
+      "timestamp": "2026-09-27T20:45:11+0000",
+      "shortcode": "Ddzf5U8AeSN",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "replies": [],
+      "replies_error": null
+    }
+  ],
+  "errors": {
+    "posts": null,
+    "account_insights": null,
+    "quota": null
+  }
+}
