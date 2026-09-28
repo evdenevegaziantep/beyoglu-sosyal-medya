@@ -1,28 +1,33 @@
 {
-  "generated_at": "2026-09-27T20:52:43.281820+00:00",
+  "generated_at": "2026-09-28T18:58:44.099866+00:00",
   "profile": {
     "id": "27965371029808800",
     "username": "evdenevegaziantep",
-    "name": "BEYOĞLU EVDEN EVE TAŞIMACILIK",
+    "name": "Beyoğlu Nakliyat | Gaziantep",
+    "threads_biography": "Gaziantep evden eve, asansörlü ve şehirler arası nakliyat. Gerçek işler, taşınma rehberleri ve ücretsiz ekspertiz. 📞 0546 112 27 97",
     "is_verified": false
   },
   "account_metrics": {
-    "views": 0,
-    "likes": 0,
+    "views": 134,
+    "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "clicks": [
       {
         "value": 0,
+        "link_url": "https://www.evdenevegaziantep.com/sahinbey-evden-eve-nakliyat?utm_source=threads&utm_medium=organic_social&utm_campaign=threads"
+      },
+      {
+        "value": 0,
         "link_url": "https://www.evdenevegaziantep.com/"
       }
     ],
-    "followers_count": 0
+    "followers_count": 2
   },
   "publishing_limit": [
     {
-      "quota_usage": 1,
+      "quota_usage": 2,
       "config": {
         "quota_total": 250,
         "quota_duration": 86400
@@ -34,9 +39,28 @@
       }
     }
   ],
-  "post_count_read": 1,
+  "post_count_read": 2,
   "reply_count_read": 0,
   "posts": [
+    {
+      "id": "17906372847333796",
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.threads.com/@evdenevegaziantep/post/Dd1pNepGnOp",
+      "username": "evdenevegaziantep",
+      "text": "🏠 Komple ev taşıma süreci nasıl ilerler?\n\n1️⃣ Eşya ve bina koşulları değerlendirilir.\n2️⃣ Mobilyalar sökülür ve eşyalar türüne göre paketlenir.\n3️⃣ Paketler kontrollü biçimde araca yerleştirilir.\n4️⃣ Yeni adreste mobilya montajı ve yerleştirme yapılır.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/sahinbey-evden-eve-nakliyat/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
+      "timestamp": "2026-09-28T16:45:07+0000",
+      "shortcode": "Dd1pNepGnOp",
+      "metrics": {
+        "views": 43,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "replies": [],
+      "replies_error": null
+    },
     {
       "id": "18115009904108958",
       "media_type": "IMAGE",
@@ -46,8 +70,8 @@
       "timestamp": "2026-09-27T20:45:11+0000",
       "shortcode": "Ddzf5U8AeSN",
       "metrics": {
-        "views": 0,
-        "likes": 0,
+        "views": 91,
+        "likes": 1,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
