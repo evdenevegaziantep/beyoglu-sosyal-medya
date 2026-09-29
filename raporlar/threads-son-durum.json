@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T18:58:44.099866+00:00",
+  "generated_at": "2026-09-29T18:58:17.836856+00:00",
   "profile": {
     "id": "27965371029808800",
     "username": "evdenevegaziantep",
@@ -8,12 +8,16 @@
     "is_verified": false
   },
   "account_metrics": {
-    "views": 134,
+    "views": 102,
     "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "clicks": [
+      {
+        "value": 0,
+        "link_url": "https://www.evdenevegaziantep.com/asansorlu-tasimacilik?utm_source=threads&utm_medium=organic_social&utm_campaign=threads"
+      },
       {
         "value": 0,
         "link_url": "https://www.evdenevegaziantep.com/sahinbey-evden-eve-nakliyat?utm_source=threads&utm_medium=organic_social&utm_campaign=threads"
@@ -23,11 +27,11 @@
         "link_url": "https://www.evdenevegaziantep.com/"
       }
     ],
-    "followers_count": 2
+    "followers_count": 3
   },
   "publishing_limit": [
     {
-      "quota_usage": 2,
+      "quota_usage": 1,
       "config": {
         "quota_total": 250,
         "quota_duration": 86400
@@ -39,9 +43,28 @@
       }
     }
   ],
-  "post_count_read": 2,
+  "post_count_read": 3,
   "reply_count_read": 0,
   "posts": [
+    {
+      "id": "18159492913439999",
+      "media_type": "IMAGE",
+      "permalink": "https://www.threads.com/@evdenevegaziantep/post/Dd3dU2BEaW3",
+      "username": "evdenevegaziantep",
+      "text": "🏗️ Yüksek katlarda asansörlü taşıma\n\nDış cephe asansörü; uygun bina ve çevre koşullarında taşıma mesafesini kısaltır, apartman içindeki yoğunluğu azaltır ve büyük eşyaların kontrollü taşınmasına yardımcı olur.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/asansorlu-tasimacilik/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
+      "timestamp": "2026-09-29T09:39:47+0000",
+      "shortcode": "Dd3dU2BEaW3",
+      "metrics": {
+        "views": 37,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "replies": [],
+      "replies_error": null
+    },
     {
       "id": "17906372847333796",
       "media_type": "CAROUSEL_ALBUM",
@@ -51,8 +74,8 @@
       "timestamp": "2026-09-28T16:45:07+0000",
       "shortcode": "Dd1pNepGnOp",
       "metrics": {
-        "views": 43,
-        "likes": 0,
+        "views": 53,
+        "likes": 1,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
@@ -70,7 +93,7 @@
       "timestamp": "2026-09-27T20:45:11+0000",
       "shortcode": "Ddzf5U8AeSN",
       "metrics": {
-        "views": 91,
+        "views": 93,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
