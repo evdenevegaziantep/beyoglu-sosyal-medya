@@ -1,0 +1,31 @@
+services:
+  - type: web
+    name: beyoglu-whatsapp-conversions
+    runtime: docker
+    rootDir: whatsapp-conversions
+    dockerfilePath: ./Dockerfile
+    plan: starter
+    healthCheckPath: /health
+    disk:
+      name: conversion-data
+      mountPath: /var/data
+      sizeGB: 1
+    envVars:
+      - key: WEBHOOK_VERIFY_TOKEN
+        sync: false
+      - key: META_APP_SECRET
+        sync: false
+      - key: ADMIN_KEY
+        sync: false
+      - key: PII_HASH_SALT
+        sync: false
+      - key: CAPI_ACCESS_TOKEN
+        sync: false
+      - key: META_DATASET_ID
+        sync: false
+      - key: GRAPH_VERSION
+        value: v26.0
+      - key: DB_PATH
+        value: /var/data/whatsapp-conversions.sqlite3
+      - key: ALLOW_UNSIGNED_WEBHOOKS
+        value: "false"
