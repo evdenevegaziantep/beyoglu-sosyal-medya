@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T19:00:22.129737+00:00",
+  "generated_at": "2026-10-01T18:58:25.890788+00:00",
   "profile": {
     "id": "27965371029808800",
     "username": "evdenevegaziantep",
@@ -8,7 +8,7 @@
     "is_verified": false
   },
   "account_metrics": {
-    "views": 51,
+    "views": 10,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -35,7 +35,7 @@
   },
   "publishing_limit": [
     {
-      "quota_usage": 1,
+      "quota_usage": 0,
       "config": {
         "quota_total": 250,
         "quota_duration": 86400
@@ -59,7 +59,7 @@
       "timestamp": "2026-09-30T16:45:44+0000",
       "shortcode": "Dd6y1yqjy_z",
       "metrics": {
-        "views": 7,
+        "views": 8,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
