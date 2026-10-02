@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T18:58:25.890788+00:00",
+  "generated_at": "2026-10-02T22:34:46.448841+00:00",
   "profile": {
     "id": "27965371029808800",
     "username": "evdenevegaziantep",
@@ -8,7 +8,7 @@
     "is_verified": false
   },
   "account_metrics": {
-    "views": 10,
+    "views": 7,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -35,7 +35,7 @@
   },
   "publishing_limit": [
     {
-      "quota_usage": 0,
+      "quota_usage": 1,
       "config": {
         "quota_total": 250,
         "quota_duration": 86400
@@ -47,9 +47,28 @@
       }
     }
   ],
-  "post_count_read": 4,
+  "post_count_read": 5,
   "reply_count_read": 0,
   "posts": [
+    {
+      "id": "17870278281643253",
+      "media_type": "IMAGE",
+      "permalink": "https://www.threads.com/@evdenevegaziantep/post/Dd_2oEjEZIC",
+      "username": "evdenevegaziantep",
+      "text": "🚚 Kamyon içinde düzenli yükleme\n\nPaketleme kadar araç içi yerleşim de önemlidir. Ağır ve dayanıklı parçalar tabanda dengeli biçimde konumlandırılır; hassas eşyalar ayrı bölgelerde tutulur ve hareket etmeyecek şekilde sabitlenir.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/evden-eve-nakliyat/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
+      "timestamp": "2026-10-02T15:54:47+0000",
+      "shortcode": "Dd_2oEjEZIC",
+      "metrics": {
+        "views": 6,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "replies": [],
+      "replies_error": null
+    },
     {
       "id": "18128942113691451",
       "media_type": "VIDEO",
@@ -59,7 +78,7 @@
       "timestamp": "2026-09-30T16:45:44+0000",
       "shortcode": "Dd6y1yqjy_z",
       "metrics": {
-        "views": 8,
+        "views": 9,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
