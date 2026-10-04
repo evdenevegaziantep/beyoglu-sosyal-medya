@@ -114,8 +114,44 @@ def instagram_post(cfg, urls, kind, caption, alt_texts=None):
     return api(f"/{cfg['IG']}/media_publish", {**base, "creation_id": container["id"]})["id"]
 
 
+def resolve_page_token(cfg):
+    """Kullanıcı tokenından doğru Page Access Token'ı güvenli biçimde türetir.
+
+    GitHub secret içindeki kullanıcı tokenı loglara yazılmaz. Böylece kullanıcıdan
+    Page Token'ı ayırt edip ayrıca kopyalaması beklenmez; token yalnızca bu çalışma
+    sürecinin belleğinde tutulur.
+    """
+    cached = cfg.get("_RESOLVED_PT")
+    if cached:
+        return cached
+
+    try:
+        response = api(
+            "/me/accounts",
+            {
+                "fields": "id,name,access_token",
+                "access_token": cfg["UT"],
+            },
+            "GET",
+            tries=1,
+        )
+        for page in response.get("data", []):
+            if str(page.get("id")) == str(cfg["PG"]) and page.get("access_token"):
+                cfg["_RESOLVED_PT"] = page["access_token"]
+                print("  🔐 Sayfa tokenı kullanıcı tokenından güvenli biçimde türetildi.")
+                return cfg["_RESOLVED_PT"]
+    except Exception as exc:
+        print(f"  ⚠️ Sayfa tokenı otomatik türetilemedi: {exc}")
+
+    # Geriye dönük uyumluluk: doğru bir META_PAGE_TOKEN zaten kayıtlıysa onu kullan.
+    if cfg.get("PT"):
+        print("  ⚠️ GitHub'da kayıtlı META_PAGE_TOKEN kullanılacak.")
+        return cfg["PT"]
+    raise RuntimeError("Beyoğlu Facebook Sayfası için Page Access Token alınamadı")
+
+
 def facebook_post(cfg, urls, kind, caption):
-    base = {"access_token": cfg["PT"]}
+    base = {"access_token": resolve_page_token(cfg)}
     if kind == "video":
         return api(f"/{cfg['PG']}/videos", {**base, "file_url": urls[0], "description": caption}).get("id")
 
