@@ -1,154 +1,28 @@
 {
-  "generated_at": "2026-10-03T21:47:50.554675+00:00",
+  "generated_at": "2026-10-04T21:58:05.068440+00:00",
   "profile": {
-    "id": "27965371029808800",
-    "username": "evdenevegaziantep",
-    "name": "Beyoğlu Nakliyat | Gaziantep",
-    "threads_biography": "Gaziantep evden eve, asansörlü ve şehirler arası nakliyat. Gerçek işler, taşınma rehberleri ve ücretsiz ekspertiz. 📞 0546 112 27 97",
-    "is_verified": false
-  },
-  "account_metrics": {
-    "views": 13,
-    "likes": 0,
-    "replies": 0,
-    "reposts": 0,
-    "quotes": 0,
-    "clicks": [
-      {
-        "value": 0,
-        "link_url": "https://www.evdenevegaziantep.com/evden-eve-nakliyat?utm_source=threads&utm_medium=organic_social&utm_campaign=threads"
-      },
-      {
-        "value": 0,
-        "link_url": "https://www.evdenevegaziantep.com/asansorlu-tasimacilik?utm_source=threads&utm_medium=organic_social&utm_campaign=threads"
-      },
-      {
-        "value": 0,
-        "link_url": "https://www.evdenevegaziantep.com/sahinbey-evden-eve-nakliyat?utm_source=threads&utm_medium=organic_social&utm_campaign=threads"
-      },
-      {
-        "value": 0,
-        "link_url": "https://www.evdenevegaziantep.com/"
-      }
-    ],
-    "followers_count": 3
-  },
-  "publishing_limit": [
-    {
-      "quota_usage": 0,
-      "config": {
-        "quota_total": 250,
-        "quota_duration": 86400
-      },
-      "reply_quota_usage": 0,
-      "reply_config": {
-        "quota_total": 1000,
-        "quota_duration": 86400
-      }
+    "error": {
+      "http": 400,
+      "message": "Invalid OAuth access token - Cannot parse access token"
     }
-  ],
-  "post_count_read": 5,
+  },
+  "account_metrics": {},
+  "publishing_limit": [],
+  "post_count_read": 0,
   "reply_count_read": 0,
-  "posts": [
-    {
-      "id": "17870278281643253",
-      "media_type": "IMAGE",
-      "permalink": "https://www.threads.com/@evdenevegaziantep/post/Dd_2oEjEZIC",
-      "username": "evdenevegaziantep",
-      "text": "🚚 Kamyon içinde düzenli yükleme\n\nPaketleme kadar araç içi yerleşim de önemlidir. Ağır ve dayanıklı parçalar tabanda dengeli biçimde konumlandırılır; hassas eşyalar ayrı bölgelerde tutulur ve hareket etmeyecek şekilde sabitlenir.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/evden-eve-nakliyat/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
-      "timestamp": "2026-10-02T15:54:47+0000",
-      "shortcode": "Dd_2oEjEZIC",
-      "metrics": {
-        "views": 8,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "replies": [],
-      "replies_error": null
-    },
-    {
-      "id": "18128942113691451",
-      "media_type": "VIDEO",
-      "permalink": "https://www.threads.com/@evdenevegaziantep/post/Dd6y1yqjy_z",
-      "username": "evdenevegaziantep",
-      "text": "🪛 Mobilya hazırlığı ve söküm süreci\n\nTaşınma öncesinde mobilyaların hareketli parçaları ayrılır, bağlantı elemanları sınıflandırılır ve yüzeyler koruyucu malzemelerle sarılır. Bu yöntem hem araç içinde daha düzenli yerleşim sağlar hem de yeni adresteki montaj sürecini kolaylaştırır.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/evden-eve-nakliyat/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
-      "timestamp": "2026-09-30T16:45:44+0000",
-      "shortcode": "Dd6y1yqjy_z",
-      "metrics": {
-        "views": 11,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "replies": [],
-      "replies_error": null
-    },
-    {
-      "id": "18159492913439999",
-      "media_type": "IMAGE",
-      "permalink": "https://www.threads.com/@evdenevegaziantep/post/Dd3dU2BEaW3",
-      "username": "evdenevegaziantep",
-      "text": "🏗️ Yüksek katlarda asansörlü taşıma\n\nDış cephe asansörü; uygun bina ve çevre koşullarında taşıma mesafesini kısaltır, apartman içindeki yoğunluğu azaltır ve büyük eşyaların kontrollü taşınmasına yardımcı olur.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/asansorlu-tasimacilik/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
-      "timestamp": "2026-09-29T09:39:47+0000",
-      "shortcode": "Dd3dU2BEaW3",
-      "metrics": {
-        "views": 40,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "replies": [],
-      "replies_error": null
-    },
-    {
-      "id": "17906372847333796",
-      "media_type": "CAROUSEL_ALBUM",
-      "permalink": "https://www.threads.com/@evdenevegaziantep/post/Dd1pNepGnOp",
-      "username": "evdenevegaziantep",
-      "text": "🏠 Komple ev taşıma süreci nasıl ilerler?\n\n1️⃣ Eşya ve bina koşulları değerlendirilir.\n2️⃣ Mobilyalar sökülür ve eşyalar türüne göre paketlenir.\n3️⃣ Paketler kontrollü biçimde araca yerleştirilir.\n4️⃣ Yeni adreste mobilya montajı ve yerleştirme yapılır.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/sahinbey-evden-eve-nakliyat/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
-      "timestamp": "2026-09-28T16:45:07+0000",
-      "shortcode": "Dd1pNepGnOp",
-      "metrics": {
-        "views": 54,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "replies": [],
-      "replies_error": null
-    },
-    {
-      "id": "18115009904108958",
-      "media_type": "IMAGE",
-      "permalink": "https://www.threads.com/@evdenevegaziantep/post/Ddzf5U8AeSN",
-      "username": "evdenevegaziantep",
-      "text": "Gaziantep’te taşınmayı planlı ve güvenli hale getiriyoruz. 🚚\n\nBeyoğlu Nakliyat olarak evden eve, asansörlü ve şehirler arası taşımacılıkta paketlemeden mobilya montajına kadar tüm süreci tek ekip ile yönetiyoruz.\n\nÜcretsiz keşif ve net fiyat:\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/",
-      "timestamp": "2026-09-27T20:45:11+0000",
-      "shortcode": "Ddzf5U8AeSN",
-      "metrics": {
-        "views": 94,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "replies": [],
-      "replies_error": null
-    }
-  ],
+  "posts": [],
   "errors": {
-    "posts": null,
-    "account_insights": null,
-    "quota": null
+    "posts": {
+      "http": 400,
+      "message": "Invalid OAuth access token - Cannot parse access token"
+    },
+    "account_insights": {
+      "http": 400,
+      "message": "Invalid OAuth access token - Cannot parse access token"
+    },
+    "quota": {
+      "http": 400,
+      "message": "Invalid OAuth access token - Cannot parse access token"
+    }
   }
 }
