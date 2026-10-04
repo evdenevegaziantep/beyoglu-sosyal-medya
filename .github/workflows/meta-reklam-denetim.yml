@@ -1,0 +1,21 @@
+name: Meta Reklam Canlı Denetim
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  denetle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Reklam hesabını salt okunur denetle
+        run: python meta_reklam_denetle.py
+        env:
+          META_USER_TOKEN: ${{ secrets.META_USER_TOKEN }}
