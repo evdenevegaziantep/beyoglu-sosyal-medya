@@ -1,0 +1,36 @@
+name: Meta Token Yenile
+
+on:
+  schedule:
+    - cron: '45 5 * * 0'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: meta-token-yenile
+  cancel-in-progress: false
+
+jobs:
+  yenile:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Meta kullanıcı tokenını uzun ömürlü tokene çevir
+        env:
+          META_USER_TOKEN: ${{ secrets.META_USER_TOKEN }}
+          META_APP_ID: ${{ secrets.META_APP_ID }}
+          META_APP_SECRET: ${{ secrets.META_APP_SECRET }}
+        run: python meta_refresh.py --output .meta-token-new
+      - name: Yeni tokenı güvenli GitHub sırrına kaydet
+        env:
+          GH_TOKEN: ${{ secrets.REPO_ADMIN_TOKEN }}
+        run: |
+          gh secret set META_USER_TOKEN --repo "$GITHUB_REPOSITORY" < .meta-token-new
+          rm -f .meta-token-new
+          echo "Meta kullanıcı tokenı sırrı güncellendi."
