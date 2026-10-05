@@ -12,6 +12,10 @@ on:
         description: 'Zorla yayınlanacak program kimlikleri (virgülle)'
         required: false
         type: string
+      force_platforms:
+        description: 'Yalnızca çalıştırılacak platformlar (instagram,facebook,threads)'
+        required: false
+        type: string
       force_republish:
         description: 'Daha önce yayınlanmış olsa da tekrar yayınla'
         required: false
@@ -30,8 +34,8 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 25
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: '3.12'
       - name: Zamanı gelen yayınları yap
@@ -45,6 +49,7 @@ jobs:
           THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
           REPO: ${{ github.repository }}
           FORCE_IDS: ${{ inputs.force_ids }}
+          FORCE_PLATFORMS: ${{ inputs.force_platforms }}
           FORCE_REPUBLISH: ${{ inputs.force_republish && '1' || '0' }}
       - name: Yayın durumunu depoya kaydet
         if: always()
