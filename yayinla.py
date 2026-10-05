@@ -40,6 +40,14 @@ def api(path, params, method="POST", tries=3):
         except urllib.error.HTTPError as exc:
             last = exc.read().decode()
             print(f"  ⚠️ API denemesi {attempt}/{tries}: HTTP {exc.code} — {last[:350]}")
+            try:
+                error_code = (json.loads(last).get("error") or {}).get("code")
+            except Exception:
+                error_code = None
+            # Geçersiz/süresi dolmuş token yeniden denemeyle düzelmez; hızlı ve
+            # açık hata vererek her platform için gereksiz 24 saniyeyi önle.
+            if error_code == 190:
+                raise RuntimeError(last or "Meta erişim tokenı geçersiz veya süresi dolmuş")
             if attempt < tries:
                 time.sleep(8 * attempt)
     raise RuntimeError(last or "Meta API üç denemede başarısız")
@@ -277,6 +285,11 @@ def main():
     published = state.setdefault("published", {})
 
     force_ids = {x.strip() for x in os.environ.get("FORCE_IDS", "").split(",") if x.strip()}
+    force_platforms = {
+        x.strip().casefold()
+        for x in os.environ.get("FORCE_PLATFORMS", "").split(",")
+        if x.strip()
+    }
     force_republish = os.environ.get("FORCE_REPUBLISH") == "1"
     run_date = os.environ.get("FORCE_DATE") or today()
     slot = os.environ.get("FORCE_SLOT") or current_slot()
@@ -287,7 +300,10 @@ def main():
     else:
         jobs = [x for x in program if x.get("tarih") == run_date and x.get("slot") == slot]
 
-    print(f"📅 {run_date} | 🕐 {slot} | işler: {len(jobs)} | zorla: {sorted(force_ids)}")
+    print(
+        f"📅 {run_date} | 🕐 {slot} | işler: {len(jobs)} | "
+        f"zorla: {sorted(force_ids)} | platform filtresi: {sorted(force_platforms)}"
+    )
     failures = []
 
     for item in jobs:
@@ -300,6 +316,9 @@ def main():
         if not isinstance(alt_texts, list):
             alt_texts = []
         for platform in item.get("platformlar", []):
+            if force_platforms and platform.casefold() not in force_platforms:
+                print(f"↪️ platform filtresiyle atlandı: {item_id}:{platform}")
+                continue
             key = f"{item_id}:{platform}"
             if key in published and not force_republish:
                 print(f"↪️ zaten yayınlandı: {key} → {published[key].get('post_id')}")
