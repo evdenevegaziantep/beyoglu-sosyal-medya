@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T22:48:32.828102+00:00",
+  "generated_at": "2026-10-07T23:19:48.706907+00:00",
   "profile": {
     "id": "27965371029808800",
     "username": "evdenevegaziantep",
@@ -8,12 +8,16 @@
     "is_verified": false
   },
   "account_metrics": {
-    "views": 10,
-    "likes": 0,
+    "views": 145,
+    "likes": 2,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "clicks": [
+      {
+        "value": 0,
+        "link_url": "https://www.evdenevegaziantep.com/sehirler-arasi-nakliyat?utm_source=threads&utm_medium=organic_social&utm_campaign=threads"
+      },
       {
         "value": 0,
         "link_url": "https://www.evdenevegaziantep.com/?utm_source=threads&utm_medium=organic_social&utm_campaign=google_yorum_elif"
@@ -59,9 +63,47 @@
       }
     }
   ],
-  "post_count_read": 8,
+  "post_count_read": 10,
   "reply_count_read": 0,
   "posts": [
+    {
+      "id": "18221049328335572",
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.threads.com/@evdenevegaziantep/post/DeNEMgsiJzt",
+      "username": "evdenevegaziantep",
+      "text": "Kilis - Bolvadin Evden Eve Taşıma \n #asansorlu nakliyat\n https://www.evdenevegaziantep.com",
+      "timestamp": "2026-10-07T19:03:18+0000",
+      "shortcode": "DeNEMgsiJzt",
+      "metrics": {
+        "views": 110,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "replies": [],
+      "replies_error": null
+    },
+    {
+      "id": "17937775716366533",
+      "media_type": "IMAGE",
+      "permalink": "https://www.threads.com/@evdenevegaziantep/post/DeM0IJmGxsn",
+      "username": "evdenevegaziantep",
+      "text": "🛣️ Şehirlerarası nakliyatta planlama\n\nUzun mesafeli taşınmalarda eşya listesi, ambalajlama yöntemi, araç seçimi, çıkış zamanı, güzergâh ve teslimat planı önceden netleştirilmelidir.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/sehirler-arasi-nakliyat/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
+      "timestamp": "2026-10-07T16:43:03+0000",
+      "shortcode": "DeM0IJmGxsn",
+      "metrics": {
+        "views": 31,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "replies": [],
+      "replies_error": null
+    },
     {
       "id": "17993696477846202",
       "media_type": "IMAGE",
@@ -71,8 +113,8 @@
       "timestamp": "2026-10-05T22:51:49+0000",
       "shortcode": "DeIUvY-FBDL",
       "metrics": {
-        "views": 6,
-        "likes": 0,
+        "views": 7,
+        "likes": 1,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
@@ -90,7 +132,7 @@
       "timestamp": "2026-10-05T18:55:39+0000",
       "shortcode": "DeH5rvRkSVj",
       "metrics": {
-        "views": 4,
+        "views": 5,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
