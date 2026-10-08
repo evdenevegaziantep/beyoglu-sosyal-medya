@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T23:19:48.706907+00:00",
+  "generated_at": "2026-10-08T23:34:16.012866+00:00",
   "profile": {
     "id": "27965371029808800",
     "username": "evdenevegaziantep",
@@ -8,8 +8,8 @@
     "is_verified": false
   },
   "account_metrics": {
-    "views": 145,
-    "likes": 2,
+    "views": 218,
+    "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
@@ -51,7 +51,7 @@
   },
   "publishing_limit": [
     {
-      "quota_usage": 1,
+      "quota_usage": 2,
       "config": {
         "quota_total": 250,
         "quota_duration": 86400
@@ -63,9 +63,47 @@
       }
     }
   ],
-  "post_count_read": 10,
+  "post_count_read": 12,
   "reply_count_read": 0,
   "posts": [
+    {
+      "id": "18010414967994220",
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.threads.com/@evdenevegaziantep/post/DeP5he_FbU5",
+      "username": "evdenevegaziantep",
+      "text": "📦 Oda oda paketleme ve yük hazırlığı\n\nBu gerçek çalışmada dolap, masa, koltuk ve yatak gibi farklı eşya gruplarının ayrı ayrı koruma altına alındığını görebilirsiniz.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/blog/esya-paketleme-rehberi/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
+      "timestamp": "2026-10-08T21:27:54+0000",
+      "shortcode": "DeP5he_FbU5",
+      "metrics": {
+        "views": 7,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "replies": [],
+      "replies_error": null
+    },
+    {
+      "id": "18106122296257659",
+      "media_type": "IMAGE",
+      "permalink": "https://www.threads.com/@evdenevegaziantep/post/DeO-OUfIGTR",
+      "username": "evdenevegaziantep",
+      "text": "💙 Koruyucu ambalaj neden önemlidir?\n\nMobilyaların yüzeyini toz, sürtünme ve darbelere karşı korumak için eşyanın ölçüsüne uygun ambalaj kullanılmalıdır. Kapaklar, köşeler ve hareketli bölümler ayrıca sabitlenerek taşıma sırasında açılmaları önlenir.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/blog/esya-paketleme-rehberi/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
+      "timestamp": "2026-10-08T12:49:45+0000",
+      "shortcode": "DeO-OUfIGTR",
+      "metrics": {
+        "views": 23,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "replies": [],
+      "replies_error": null
+    },
     {
       "id": "18221049328335572",
       "media_type": "CAROUSEL_ALBUM",
@@ -75,7 +113,7 @@
       "timestamp": "2026-10-07T19:03:18+0000",
       "shortcode": "DeNEMgsiJzt",
       "metrics": {
-        "views": 110,
+        "views": 147,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -94,7 +132,7 @@
       "timestamp": "2026-10-07T16:43:03+0000",
       "shortcode": "DeM0IJmGxsn",
       "metrics": {
-        "views": 31,
+        "views": 39,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
