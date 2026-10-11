@@ -50,7 +50,10 @@ jobs:
                   raw = exc.read().decode(errors="replace")
                   try: err = json.loads(raw).get("error", {})
                   except Exception: err = {}
-                  raise RuntimeError(f"Meta API HTTP {exc.code}, code={err.get('code')}, subcode={err.get('error_subcode')}, message={str(err.get('message'))[:300]}")
+                  detail = err.get("error_user_msg") or err.get("message")
+                  title = err.get("error_user_title")
+                  data = err.get("error_data")
+                  raise RuntimeError(f"Meta API HTTP {exc.code}, code={err.get('code')}, subcode={err.get('error_subcode')}, title={title}, detail={str(detail)[:600]}, data={str(data)[:600]}")
 
           now = datetime.now(ZoneInfo("Europe/Istanbul"))
           end = now.replace(hour=23, minute=0, second=0, microsecond=0)
@@ -85,16 +88,19 @@ jobs:
               created["campaign_id"] = campaign["id"]
 
               targeting = {
-                  "age_min": 30,
-                  "age_max": 55,
+                  "age_min": 25,
+                  "age_max": 54,
                   "geo_locations": {
-                      "places": [{
-                          "key": "105841367912978",
-                          "radius": 11,
-                          "distance_unit": "kilometer"
+                      "cities": [{
+                          "country": "TR",
+                          "distance_unit": "kilometer",
+                          "key": "2304013",
+                          "name": "Gaziantep",
+                          "radius": 25,
+                          "region": "Gaziantep Province",
+                          "region_id": "3726"
                       }],
-                      "medium_geo_areas": [{"key": "2328021"}],
-                      "location_types": ["frequently_in", "home", "recent"]
+                      "location_types": ["frequently_in", "home"]
                   },
                   "locales": [19],
                   "publisher_platforms": ["facebook"],
@@ -117,7 +123,7 @@ jobs:
                       "smart_pse_enabled": False
                   }),
                   targeting=json.dumps(targeting),
-                  start_time=now.isoformat(timespec="seconds"),
+                  start_time=(now + timedelta(minutes=10)).isoformat(timespec="seconds"),
                   end_time=end.isoformat(timespec="seconds"),
                   status="PAUSED",
               )
@@ -169,7 +175,9 @@ jobs:
               # Fail closed: pause anything created before surfacing the error.
               for key in ("ad_id", "adset_id", "campaign_id"):
                   if created.get(key):
-                      try: post(created[key], status="PAUSED")
-                      except Exception: pass
+                      try: post(created[key], status="DELETED")
+                      except Exception:
+                          try: post(created[key], status="PAUSED")
+                          except Exception: pass
               raise
           PYCODE
