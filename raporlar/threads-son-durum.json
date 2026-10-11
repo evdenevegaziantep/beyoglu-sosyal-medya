@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T22:00:19.620269+00:00",
+  "generated_at": "2026-10-11T22:29:22.870822+00:00",
   "profile": {
     "id": "27965371029808800",
     "username": "evdenevegaziantep",
@@ -8,8 +8,8 @@
     "is_verified": false
   },
   "account_metrics": {
-    "views": 6,
-    "likes": 0,
+    "views": 5,
+    "likes": 4,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
@@ -51,7 +51,7 @@
   },
   "publishing_limit": [
     {
-      "quota_usage": 0,
+      "quota_usage": 1,
       "config": {
         "quota_total": 250,
         "quota_duration": 86400
@@ -63,9 +63,28 @@
       }
     }
   ],
-  "post_count_read": 12,
+  "post_count_read": 13,
   "reply_count_read": 0,
   "posts": [
+    {
+      "id": "18100801457380450",
+      "media_type": "IMAGE",
+      "permalink": "https://www.threads.com/@evdenevegaziantep/post/DeXBV4BlsGo",
+      "username": "evdenevegaziantep",
+      "text": "🔒 Hassas parçaların sabitlenmesi\n\nPaketlenen eşyaların şekline uygun bağlantı ve sabitleme noktaları kullanılmalıdır. Özellikle köşeli mobilyalarda koruyucu katmanın kaymaması ve parçaların birbirine temas etmemesi önemlidir.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/blog/esya-paketleme-rehberi/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
+      "timestamp": "2026-10-11T15:50:51+0000",
+      "shortcode": "DeXBV4BlsGo",
+      "metrics": {
+        "views": 4,
+        "likes": 2,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "replies": [],
+      "replies_error": null
+    },
     {
       "id": "18010414967994220",
       "media_type": "CAROUSEL_ALBUM",
@@ -76,7 +95,7 @@
       "shortcode": "DeP5he_FbU5",
       "metrics": {
         "views": 10,
-        "likes": 1,
+        "likes": 2,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
@@ -95,7 +114,7 @@
       "shortcode": "DeO-OUfIGTR",
       "metrics": {
         "views": 25,
-        "likes": 0,
+        "likes": 1,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
