@@ -113,6 +113,7 @@ jobs:
                   name="Gaziantep-Sahinbey-Sehitkamil-30-55-FBFeed-WA",
                   campaign_id=campaign["id"],
                   lifetime_budget=str(test_budget),
+                  is_adset_budget_sharing_enabled="false",
                   billing_event="IMPRESSIONS",
                   optimization_goal="LEAD_GENERATION",
                   bid_strategy="LOWEST_COST_WITHOUT_CAP",
