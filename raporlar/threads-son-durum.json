@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T22:29:22.870822+00:00",
+  "generated_at": "2026-10-13T00:59:05.320080+00:00",
   "profile": {
     "id": "27965371029808800",
     "username": "evdenevegaziantep",
@@ -8,12 +8,16 @@
     "is_verified": false
   },
   "account_metrics": {
-    "views": 5,
-    "likes": 4,
+    "views": 13,
+    "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "clicks": [
+      {
+        "value": 0,
+        "link_url": "https://www.evdenevegaziantep.com/ibrahimli-nakliyat?utm_source=threads&utm_medium=organic_social&utm_campaign=threads"
+      },
       {
         "value": 0,
         "link_url": "https://www.evdenevegaziantep.com/sehirler-arasi-nakliyat?utm_source=threads&utm_medium=organic_social&utm_campaign=threads"
@@ -63,9 +67,28 @@
       }
     }
   ],
-  "post_count_read": 13,
+  "post_count_read": 14,
   "reply_count_read": 0,
   "posts": [
+    {
+      "id": "17874987999635823",
+      "media_type": "IMAGE",
+      "permalink": "https://www.threads.com/@evdenevegaziantep/post/DeZcf4dHDW2",
+      "username": "evdenevegaziantep",
+      "text": "👷 Deneyimli ekip, kontrollü süreç\n\nProfesyonel taşımacılık; görev dağılımı, doğru ekipman kullanımı ve ekip içi koordinasyon gerektirir. Paketleme, yükleme, taşıma ve montaj aşamalarında sorumlulukların belirli olması işin düzenli ilerlemesini sağlar.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/ibrahimli-nakliyat/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
+      "timestamp": "2026-10-12T14:26:43+0000",
+      "shortcode": "DeZcf4dHDW2",
+      "metrics": {
+        "views": 5,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "replies": [],
+      "replies_error": null
+    },
     {
       "id": "18100801457380450",
       "media_type": "IMAGE",
@@ -75,7 +98,7 @@
       "timestamp": "2026-10-11T15:50:51+0000",
       "shortcode": "DeXBV4BlsGo",
       "metrics": {
-        "views": 4,
+        "views": 6,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -132,7 +155,7 @@
       "timestamp": "2026-10-07T19:03:18+0000",
       "shortcode": "DeNEMgsiJzt",
       "metrics": {
-        "views": 152,
+        "views": 153,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -151,7 +174,7 @@
       "timestamp": "2026-10-07T16:43:03+0000",
       "shortcode": "DeM0IJmGxsn",
       "metrics": {
-        "views": 39,
+        "views": 40,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
