@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T00:59:05.320080+00:00",
+  "generated_at": "2026-10-13T23:08:02.373330+00:00",
   "profile": {
     "id": "27965371029808800",
     "username": "evdenevegaziantep",
@@ -8,12 +8,16 @@
     "is_verified": false
   },
   "account_metrics": {
-    "views": 13,
-    "likes": 0,
+    "views": 12,
+    "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "clicks": [
+      {
+        "value": 0,
+        "link_url": "https://www.evdenevegaziantep.com/karatas-nakliyat?utm_source=threads&utm_medium=organic_social&utm_campaign=threads"
+      },
       {
         "value": 0,
         "link_url": "https://www.evdenevegaziantep.com/ibrahimli-nakliyat?utm_source=threads&utm_medium=organic_social&utm_campaign=threads"
@@ -67,9 +71,28 @@
       }
     }
   ],
-  "post_count_read": 14,
+  "post_count_read": 15,
   "reply_count_read": 0,
   "posts": [
+    {
+      "id": "18132349447750401",
+      "media_type": "IMAGE",
+      "permalink": "https://www.threads.com/@evdenevegaziantep/post/DecxScBAYIz",
+      "username": "evdenevegaziantep",
+      "text": "🗂️ Oda bazlı ambalajlama\n\nPaketlerin oda ve eşya grubuna göre ayrılması, hem araç içi sıralamayı hem de yeni adresteki teslimatı kolaylaştırır. Büyük mobilyalar koruyucu katmanlarla sarılır; küçük parçalar etiketli kutularda taşınır.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/karatas-nakliyat/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
+      "timestamp": "2026-10-13T21:26:06+0000",
+      "shortcode": "DecxScBAYIz",
+      "metrics": {
+        "views": 3,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "replies": [],
+      "replies_error": null
+    },
     {
       "id": "17874987999635823",
       "media_type": "IMAGE",
@@ -79,8 +102,8 @@
       "timestamp": "2026-10-12T14:26:43+0000",
       "shortcode": "DeZcf4dHDW2",
       "metrics": {
-        "views": 5,
-        "likes": 0,
+        "views": 6,
+        "likes": 1,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
