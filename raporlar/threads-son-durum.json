@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T23:08:02.373330+00:00",
+  "generated_at": "2026-10-14T21:57:19.480204+00:00",
   "profile": {
     "id": "27965371029808800",
     "username": "evdenevegaziantep",
@@ -8,8 +8,8 @@
     "is_verified": false
   },
   "account_metrics": {
-    "views": 12,
-    "likes": 1,
+    "views": 4,
+    "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
@@ -59,7 +59,7 @@
   },
   "publishing_limit": [
     {
-      "quota_usage": 1,
+      "quota_usage": 0,
       "config": {
         "quota_total": 250,
         "quota_duration": 86400
