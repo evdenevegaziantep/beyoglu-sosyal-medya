@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T21:57:19.480204+00:00",
+  "generated_at": "2026-10-15T21:48:20.716929+00:00",
   "profile": {
     "id": "27965371029808800",
     "username": "evdenevegaziantep",
@@ -8,7 +8,7 @@
     "is_verified": false
   },
   "account_metrics": {
-    "views": 4,
+    "views": 19,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -59,7 +59,7 @@
   },
   "publishing_limit": [
     {
-      "quota_usage": 0,
+      "quota_usage": 1,
       "config": {
         "quota_total": 250,
         "quota_duration": 86400
@@ -71,9 +71,28 @@
       }
     }
   ],
-  "post_count_read": 15,
+  "post_count_read": 16,
   "reply_count_read": 0,
   "posts": [
+    {
+      "id": "18139930717549042",
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.threads.com/@evdenevegaziantep/post/DegydHFG979",
+      "username": "evdenevegaziantep",
+      "text": "🏗️ Asansörlü taşıma için ön kontrol\n\nDış cephe asansörü kurulmadan önce şu noktaları değerlendiriyoruz:\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/asansorlu-tasimacilik/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
+      "timestamp": "2026-10-15T10:53:14+0000",
+      "shortcode": "DegydHFG979",
+      "metrics": {
+        "views": 19,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "replies": [],
+      "replies_error": null
+    },
     {
       "id": "18132349447750401",
       "media_type": "IMAGE",
