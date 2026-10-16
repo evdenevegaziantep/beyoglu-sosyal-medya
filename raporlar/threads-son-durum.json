@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T21:48:20.716929+00:00",
+  "generated_at": "2026-10-16T21:43:51.735908+00:00",
   "profile": {
     "id": "27965371029808800",
     "username": "evdenevegaziantep",
@@ -8,7 +8,7 @@
     "is_verified": false
   },
   "account_metrics": {
-    "views": 19,
+    "views": 20,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -71,9 +71,28 @@
       }
     }
   ],
-  "post_count_read": 16,
+  "post_count_read": 17,
   "reply_count_read": 0,
   "posts": [
+    {
+      "id": "18142505500677123",
+      "media_type": "IMAGE",
+      "permalink": "https://www.threads.com/@evdenevegaziantep/post/DejtNXtEQj1",
+      "username": "evdenevegaziantep",
+      "text": "🛋️ Salon mobilyalarında yüzey koruma\n\nKoltuk ve berjerlerde kumaş yüzeyi, ahşap bölümler, ayaklar ve köşeler ayrı ayrı değerlendirilir. Koruyucu malzemenin yüzeye tam oturması ve taşıma sırasında kaymaması için uygun noktalardan sabitleme yapılır.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/blog/esya-paketleme-rehberi/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
+      "timestamp": "2026-10-16T14:05:07+0000",
+      "shortcode": "DejtNXtEQj1",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "replies": [],
+      "replies_error": null
+    },
     {
       "id": "18139930717549042",
       "media_type": "CAROUSEL_ALBUM",
