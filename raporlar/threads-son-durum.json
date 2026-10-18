@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T20:59:47.582865+00:00",
+  "generated_at": "2026-10-18T21:04:03.503026+00:00",
   "profile": {
     "id": "27965371029808800",
     "username": "evdenevegaziantep",
@@ -8,12 +8,16 @@
     "is_verified": false
   },
   "account_metrics": {
-    "views": 1,
-    "likes": 0,
+    "views": 19,
+    "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "clicks": [
+      {
+        "value": 0,
+        "link_url": "https://www.evdenevegaziantep.com/binevler-nakliyat?utm_source=threads&utm_medium=organic_social&utm_campaign=threads"
+      },
       {
         "value": 0,
         "link_url": "https://www.evdenevegaziantep.com/karatas-nakliyat?utm_source=threads&utm_medium=organic_social&utm_campaign=threads"
@@ -59,7 +63,7 @@
   },
   "publishing_limit": [
     {
-      "quota_usage": 0,
+      "quota_usage": 1,
       "config": {
         "quota_total": 250,
         "quota_duration": 86400
@@ -71,9 +75,28 @@
       }
     }
   ],
-  "post_count_read": 17,
+  "post_count_read": 18,
   "reply_count_read": 0,
   "posts": [
+    {
+      "id": "18146087893569759",
+      "media_type": "IMAGE",
+      "permalink": "https://www.threads.com/@evdenevegaziantep/post/DeoyFDeG3u0",
+      "username": "evdenevegaziantep",
+      "text": "🏷️ Etiketleme ve düzenli teslimat\n\nPaketlerin hangi odaya ve eşya grubuna ait olduğunun işaretlenmesi, yeni adresteki yerleştirme sürecini kolaylaştırır. Montaj sırası gerektiren parçalar ayrıca ayrılır ve bağlantı elemanları düzenli biçimde saklanır.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/binevler-nakliyat/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
+      "timestamp": "2026-10-18T13:23:54+0000",
+      "shortcode": "DeoyFDeG3u0",
+      "metrics": {
+        "views": 19,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "replies": [],
+      "replies_error": null
+    },
     {
       "id": "18142505500677123",
       "media_type": "IMAGE",
