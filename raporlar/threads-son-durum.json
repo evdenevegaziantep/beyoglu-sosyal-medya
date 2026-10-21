@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T21:55:04.452073+00:00",
+  "generated_at": "2026-10-21T21:59:36.505079+00:00",
   "profile": {
     "id": "27965371029808800",
     "username": "evdenevegaziantep",
@@ -8,12 +8,16 @@
     "is_verified": false
   },
   "account_metrics": {
-    "views": 0,
+    "views": 24,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "clicks": [
+      {
+        "value": 0,
+        "link_url": "https://www.evdenevegaziantep.com/hizmet-bolgelerimiz?utm_source=threads&utm_medium=organic_social&utm_campaign=threads"
+      },
       {
         "value": 0,
         "link_url": "https://www.evdenevegaziantep.com/binevler-nakliyat?utm_source=threads&utm_medium=organic_social&utm_campaign=threads"
@@ -63,7 +67,7 @@
   },
   "publishing_limit": [
     {
-      "quota_usage": 0,
+      "quota_usage": 1,
       "config": {
         "quota_total": 250,
         "quota_duration": 86400
@@ -75,9 +79,28 @@
       }
     }
   ],
-  "post_count_read": 18,
+  "post_count_read": 19,
   "reply_count_read": 0,
   "posts": [
+    {
+      "id": "18048458612816949",
+      "media_type": "IMAGE",
+      "permalink": "https://www.threads.com/@evdenevegaziantep/post/DewoeEUoM2Q",
+      "username": "evdenevegaziantep",
+      "text": "📍 Gaziantep şehir içi taşıma\n\nŞahinbey, Şehitkamil ve çevresindeki taşınmalarda bina koşulları, kat bilgileri, eşya miktarı ve iki adres arasındaki mesafeye göre ekip ve araç planlaması yapıyoruz.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/hizmet-bolgelerimiz/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
+      "timestamp": "2026-10-21T14:33:51+0000",
+      "shortcode": "DewoeEUoM2Q",
+      "metrics": {
+        "views": 21,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "replies": [],
+      "replies_error": null
+    },
     {
       "id": "18146087893569759",
       "media_type": "IMAGE",
@@ -125,7 +148,7 @@
       "timestamp": "2026-10-15T10:53:14+0000",
       "shortcode": "DegydHFG979",
       "metrics": {
-        "views": 19,
+        "views": 20,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -163,7 +186,7 @@
       "timestamp": "2026-10-12T14:26:43+0000",
       "shortcode": "DeZcf4dHDW2",
       "metrics": {
-        "views": 6,
+        "views": 7,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -182,7 +205,7 @@
       "timestamp": "2026-10-11T15:50:51+0000",
       "shortcode": "DeXBV4BlsGo",
       "metrics": {
-        "views": 6,
+        "views": 7,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
