@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T21:59:36.505079+00:00",
+  "generated_at": "2026-10-22T21:56:01.116200+00:00",
   "profile": {
     "id": "27965371029808800",
     "username": "evdenevegaziantep",
@@ -8,7 +8,7 @@
     "is_verified": false
   },
   "account_metrics": {
-    "views": 24,
+    "views": 45,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -79,9 +79,28 @@
       }
     }
   ],
-  "post_count_read": 19,
+  "post_count_read": 20,
   "reply_count_read": 0,
   "posts": [
+    {
+      "id": "18097065560215825",
+      "media_type": "IMAGE",
+      "permalink": "https://www.threads.com/@evdenevegaziantep/post/Dey1_67IGWu",
+      "username": "evdenevegaziantep",
+      "text": "⚖️ Kamyon içinde hacim ve ağırlık dengesi\n\nAraç içi yerleşimde yalnızca boş alanı doldurmak yeterli değildir. Ağır parçaların dengeli konumlandırılması, hassas paketlerin basınç altında kalmaması ve yükün hareket etmeyecek şekilde sabitlenmesi gerekir.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/evden-eve-nakliyat/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
+      "timestamp": "2026-10-22T11:10:28+0000",
+      "shortcode": "Dey1_67IGWu",
+      "metrics": {
+        "views": 21,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "replies": [],
+      "replies_error": null
+    },
     {
       "id": "18048458612816949",
       "media_type": "IMAGE",
@@ -91,7 +110,7 @@
       "timestamp": "2026-10-21T14:33:51+0000",
       "shortcode": "DewoeEUoM2Q",
       "metrics": {
-        "views": 21,
+        "views": 22,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -148,7 +167,7 @@
       "timestamp": "2026-10-15T10:53:14+0000",
       "shortcode": "DegydHFG979",
       "metrics": {
-        "views": 20,
+        "views": 21,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
