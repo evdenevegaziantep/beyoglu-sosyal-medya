@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T21:56:01.116200+00:00",
+  "generated_at": "2026-10-23T21:42:06.539615+00:00",
   "profile": {
     "id": "27965371029808800",
     "username": "evdenevegaziantep",
@@ -8,12 +8,16 @@
     "is_verified": false
   },
   "account_metrics": {
-    "views": 45,
+    "views": 42,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "clicks": [
+      {
+        "value": 0,
+        "link_url": "https://www.evdenevegaziantep.com/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads"
+      },
       {
         "value": 0,
         "link_url": "https://www.evdenevegaziantep.com/hizmet-bolgelerimiz?utm_source=threads&utm_medium=organic_social&utm_campaign=threads"
@@ -83,6 +87,25 @@
   "reply_count_read": 0,
   "posts": [
     {
+      "id": "18150970420550121",
+      "media_type": "VIDEO",
+      "permalink": "https://www.threads.com/@evdenevegaziantep/post/De1wiTajD1O",
+      "username": "evdenevegaziantep",
+      "text": "🎬 Beyoğlu Taşımacılık hizmetleri\n\nGaziantep içi ve şehirlerarası taşınmalarda; ekspertiz, profesyonel ambalajlama, mobilya söküm ve montajı, uygun araç seçimi ve 20. kata kadar asansörlü taşıma hizmetlerini tek plan altında sunuyoruz.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
+      "timestamp": "2026-10-23T14:21:10+0000",
+      "shortcode": "De1wiTajD1O",
+      "metrics": {
+        "views": 16,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "replies": [],
+      "replies_error": null
+    },
+    {
       "id": "18097065560215825",
       "media_type": "IMAGE",
       "permalink": "https://www.threads.com/@evdenevegaziantep/post/Dey1_67IGWu",
@@ -110,7 +133,7 @@
       "timestamp": "2026-10-21T14:33:51+0000",
       "shortcode": "DewoeEUoM2Q",
       "metrics": {
-        "views": 22,
+        "views": 23,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -167,7 +190,7 @@
       "timestamp": "2026-10-15T10:53:14+0000",
       "shortcode": "DegydHFG979",
       "metrics": {
-        "views": 21,
+        "views": 22,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -186,7 +209,7 @@
       "timestamp": "2026-10-13T21:26:06+0000",
       "shortcode": "DecxScBAYIz",
       "metrics": {
-        "views": 3,
+        "views": 4,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -224,7 +247,7 @@
       "timestamp": "2026-10-11T15:50:51+0000",
       "shortcode": "DeXBV4BlsGo",
       "metrics": {
-        "views": 7,
+        "views": 8,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -281,7 +304,7 @@
       "timestamp": "2026-10-07T19:03:18+0000",
       "shortcode": "DeNEMgsiJzt",
       "metrics": {
-        "views": 153,
+        "views": 154,
         "likes": 2,
         "replies": 0,
         "reposts": 0,
@@ -434,25 +457,6 @@
       "shortcode": "Dd1pNepGnOp",
       "metrics": {
         "views": 54,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "replies": [],
-      "replies_error": null
-    },
-    {
-      "id": "18115009904108958",
-      "media_type": "IMAGE",
-      "permalink": "https://www.threads.com/@evdenevegaziantep/post/Ddzf5U8AeSN",
-      "username": "evdenevegaziantep",
-      "text": "Gaziantep’te taşınmayı planlı ve güvenli hale getiriyoruz. 🚚\n\nBeyoğlu Nakliyat olarak evden eve, asansörlü ve şehirler arası taşımacılıkta paketlemeden mobilya montajına kadar tüm süreci tek ekip ile yönetiyoruz.\n\nÜcretsiz keşif ve net fiyat:\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/",
-      "timestamp": "2026-09-27T20:45:11+0000",
-      "shortcode": "Ddzf5U8AeSN",
-      "metrics": {
-        "views": 94,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
