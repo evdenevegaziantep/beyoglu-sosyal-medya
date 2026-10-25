@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T21:12:40.930200+00:00",
+  "generated_at": "2026-10-25T21:15:49.113302+00:00",
   "profile": {
     "id": "27965371029808800",
     "username": "evdenevegaziantep",
@@ -8,12 +8,16 @@
     "is_verified": false
   },
   "account_metrics": {
-    "views": 23,
-    "likes": 2,
+    "views": 75,
+    "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "clicks": [
+      {
+        "value": 0,
+        "link_url": "https://www.evdenevegaziantep.com/blog/tasinma-kontrol-listesi?utm_source=threads&utm_medium=organic_social&utm_campaign=threads"
+      },
       {
         "value": 0,
         "link_url": "https://www.evdenevegaziantep.com/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads"
@@ -71,7 +75,7 @@
   },
   "publishing_limit": [
     {
-      "quota_usage": 0,
+      "quota_usage": 1,
       "config": {
         "quota_total": 250,
         "quota_duration": 86400
@@ -86,6 +90,25 @@
   "post_count_read": 20,
   "reply_count_read": 0,
   "posts": [
+    {
+      "id": "18054625724805584",
+      "media_type": "VIDEO",
+      "permalink": "https://www.threads.com/@evdenevegaziantep/post/De62d9sFShV",
+      "username": "evdenevegaziantep",
+      "text": "Son güne bırakılan küçük işler taşınma sabahını zorlaştırabilir. Bu kısa sıra, hazırlığı daha görünür ve kontrollü tutar.\n\n• Kişisel çantayı ve evrakları ayırın\n• Buzdolabını ve temel cihazları hazırlayın\n• İlk açılacak koliyi ayrı işaretleyin\n• Bina girişi ve araç alanını kontrol edin\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/blog/tasinma-kontrol-listesi/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
+      "timestamp": "2026-10-25T13:48:50+0000",
+      "shortcode": "De62d9sFShV",
+      "metrics": {
+        "views": 73,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "replies": [],
+      "replies_error": null
+    },
     {
       "id": "18150970420550121",
       "media_type": "VIDEO",
@@ -439,25 +462,6 @@
       "metrics": {
         "views": 40,
         "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "replies": [],
-      "replies_error": null
-    },
-    {
-      "id": "17906372847333796",
-      "media_type": "CAROUSEL_ALBUM",
-      "permalink": "https://www.threads.com/@evdenevegaziantep/post/Dd1pNepGnOp",
-      "username": "evdenevegaziantep",
-      "text": "🏠 Komple ev taşıma süreci nasıl ilerler?\n\n1️⃣ Eşya ve bina koşulları değerlendirilir.\n2️⃣ Mobilyalar sökülür ve eşyalar türüne göre paketlenir.\n3️⃣ Paketler kontrollü biçimde araca yerleştirilir.\n4️⃣ Yeni adreste mobilya montajı ve yerleştirme yapılır.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/sahinbey-evden-eve-nakliyat/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
-      "timestamp": "2026-09-28T16:45:07+0000",
-      "shortcode": "Dd1pNepGnOp",
-      "metrics": {
-        "views": 54,
-        "likes": 1,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
