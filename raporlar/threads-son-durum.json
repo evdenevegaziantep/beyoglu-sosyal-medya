@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T22:38:23.297835+00:00",
+  "generated_at": "2026-10-28T22:53:00.887234+00:00",
   "profile": {
     "id": "27965371029808800",
     "username": "evdenevegaziantep",
@@ -8,12 +8,16 @@
     "is_verified": false
   },
   "account_metrics": {
-    "views": 96,
+    "views": 17,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "clicks": [
+      {
+        "value": 0,
+        "link_url": "https://www.evdenevegaziantep.com/blog/asansorlu-tasimacilik-nedir?utm_source=threads&utm_medium=organic_social&utm_campaign=threads"
+      },
       {
         "value": 0,
         "link_url": "https://www.evdenevegaziantep.com/fiyat-teklifi?utm_source=threads&utm_medium=organic_social&utm_campaign=threads"
@@ -79,7 +83,7 @@
   },
   "publishing_limit": [
     {
-      "quota_usage": 0,
+      "quota_usage": 2,
       "config": {
         "quota_total": 250,
         "quota_duration": 86400
@@ -94,6 +98,44 @@
   "post_count_read": 20,
   "reply_count_read": 0,
   "posts": [
+    {
+      "id": "18149588119572214",
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.threads.com/@evdenevegaziantep/post/DfDYD04D3uK",
+      "username": "evdenevegaziantep",
+      "text": "Taşınma gününde ilk bir saat; ekip iletişimi, geçiş yolu ve yükleme sırasının netleştiği en önemli bölümdür.\n\n• Kişisel eşyaları taşıma alanından ayırın\n• Ekip ile oda ve yükleme sırasını netleştirin\n• Bina içi geçiş yolunu boşaltın\n• Sayaç ve anahtar teslim notlarını kontrol edin\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/blog/tasinma-kontrol-listesi/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
+      "timestamp": "2026-10-28T21:16:01+0000",
+      "shortcode": "DfDYD04D3uK",
+      "metrics": {
+        "views": 6,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "replies": [],
+      "replies_error": null
+    },
+    {
+      "id": "18114754793172526",
+      "media_type": "VIDEO",
+      "permalink": "https://www.threads.com/@evdenevegaziantep/post/DfC1S3QABVh",
+      "username": "evdenevegaziantep",
+      "text": "Dış cephe asansörü her binada aynı şekilde kurulmaz. Kat, cephe, balkon ve araç konumu önceden değerlendirilmelidir.\n\n• Yüksek katlarda taşıma yolu uzunsa\n• Merdiven dar veya dönüşler keskinse\n• Balkon ya da pencere hattı uygunsa\n• Bina önü güvenli kurulum alanı sunuyorsa\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/blog/asansorlu-tasimacilik-nedir/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
+      "timestamp": "2026-10-28T16:12:30+0000",
+      "shortcode": "DfC1S3QABVh",
+      "metrics": {
+        "views": 5,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "replies": [],
+      "replies_error": null
+    },
     {
       "id": "18358176901171595",
       "media_type": "IMAGE",
@@ -179,7 +221,7 @@
       "timestamp": "2026-10-22T11:10:28+0000",
       "shortcode": "Dey1_67IGWu",
       "metrics": {
-        "views": 23,
+        "views": 24,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -428,44 +470,6 @@
       "metrics": {
         "views": 5,
         "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "replies": [],
-      "replies_error": null
-    },
-    {
-      "id": "18094392029130661",
-      "media_type": "IMAGE",
-      "permalink": "https://www.threads.com/@evdenevegaziantep/post/DeE5VKnES5V",
-      "username": "evdenevegaziantep",
-      "text": "🏢 Yüksek kat taşımalarında operasyon planı\n\nKat sayısı, bina girişi, merdiven ve asansör ölçüleri, dış cephe erişimi ve araç park alanı taşıma öncesinde değerlendirilir. Uygun koşullarda dış cephe asansörü kullanılarak büyük eşyalar daha kısa bir taşıma hattı üzerinden indirilebilir.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/sehitkamil-evden-eve-nakliyat/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
-      "timestamp": "2026-10-04T14:54:36+0000",
-      "shortcode": "DeE5VKnES5V",
-      "metrics": {
-        "views": 45,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "replies": [],
-      "replies_error": null
-    },
-    {
-      "id": "17870278281643253",
-      "media_type": "IMAGE",
-      "permalink": "https://www.threads.com/@evdenevegaziantep/post/Dd_2oEjEZIC",
-      "username": "evdenevegaziantep",
-      "text": "🚚 Kamyon içinde düzenli yükleme\n\nPaketleme kadar araç içi yerleşim de önemlidir. Ağır ve dayanıklı parçalar tabanda dengeli biçimde konumlandırılır; hassas eşyalar ayrı bölgelerde tutulur ve hareket etmeyecek şekilde sabitlenir.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/evden-eve-nakliyat/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
-      "timestamp": "2026-10-02T15:54:47+0000",
-      "shortcode": "Dd_2oEjEZIC",
-      "metrics": {
-        "views": 8,
-        "likes": 1,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
