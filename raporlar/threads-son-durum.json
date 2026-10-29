@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T22:53:00.887234+00:00",
+  "generated_at": "2026-10-29T22:59:36.247676+00:00",
   "profile": {
     "id": "27965371029808800",
     "username": "evdenevegaziantep",
@@ -8,7 +8,7 @@
     "is_verified": false
   },
   "account_metrics": {
-    "views": 17,
+    "views": 14,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -83,7 +83,7 @@
   },
   "publishing_limit": [
     {
-      "quota_usage": 2,
+      "quota_usage": 1,
       "config": {
         "quota_total": 250,
         "quota_duration": 86400
@@ -99,6 +99,25 @@
   "reply_count_read": 0,
   "posts": [
     {
+      "id": "18113084984174895",
+      "media_type": "VIDEO",
+      "permalink": "https://www.threads.com/@evdenevegaziantep/post/DfF9bP9DqeE",
+      "username": "evdenevegaziantep",
+      "text": "Dar merdiven ve yüksek kat, dış cephe asansörü ihtiyacını artırabilir. Uygunluk kontrolü yapılmadan kurulum kararı verilmemelidir.\n\n• Bina önü ve zemin kontrol edilir\n• Balkon ya da pencere hattı ölçülür\n• Güvenli taşıma koridoru oluşturulur\n• Eşyalar sırayla platforma alınır\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/asansorlu-tasimacilik/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
+      "timestamp": "2026-10-29T21:21:16+0000",
+      "shortcode": "DfF9bP9DqeE",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "replies": [],
+      "replies_error": null
+    },
+    {
       "id": "18149588119572214",
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.threads.com/@evdenevegaziantep/post/DfDYD04D3uK",
@@ -107,7 +126,7 @@
       "timestamp": "2026-10-28T21:16:01+0000",
       "shortcode": "DfDYD04D3uK",
       "metrics": {
-        "views": 6,
+        "views": 7,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -451,25 +470,6 @@
       "metrics": {
         "views": 7,
         "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "replies": [],
-      "replies_error": null
-    },
-    {
-      "id": "18461635747137967",
-      "media_type": "VIDEO",
-      "permalink": "https://www.threads.com/@evdenevegaziantep/post/DeH5rvRkSVj",
-      "username": "evdenevegaziantep",
-      "text": "🎥 Oda bazlı paketleme süreci\n\nEşyaların ait oldukları odaya göre gruplandırılması, paketlerin karışmasını önler ve yeni adresteki yerleştirmeyi hızlandırır. Büyük parçalar koruyucu malzemelerle sarılır; küçük parçalar kutulanır ve ilgili oda bilgisiyle işaretlenir.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/blog/esya-paketleme-rehberi/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
-      "timestamp": "2026-10-05T18:55:39+0000",
-      "shortcode": "DeH5rvRkSVj",
-      "metrics": {
-        "views": 5,
-        "likes": 0,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
