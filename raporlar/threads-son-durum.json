@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T22:39:40.289870+00:00",
+  "generated_at": "2026-10-31T21:54:02.635549+00:00",
   "profile": {
     "id": "27965371029808800",
     "username": "evdenevegaziantep",
@@ -8,8 +8,8 @@
     "is_verified": false
   },
   "account_metrics": {
-    "views": 3,
-    "likes": 0,
+    "views": 31,
+    "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
@@ -79,11 +79,11 @@
         "link_url": "https://www.evdenevegaziantep.com/"
       }
     ],
-    "followers_count": 3
+    "followers_count": 4
   },
   "publishing_limit": [
     {
-      "quota_usage": 0,
+      "quota_usage": 2,
       "config": {
         "quota_total": 250,
         "quota_duration": 86400
@@ -98,6 +98,44 @@
   "post_count_read": 20,
   "reply_count_read": 0,
   "posts": [
+    {
+      "id": "18080852690411098",
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.threads.com/@evdenevegaziantep/post/DfK_DaXnycA",
+      "username": "evdenevegaziantep",
+      "text": "Her koliye oda, içerik ve öncelik yazmak; hem araç içi düzeni hem de yeni evde yerleşimi kolaylaştırır.\n\n• Üst satıra gideceği odayı yazın\n• İkinci satıra genel içeriği yazın\n• Kırılacak eşya varsa görünür biçimde belirtin\n• İlk açılacak kolilere ayrı renk verin\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/blog/tasinma-kontrol-listesi/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
+      "timestamp": "2026-10-31T20:11:26+0000",
+      "shortcode": "DfK_DaXnycA",
+      "metrics": {
+        "views": 23,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "replies": [],
+      "replies_error": null
+    },
+    {
+      "id": "17872853886647187",
+      "media_type": "VIDEO",
+      "permalink": "https://www.threads.com/@evdenevegaziantep/post/DfKfYt9gB-b",
+      "username": "evdenevegaziantep",
+      "text": "Gaziantep’te gerçek bir asansörlü nakliyat operasyonu. 🚚 Dış cephe asansörü, profesyonel paketleme, mobilya söküm-montaj ve düzenli araç yükleme tek videoda.\n\nÜcretsiz ekspertiz ve net fiyat:\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/\n\nGaziantepNakliyat #EvdenEveNakliyat",
+      "timestamp": "2026-10-31T15:35:02+0000",
+      "shortcode": "DfKfYt9gB-b",
+      "metrics": {
+        "views": 5,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "replies": [],
+      "replies_error": null
+    },
     {
       "id": "18113084984174895",
       "media_type": "VIDEO",
@@ -240,7 +278,7 @@
       "timestamp": "2026-10-22T11:10:28+0000",
       "shortcode": "Dey1_67IGWu",
       "metrics": {
-        "views": 24,
+        "views": 25,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -432,44 +470,6 @@
       "metrics": {
         "views": 155,
         "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "replies": [],
-      "replies_error": null
-    },
-    {
-      "id": "17937775716366533",
-      "media_type": "IMAGE",
-      "permalink": "https://www.threads.com/@evdenevegaziantep/post/DeM0IJmGxsn",
-      "username": "evdenevegaziantep",
-      "text": "🛣️ Şehirlerarası nakliyatta planlama\n\nUzun mesafeli taşınmalarda eşya listesi, ambalajlama yöntemi, araç seçimi, çıkış zamanı, güzergâh ve teslimat planı önceden netleştirilmelidir.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/sehirler-arasi-nakliyat/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
-      "timestamp": "2026-10-07T16:43:03+0000",
-      "shortcode": "DeM0IJmGxsn",
-      "metrics": {
-        "views": 40,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "replies": [],
-      "replies_error": null
-    },
-    {
-      "id": "17993696477846202",
-      "media_type": "IMAGE",
-      "permalink": "https://www.threads.com/@evdenevegaziantep/post/DeIUvY-FBDL",
-      "username": "evdenevegaziantep",
-      "text": "⭐⭐⭐⭐⭐ “Ev taşımak gibi stresli ve yorucu bir süreci, profesyonelliğiniz, hızınız ve güler yüzünüz sayesinde inanılmaz derecede kolay atlattık.” — Elif Y.\n\nGerçek müşteri deneyimleri en güçlü referansımız. Gaziantep’te ücretsiz ekspertiz ve net fiyat alın.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/?utm_source=threads&utm_medium=organic_social&utm_campaign=google_yorum_elif",
-      "timestamp": "2026-10-05T22:51:49+0000",
-      "shortcode": "DeIUvY-FBDL",
-      "metrics": {
-        "views": 7,
-        "likes": 1,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
