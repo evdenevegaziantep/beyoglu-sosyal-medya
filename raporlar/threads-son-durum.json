@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T21:54:02.635549+00:00",
+  "generated_at": "2026-11-01T22:27:18.467978+00:00",
   "profile": {
     "id": "27965371029808800",
     "username": "evdenevegaziantep",
@@ -8,7 +8,7 @@
     "is_verified": false
   },
   "account_metrics": {
-    "views": 31,
+    "views": 37,
     "likes": 1,
     "replies": 0,
     "reposts": 0,
@@ -83,7 +83,7 @@
   },
   "publishing_limit": [
     {
-      "quota_usage": 2,
+      "quota_usage": 1,
       "config": {
         "quota_total": 250,
         "quota_duration": 86400
@@ -99,6 +99,25 @@
   "reply_count_read": 0,
   "posts": [
     {
+      "id": "18214216930364010",
+      "media_type": "IMAGE",
+      "permalink": "https://www.threads.com/@evdenevegaziantep/post/DfNIWqrHBOm",
+      "username": "evdenevegaziantep",
+      "text": "Gaziantep’te ev taşıma planı yalnızca eşya listesinden ibaret değildir; araç konumu, bina girişi ve güzergâh da sürecin parçasıdır.\n\n• Araç için yaklaşma alanı\n• Bina girişindeki geçişler\n• Kat ve asansör bilgisi\n• Yoğun saatlere göre güzergâh\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/evden-eve-nakliyat/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
+      "timestamp": "2026-11-01T16:11:13+0000",
+      "shortcode": "DfNIWqrHBOm",
+      "metrics": {
+        "views": 5,
+        "likes": 1,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "replies": [],
+      "replies_error": null
+    },
+    {
       "id": "18080852690411098",
       "media_type": "CAROUSEL_ALBUM",
       "permalink": "https://www.threads.com/@evdenevegaziantep/post/DfK_DaXnycA",
@@ -107,7 +126,7 @@
       "timestamp": "2026-10-31T20:11:26+0000",
       "shortcode": "DfK_DaXnycA",
       "metrics": {
-        "views": 23,
+        "views": 25,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -278,7 +297,7 @@
       "timestamp": "2026-10-22T11:10:28+0000",
       "shortcode": "Dey1_67IGWu",
       "metrics": {
-        "views": 25,
+        "views": 26,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -451,25 +470,6 @@
       "metrics": {
         "views": 25,
         "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "replies": [],
-      "replies_error": null
-    },
-    {
-      "id": "18221049328335572",
-      "media_type": "CAROUSEL_ALBUM",
-      "permalink": "https://www.threads.com/@evdenevegaziantep/post/DeNEMgsiJzt",
-      "username": "evdenevegaziantep",
-      "text": "Kilis - Bolvadin Evden Eve Taşıma \n #asansorlu nakliyat\n https://www.evdenevegaziantep.com",
-      "timestamp": "2026-10-07T19:03:18+0000",
-      "shortcode": "DeNEMgsiJzt",
-      "metrics": {
-        "views": 155,
-        "likes": 2,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
