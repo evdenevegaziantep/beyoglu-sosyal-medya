@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T22:27:18.467978+00:00",
+  "generated_at": "2026-11-03T01:18:41.878223+00:00",
   "profile": {
     "id": "27965371029808800",
     "username": "evdenevegaziantep",
@@ -8,12 +8,16 @@
     "is_verified": false
   },
   "account_metrics": {
-    "views": 37,
-    "likes": 1,
+    "views": 32,
+    "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "clicks": [
+      {
+        "value": 0,
+        "link_url": "https://www.evdenevegaziantep.com/nakliyat-fiyatlari?utm_source=threads&utm_medium=organic_social&utm_campaign=threads"
+      },
       {
         "value": 0,
         "link_url": "https://www.evdenevegaziantep.com/blog/asansorlu-tasimacilik-nedir?utm_source=threads&utm_medium=organic_social&utm_campaign=threads"
@@ -79,11 +83,11 @@
         "link_url": "https://www.evdenevegaziantep.com/"
       }
     ],
-    "followers_count": 4
+    "followers_count": 3
   },
   "publishing_limit": [
     {
-      "quota_usage": 1,
+      "quota_usage": 2,
       "config": {
         "quota_total": 250,
         "quota_duration": 86400
@@ -99,6 +103,44 @@
   "reply_count_read": 0,
   "posts": [
     {
+      "id": "18018941609749025",
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.threads.com/@evdenevegaziantep/post/DfQgiL8EWP4",
+      "username": "evdenevegaziantep",
+      "text": "Taşıma fiyatı tek bir sayıya bakılarak belirlenmez. Mesafe, kat, erişim, eşya hacmi ve işçilik ihtiyacı birlikte değerlendirilir.\n\n• Adresler arası mesafe\n• Çıkış ve varış katları\n• Asansör veya dış cephe erişimi\n• Eşya hacmi ve paketleme ihtiyacı\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/nakliyat-fiyatlari/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
+      "timestamp": "2026-11-02T23:40:11+0000",
+      "shortcode": "DfQgiL8EWP4",
+      "metrics": {
+        "views": 4,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "replies": [],
+      "replies_error": null
+    },
+    {
+      "id": "18100747298098773",
+      "media_type": "VIDEO",
+      "permalink": "https://www.threads.com/@evdenevegaziantep/post/DfPjnJ2DnZE",
+      "username": "evdenevegaziantep",
+      "text": "Koltuklarda kullanılan koruma, kumaş tipine ve eşyanın yapısına göre uygulanmalıdır. Köşeler ve hareketli parçalar ayrıca ele alınır.\n\n• Kumaş yüzeyi temiz koruyucuyla kapatın\n• Ayak ve köşeleri ayrı destekleyin\n• Streç filmi koruyucu katmanın üzerine sarın\n• Araçta dikey-yatay konumu planlayın\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/blog/esya-paketleme-rehberi/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
+      "timestamp": "2026-11-02T14:48:07+0000",
+      "shortcode": "DfPjnJ2DnZE",
+      "metrics": {
+        "views": 20,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "replies": [],
+      "replies_error": null
+    },
+    {
       "id": "18214216930364010",
       "media_type": "IMAGE",
       "permalink": "https://www.threads.com/@evdenevegaziantep/post/DfNIWqrHBOm",
@@ -107,7 +149,7 @@
       "timestamp": "2026-11-01T16:11:13+0000",
       "shortcode": "DfNIWqrHBOm",
       "metrics": {
-        "views": 5,
+        "views": 6,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
@@ -432,44 +474,6 @@
       "metrics": {
         "views": 8,
         "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "replies": [],
-      "replies_error": null
-    },
-    {
-      "id": "18010414967994220",
-      "media_type": "CAROUSEL_ALBUM",
-      "permalink": "https://www.threads.com/@evdenevegaziantep/post/DeP5he_FbU5",
-      "username": "evdenevegaziantep",
-      "text": "📦 Oda oda paketleme ve yük hazırlığı\n\nBu gerçek çalışmada dolap, masa, koltuk ve yatak gibi farklı eşya gruplarının ayrı ayrı koruma altına alındığını görebilirsiniz.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/blog/esya-paketleme-rehberi/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
-      "timestamp": "2026-10-08T21:27:54+0000",
-      "shortcode": "DeP5he_FbU5",
-      "metrics": {
-        "views": 10,
-        "likes": 2,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "replies": [],
-      "replies_error": null
-    },
-    {
-      "id": "18106122296257659",
-      "media_type": "IMAGE",
-      "permalink": "https://www.threads.com/@evdenevegaziantep/post/DeO-OUfIGTR",
-      "username": "evdenevegaziantep",
-      "text": "💙 Koruyucu ambalaj neden önemlidir?\n\nMobilyaların yüzeyini toz, sürtünme ve darbelere karşı korumak için eşyanın ölçüsüne uygun ambalaj kullanılmalıdır. Kapaklar, köşeler ve hareketli bölümler ayrıca sabitlenerek taşıma sırasında açılmaları önlenir.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/blog/esya-paketleme-rehberi/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
-      "timestamp": "2026-10-08T12:49:45+0000",
-      "shortcode": "DeO-OUfIGTR",
-      "metrics": {
-        "views": 25,
-        "likes": 1,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
