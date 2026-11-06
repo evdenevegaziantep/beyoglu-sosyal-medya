@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T23:51:32.496813+00:00",
+  "generated_at": "2026-11-06T23:31:43.780229+00:00",
   "profile": {
     "id": "27965371029808800",
     "username": "evdenevegaziantep",
@@ -8,8 +8,8 @@
     "is_verified": false
   },
   "account_metrics": {
-    "views": 182,
-    "likes": 0,
+    "views": 232,
+    "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
@@ -103,6 +103,25 @@
   "reply_count_read": 0,
   "posts": [
     {
+      "id": "18110458981942982",
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.threads.com/@evdenevegaziantep/post/DfamYfRG0pn",
+      "username": "evdenevegaziantep",
+      "text": "Hassas eşyalarda doğru kutu, ayrı sarım ve boşluk kontrolü birlikte uygulanır. Kutu içindeki hareket ne kadar azsa süreç o kadar kontrollüdür.\n\n• Kutunun tabanını güçlendirin\n• Her parçayı ayrı koruma katmanına alın\n• Kutu içi boşlukları uygun dolgu ile kapatın\n• Kutuyu içerik ve yön bilgisiyle etiketleyin\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/blog/esya-paketleme-rehberi/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
+      "timestamp": "2026-11-06T21:43:42+0000",
+      "shortcode": "DfamYfRG0pn",
+      "metrics": {
+        "views": 1,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "replies": [],
+      "replies_error": null
+    },
+    {
       "id": "17924563377443280",
       "media_type": "VIDEO",
       "permalink": "https://www.threads.com/@evdenevegaziantep/post/DfYE6zCh67d",
@@ -111,8 +130,8 @@
       "timestamp": "2026-11-05T22:13:06+0000",
       "shortcode": "DfYE6zCh67d",
       "metrics": {
-        "views": 134,
-        "likes": 0,
+        "views": 212,
+        "likes": 1,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
@@ -130,7 +149,7 @@
       "timestamp": "2026-11-04T22:04:08+0000",
       "shortcode": "DfVfIR3Gdew",
       "metrics": {
-        "views": 39,
+        "views": 40,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -454,25 +473,6 @@
       "shortcode": "DejtNXtEQj1",
       "metrics": {
         "views": 1,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "replies": [],
-      "replies_error": null
-    },
-    {
-      "id": "18139930717549042",
-      "media_type": "CAROUSEL_ALBUM",
-      "permalink": "https://www.threads.com/@evdenevegaziantep/post/DegydHFG979",
-      "username": "evdenevegaziantep",
-      "text": "🏗️ Asansörlü taşıma için ön kontrol\n\nDış cephe asansörü kurulmadan önce şu noktaları değerlendiriyoruz:\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/asansorlu-tasimacilik/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
-      "timestamp": "2026-10-15T10:53:14+0000",
-      "shortcode": "DegydHFG979",
-      "metrics": {
-        "views": 22,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
