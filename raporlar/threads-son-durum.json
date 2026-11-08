@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T22:19:11.900894+00:00",
+  "generated_at": "2026-11-08T22:30:02.293865+00:00",
   "profile": {
     "id": "27965371029808800",
     "username": "evdenevegaziantep",
@@ -8,12 +8,16 @@
     "is_verified": false
   },
   "account_metrics": {
-    "views": 43,
-    "likes": 1,
+    "views": 8,
+    "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "clicks": [
+      {
+        "value": 0,
+        "link_url": "https://www.evdenevegaziantep.com/ofis-tasima?utm_source=threads&utm_medium=organic_social&utm_campaign=threads"
+      },
       {
         "value": 0,
         "link_url": "https://www.evdenevegaziantep.com/nakliyat-fiyatlari?utm_source=threads&utm_medium=organic_social&utm_campaign=threads"
@@ -87,7 +91,7 @@
   },
   "publishing_limit": [
     {
-      "quota_usage": 0,
+      "quota_usage": 1,
       "config": {
         "quota_total": 250,
         "quota_duration": 86400
@@ -102,6 +106,25 @@
   "post_count_read": 20,
   "reply_count_read": 0,
   "posts": [
+    {
+      "id": "18116488304019499",
+      "media_type": "VIDEO",
+      "permalink": "https://www.threads.com/@evdenevegaziantep/post/DffJrsYhO0s",
+      "username": "evdenevegaziantep",
+      "text": "Ofis taşımada amaç yalnızca eşyayı taşımak değil, iş akışının yeniden kurulmasını da planlamaktır. Bölüm ve öncelik etiketleri bu yüzden önemlidir.\n\n• Evrak ve cihazları bölüm bazında etiketleyin\n• Kritik ekipmanı ayrı listeleyin\n• Yeni ofiste yerleşim planını önceden belirleyin\n• Taşıma ve kurulum sırasını ekip…\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/ofis-tasima/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
+      "timestamp": "2026-11-08T16:09:23+0000",
+      "shortcode": "DffJrsYhO0s",
+      "metrics": {
+        "views": 3,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "replies": [],
+      "replies_error": null
+    },
     {
       "id": "18110458981942982",
       "media_type": "CAROUSEL_ALBUM",
@@ -455,25 +478,6 @@
       "metrics": {
         "views": 19,
         "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "replies": [],
-      "replies_error": null
-    },
-    {
-      "id": "18142505500677123",
-      "media_type": "IMAGE",
-      "permalink": "https://www.threads.com/@evdenevegaziantep/post/DejtNXtEQj1",
-      "username": "evdenevegaziantep",
-      "text": "🛋️ Salon mobilyalarında yüzey koruma\n\nKoltuk ve berjerlerde kumaş yüzeyi, ahşap bölümler, ayaklar ve köşeler ayrı ayrı değerlendirilir. Koruyucu malzemenin yüzeye tam oturması ve taşıma sırasında kaymaması için uygun noktalardan sabitleme yapılır.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/blog/esya-paketleme-rehberi/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
-      "timestamp": "2026-10-16T14:05:07+0000",
-      "shortcode": "DejtNXtEQj1",
-      "metrics": {
-        "views": 1,
-        "likes": 0,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
