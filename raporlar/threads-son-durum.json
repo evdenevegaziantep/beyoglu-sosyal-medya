@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T01:46:32.823896+00:00",
+  "generated_at": "2026-11-10T23:44:44.212218+00:00",
   "profile": {
     "id": "27965371029808800",
     "username": "evdenevegaziantep",
@@ -8,7 +8,7 @@
     "is_verified": false
   },
   "account_metrics": {
-    "views": 4,
+    "views": 26,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -95,7 +95,7 @@
   },
   "publishing_limit": [
     {
-      "quota_usage": 1,
+      "quota_usage": 2,
       "config": {
         "quota_total": 250,
         "quota_duration": 86400
@@ -111,6 +111,44 @@
   "reply_count_read": 0,
   "posts": [
     {
+      "id": "18155082091532428",
+      "media_type": "VIDEO",
+      "permalink": "https://www.threads.com/@evdenevegaziantep/post/Dfk6yMxJMTL",
+      "username": "evdenevegaziantep",
+      "text": "Gardırop taşımada söküm kadar parça düzeni ve bağlantı elemanlarının korunması da önemlidir. Etiketli sıra kurulumu kolaylaştırır.\n\n• Kapak ve rafları sırayla sökün\n• Bağlantı parçalarını etiketli poşette tutun\n• Panelleri yüzeye uygun korumayla sarın\n• Yeni adreste etiket sırasıyla kurun\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/evden-eve-nakliyat/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
+      "timestamp": "2026-11-10T21:54:39+0000",
+      "shortcode": "Dfk6yMxJMTL",
+      "metrics": {
+        "views": 10,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "replies": [],
+      "replies_error": null
+    },
+    {
+      "id": "18086219297336278",
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.threads.com/@evdenevegaziantep/post/DfkaWl_m5Pn",
+      "username": "evdenevegaziantep",
+      "text": "Şehirler arası taşınmada çıkış kadar varış adresinin erişimi, iletişim ve uzun yol sabitlemesi de önceden planlanmalıdır.\n\n• Teslim tarihini ve iletişim kişisini netleştirin\n• Paketlemeyi yol süresine göre güçlendirin\n• Koli ve büyük parçaları etiketleyin\n• Araç içi sabitlemeyi kontrol edin\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/sehirler-arasi-nakliyat/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
+      "timestamp": "2026-11-10T17:10:58+0000",
+      "shortcode": "DfkaWl_m5Pn",
+      "metrics": {
+        "views": 14,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "replies": [],
+      "replies_error": null
+    },
+    {
       "id": "18120355088078229",
       "media_type": "IMAGE",
       "permalink": "https://www.threads.com/@evdenevegaziantep/post/Dfhn6aQFTWg",
@@ -119,7 +157,7 @@
       "timestamp": "2026-11-09T15:11:45+0000",
       "shortcode": "Dfhn6aQFTWg",
       "metrics": {
-        "views": 0,
+        "views": 1,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -444,44 +482,6 @@
       "metrics": {
         "views": 17,
         "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "replies": [],
-      "replies_error": null
-    },
-    {
-      "id": "18097065560215825",
-      "media_type": "IMAGE",
-      "permalink": "https://www.threads.com/@evdenevegaziantep/post/Dey1_67IGWu",
-      "username": "evdenevegaziantep",
-      "text": "⚖️ Kamyon içinde hacim ve ağırlık dengesi\n\nAraç içi yerleşimde yalnızca boş alanı doldurmak yeterli değildir. Ağır parçaların dengeli konumlandırılması, hassas paketlerin basınç altında kalmaması ve yükün hareket etmeyecek şekilde sabitlenmesi gerekir.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/evden-eve-nakliyat/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
-      "timestamp": "2026-10-22T11:10:28+0000",
-      "shortcode": "Dey1_67IGWu",
-      "metrics": {
-        "views": 26,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "replies": [],
-      "replies_error": null
-    },
-    {
-      "id": "18048458612816949",
-      "media_type": "IMAGE",
-      "permalink": "https://www.threads.com/@evdenevegaziantep/post/DewoeEUoM2Q",
-      "username": "evdenevegaziantep",
-      "text": "📍 Gaziantep şehir içi taşıma\n\nŞahinbey, Şehitkamil ve çevresindeki taşınmalarda bina koşulları, kat bilgileri, eşya miktarı ve iki adres arasındaki mesafeye göre ekip ve araç planlaması yapıyoruz.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/hizmet-bolgelerimiz/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
-      "timestamp": "2026-10-21T14:33:51+0000",
-      "shortcode": "DewoeEUoM2Q",
-      "metrics": {
-        "views": 24,
-        "likes": 0,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
