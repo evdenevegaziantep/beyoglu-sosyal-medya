@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T22:30:02.293865+00:00",
+  "generated_at": "2026-11-10T01:46:32.823896+00:00",
   "profile": {
     "id": "27965371029808800",
     "username": "evdenevegaziantep",
@@ -8,12 +8,16 @@
     "is_verified": false
   },
   "account_metrics": {
-    "views": 8,
+    "views": 4,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "clicks": [
+      {
+        "value": 0,
+        "link_url": "https://www.evdenevegaziantep.com/parca-esya-tasima?utm_source=threads&utm_medium=organic_social&utm_campaign=threads"
+      },
       {
         "value": 0,
         "link_url": "https://www.evdenevegaziantep.com/ofis-tasima?utm_source=threads&utm_medium=organic_social&utm_campaign=threads"
@@ -107,6 +111,25 @@
   "reply_count_read": 0,
   "posts": [
     {
+      "id": "18120355088078229",
+      "media_type": "IMAGE",
+      "permalink": "https://www.threads.com/@evdenevegaziantep/post/Dfhn6aQFTWg",
+      "username": "evdenevegaziantep",
+      "text": "Birkaç parça mobilya, öğrenci eşyası veya küçük hacimli yüklerde parça eşya taşıma seçeneği değerlendirilebilir.\n\n• Tek veya birkaç büyük eşya\n• Öğrenci ya da küçük ev eşyası\n• Şehir içi kısa mesafe\n• Uygun araç ve zaman eşleştirmesi\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/parca-esya-tasima/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
+      "timestamp": "2026-11-09T15:11:45+0000",
+      "shortcode": "Dfhn6aQFTWg",
+      "metrics": {
+        "views": 0,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "replies": [],
+      "replies_error": null
+    },
+    {
       "id": "18116488304019499",
       "media_type": "VIDEO",
       "permalink": "https://www.threads.com/@evdenevegaziantep/post/DffJrsYhO0s",
@@ -115,7 +138,7 @@
       "timestamp": "2026-11-08T16:09:23+0000",
       "shortcode": "DffJrsYhO0s",
       "metrics": {
-        "views": 3,
+        "views": 4,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -459,25 +482,6 @@
       "metrics": {
         "views": 24,
         "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "replies": [],
-      "replies_error": null
-    },
-    {
-      "id": "18146087893569759",
-      "media_type": "IMAGE",
-      "permalink": "https://www.threads.com/@evdenevegaziantep/post/DeoyFDeG3u0",
-      "username": "evdenevegaziantep",
-      "text": "🏷️ Etiketleme ve düzenli teslimat\n\nPaketlerin hangi odaya ve eşya grubuna ait olduğunun işaretlenmesi, yeni adresteki yerleştirme sürecini kolaylaştırır. Montaj sırası gerektiren parçalar ayrıca ayrılır ve bağlantı elemanları düzenli biçimde saklanır.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/binevler-nakliyat/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
-      "timestamp": "2026-10-18T13:23:54+0000",
-      "shortcode": "DeoyFDeG3u0",
-      "metrics": {
-        "views": 19,
-        "likes": 1,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
