@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T23:44:44.212218+00:00",
+  "generated_at": "2026-11-12T01:01:45.231464+00:00",
   "profile": {
     "id": "27965371029808800",
     "username": "evdenevegaziantep",
@@ -8,12 +8,16 @@
     "is_verified": false
   },
   "account_metrics": {
-    "views": 26,
+    "views": 155,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "clicks": [
+      {
+        "value": 0,
+        "link_url": "https://www.evdenevegaziantep.com/esya-depolama?utm_source=threads&utm_medium=organic_social&utm_campaign=threads"
+      },
       {
         "value": 0,
         "link_url": "https://www.evdenevegaziantep.com/parca-esya-tasima?utm_source=threads&utm_medium=organic_social&utm_campaign=threads"
@@ -95,7 +99,7 @@
   },
   "publishing_limit": [
     {
-      "quota_usage": 2,
+      "quota_usage": 1,
       "config": {
         "quota_total": 250,
         "quota_duration": 86400
@@ -111,6 +115,25 @@
   "reply_count_read": 0,
   "posts": [
     {
+      "id": "18025048868936465",
+      "media_type": "IMAGE",
+      "permalink": "https://www.threads.com/@evdenevegaziantep/post/DfnmpI9AfrE",
+      "username": "evdenevegaziantep",
+      "text": "Depolama öncesi temizlik, nem kontrolü, etiketleme ve erişim sırası; eşyaların düzenli tutulmasına yardımcı olur.\n\n• Eşyayı temiz ve kuru biçimde hazırlayın\n• Kırılabilir parçaları ayrı paketleyin\n• Koli üzerine içerik listesi yazın\n• Önce gerekecek eşyayı erişilebilir tutun\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/esya-depolama/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
+      "timestamp": "2026-11-11T22:56:08+0000",
+      "shortcode": "DfnmpI9AfrE",
+      "metrics": {
+        "views": 119,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "replies": [],
+      "replies_error": null
+    },
+    {
       "id": "18155082091532428",
       "media_type": "VIDEO",
       "permalink": "https://www.threads.com/@evdenevegaziantep/post/Dfk6yMxJMTL",
@@ -119,7 +142,7 @@
       "timestamp": "2026-11-10T21:54:39+0000",
       "shortcode": "Dfk6yMxJMTL",
       "metrics": {
-        "views": 10,
+        "views": 12,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -138,7 +161,7 @@
       "timestamp": "2026-11-10T17:10:58+0000",
       "shortcode": "DfkaWl_m5Pn",
       "metrics": {
-        "views": 14,
+        "views": 22,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -366,7 +389,7 @@
       "timestamp": "2026-10-29T21:21:16+0000",
       "shortcode": "DfF9bP9DqeE",
       "metrics": {
-        "views": 3,
+        "views": 4,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -462,25 +485,6 @@
       "shortcode": "De62d9sFShV",
       "metrics": {
         "views": 75,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "replies": [],
-      "replies_error": null
-    },
-    {
-      "id": "18150970420550121",
-      "media_type": "VIDEO",
-      "permalink": "https://www.threads.com/@evdenevegaziantep/post/De1wiTajD1O",
-      "username": "evdenevegaziantep",
-      "text": "🎬 Beyoğlu Taşımacılık hizmetleri\n\nGaziantep içi ve şehirlerarası taşınmalarda; ekspertiz, profesyonel ambalajlama, mobilya söküm ve montajı, uygun araç seçimi ve 20. kata kadar asansörlü taşıma hizmetlerini tek plan altında sunuyoruz.\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
-      "timestamp": "2026-10-23T14:21:10+0000",
-      "shortcode": "De1wiTajD1O",
-      "metrics": {
-        "views": 17,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
