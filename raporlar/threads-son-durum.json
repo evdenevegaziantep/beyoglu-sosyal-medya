@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T23:53:28.213038+00:00",
+  "generated_at": "2026-11-13T23:54:48.740984+00:00",
   "profile": {
     "id": "27965371029808800",
     "username": "evdenevegaziantep",
@@ -8,12 +8,16 @@
     "is_verified": false
   },
   "account_metrics": {
-    "views": 214,
-    "likes": 0,
+    "views": 157,
+    "likes": 1,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "clicks": [
+      {
+        "value": 0,
+        "link_url": "https://www.evdenevegaziantep.com/blog/gaziantep-tasinma-rehberi?utm_source=threads&utm_medium=organic_social&utm_campaign=threads"
+      },
       {
         "value": 0,
         "link_url": "https://www.evdenevegaziantep.com/esya-depolama?utm_source=threads&utm_medium=organic_social&utm_campaign=threads"
@@ -115,6 +119,25 @@
   "reply_count_read": 0,
   "posts": [
     {
+      "id": "17919214317495475",
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.threads.com/@evdenevegaziantep/post/Dfsqiw9o0Ko",
+      "username": "evdenevegaziantep",
+      "text": "Çocuklu ailelerde taşınma günü için ayrı ihtiyaç çantası ve güvenli alan oluşturmak, ev içindeki hareketi daha kontrollü tutar.\n\n• Çocuk için sakin ve güvenli bir alan belirleyin\n• Yiyecek, su, ilaç ve yedek kıyafeti ayırın\n• Oyuncak ve uyku eşyasını kişisel çantada tutun\n• Taşıma koridorunu çocuklard…\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/blog/gaziantep-tasinma-rehberi/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
+      "timestamp": "2026-11-13T22:06:19+0000",
+      "shortcode": "Dfsqiw9o0Ko",
+      "metrics": {
+        "views": 56,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "replies": [],
+      "replies_error": null
+    },
+    {
       "id": "17882049660554942",
       "media_type": "VIDEO",
       "permalink": "https://www.threads.com/@evdenevegaziantep/post/DfqH3xoTkza",
@@ -123,7 +146,7 @@
       "timestamp": "2026-11-12T22:25:13+0000",
       "shortcode": "DfqH3xoTkza",
       "metrics": {
-        "views": 7,
+        "views": 8,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -160,8 +183,8 @@
       "timestamp": "2026-11-12T19:23:53+0000",
       "shortcode": "DfpzKwxDn9s",
       "metrics": {
-        "views": 65,
-        "likes": 0,
+        "views": 76,
+        "likes": 1,
         "replies": 0,
         "reposts": 0,
         "quotes": 1,
@@ -236,7 +259,7 @@
       "timestamp": "2026-11-09T15:11:45+0000",
       "shortcode": "Dfhn6aQFTWg",
       "metrics": {
-        "views": 2,
+        "views": 3,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -465,25 +488,6 @@
       "shortcode": "DfDYD04D3uK",
       "metrics": {
         "views": 7,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "replies": [],
-      "replies_error": null
-    },
-    {
-      "id": "18114754793172526",
-      "media_type": "VIDEO",
-      "permalink": "https://www.threads.com/@evdenevegaziantep/post/DfC1S3QABVh",
-      "username": "evdenevegaziantep",
-      "text": "Dış cephe asansörü her binada aynı şekilde kurulmaz. Kat, cephe, balkon ve araç konumu önceden değerlendirilmelidir.\n\n• Yüksek katlarda taşıma yolu uzunsa\n• Merdiven dar veya dönüşler keskinse\n• Balkon ya da pencere hattı uygunsa\n• Bina önü güvenli kurulum alanı sunuyorsa\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/blog/asansorlu-tasimacilik-nedir/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
-      "timestamp": "2026-10-28T16:12:30+0000",
-      "shortcode": "DfC1S3QABVh",
-      "metrics": {
-        "views": 5,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
