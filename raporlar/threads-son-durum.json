@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T22:45:29.225611+00:00",
+  "generated_at": "2026-11-15T23:11:40.403494+00:00",
   "profile": {
     "id": "27965371029808800",
     "username": "evdenevegaziantep",
@@ -8,7 +8,7 @@
     "is_verified": false
   },
   "account_metrics": {
-    "views": 70,
+    "views": 11,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
@@ -103,7 +103,7 @@
   },
   "publishing_limit": [
     {
-      "quota_usage": 0,
+      "quota_usage": 2,
       "config": {
         "quota_total": 250,
         "quota_duration": 86400
@@ -118,6 +118,44 @@
   "post_count_read": 20,
   "reply_count_read": 0,
   "posts": [
+    {
+      "id": "17965677696211811",
+      "media_type": "IMAGE",
+      "permalink": "https://www.threads.com/@evdenevegaziantep/post/Dfxtq5pFO15",
+      "username": "evdenevegaziantep",
+      "text": "İbrahimli’de site ve blok yapısı; araç konumu, giriş izni ve asansör kullanım planını etkileyebilir. Bu bilgileri önceden netleştirin.\n\n• Site yönetimi bilgisi\n• Blok ve yük asansörü erişimi\n• Araç bekleme veya yaklaşma alanı\n• Taşıma saatine dair site kuralı\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/ibrahimli-nakliyat/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
+      "timestamp": "2026-11-15T21:09:54+0000",
+      "shortcode": "Dfxtq5pFO15",
+      "metrics": {
+        "views": 8,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "replies": [],
+      "replies_error": null
+    },
+    {
+      "id": "17922012762463622",
+      "media_type": "VIDEO",
+      "permalink": "https://www.threads.com/@evdenevegaziantep/post/Dfw4wUcqGqG",
+      "username": "evdenevegaziantep",
+      "text": "Yağmurlu havada paketleme kadar bina ile araç arasındaki kısa mesafe de önemlidir. Geçiş yolu ve yükleme sırası önceden planlanır.\n\n• Hava durumunu ve araç yaklaşımını kontrol edin\n• Geçiş yolunda kaymayı azaltacak önlem alın\n• Paketleri bina çıkışında bekletmeyin\n• Kapalı kasa araçta yerleşimi hızl…\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/blog/gaziantep-tasinma-rehberi/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
+      "timestamp": "2026-11-15T13:27:52+0000",
+      "shortcode": "Dfw4wUcqGqG",
+      "metrics": {
+        "views": 2,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "replies": [],
+      "replies_error": null
+    },
     {
       "id": "17919214317495475",
       "media_type": "CAROUSEL_ALBUM",
@@ -451,44 +489,6 @@
       "metrics": {
         "views": 5,
         "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "replies": [],
-      "replies_error": null
-    },
-    {
-      "id": "18113084984174895",
-      "media_type": "VIDEO",
-      "permalink": "https://www.threads.com/@evdenevegaziantep/post/DfF9bP9DqeE",
-      "username": "evdenevegaziantep",
-      "text": "Dar merdiven ve yüksek kat, dış cephe asansörü ihtiyacını artırabilir. Uygunluk kontrolü yapılmadan kurulum kararı verilmemelidir.\n\n• Bina önü ve zemin kontrol edilir\n• Balkon ya da pencere hattı ölçülür\n• Güvenli taşıma koridoru oluşturulur\n• Eşyalar sırayla platforma alınır\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/asansorlu-tasimacilik/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
-      "timestamp": "2026-10-29T21:21:16+0000",
-      "shortcode": "DfF9bP9DqeE",
-      "metrics": {
-        "views": 4,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "replies": [],
-      "replies_error": null
-    },
-    {
-      "id": "18149588119572214",
-      "media_type": "CAROUSEL_ALBUM",
-      "permalink": "https://www.threads.com/@evdenevegaziantep/post/DfDYD04D3uK",
-      "username": "evdenevegaziantep",
-      "text": "Taşınma gününde ilk bir saat; ekip iletişimi, geçiş yolu ve yükleme sırasının netleştiği en önemli bölümdür.\n\n• Kişisel eşyaları taşıma alanından ayırın\n• Ekip ile oda ve yükleme sırasını netleştirin\n• Bina içi geçiş yolunu boşaltın\n• Sayaç ve anahtar teslim notlarını kontrol edin\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/blog/tasinma-kontrol-listesi/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
-      "timestamp": "2026-10-28T21:16:01+0000",
-      "shortcode": "DfDYD04D3uK",
-      "metrics": {
-        "views": 7,
-        "likes": 0,
         "replies": 0,
         "reposts": 0,
         "quotes": 0,
