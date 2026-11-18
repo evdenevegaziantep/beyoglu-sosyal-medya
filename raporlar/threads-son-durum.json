@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T02:06:53.383008+00:00",
+  "generated_at": "2026-11-18T01:19:47.921824+00:00",
   "profile": {
     "id": "27965371029808800",
     "username": "evdenevegaziantep",
@@ -8,12 +8,16 @@
     "is_verified": false
   },
   "account_metrics": {
-    "views": 22,
+    "views": 105,
     "likes": 0,
     "replies": 0,
     "reposts": 0,
     "quotes": 0,
     "clicks": [
+      {
+        "value": 0,
+        "link_url": "https://www.evdenevegaziantep.com/blog/nakliyat-firmasi-nasil-secilir?utm_source=threads&utm_medium=organic_social&utm_campaign=threads"
+      },
       {
         "value": 0,
         "link_url": "https://www.evdenevegaziantep.com/blog/gaziantep-tasinma-rehberi?utm_source=threads&utm_medium=organic_social&utm_campaign=threads"
@@ -103,7 +107,7 @@
   },
   "publishing_limit": [
     {
-      "quota_usage": 0,
+      "quota_usage": 2,
       "config": {
         "quota_total": 250,
         "quota_duration": 86400
@@ -118,6 +122,44 @@
   "post_count_read": 20,
   "reply_count_read": 0,
   "posts": [
+    {
+      "id": "18084094469347795",
+      "media_type": "VIDEO",
+      "permalink": "https://www.threads.com/@evdenevegaziantep/post/Df3I9PKqYUm",
+      "username": "evdenevegaziantep",
+      "text": "Beyaz eşyalarda elektrik ve su bağlantısı hazırlığı son dakikaya bırakılmamalıdır. Hareketli parçalar ve aksesuarlar ayrıca sabitlenir.\n\n• Cihazı zamanında kapatıp içini boşaltın\n• Su bağlantısı olan bölümleri kurutun\n• Raf ve hareketli parçaları ayrı sabitleyin\n• Kablo ve aksesuarları etiketli poşette…\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/blog/tasinma-kontrol-listesi/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
+      "timestamp": "2026-11-17T23:44:53+0000",
+      "shortcode": "Df3I9PKqYUm",
+      "metrics": {
+        "views": 7,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "replies": [],
+      "replies_error": null
+    },
+    {
+      "id": "18093606497244578",
+      "media_type": "CAROUSEL_ALBUM",
+      "permalink": "https://www.threads.com/@evdenevegaziantep/post/Df2QbKsFfLa",
+      "username": "evdenevegaziantep",
+      "text": "Teklifleri karşılaştırırken yalnızca toplam tutara değil; paketleme, söküm, asansör, ekip ve kapsam ayrıntılarına da bakın.\n\n• Paketleme kapsamına neler dâhil?\n• Söküm ve kurulum hangi eşyaları kapsıyor?\n• Asansör ihtiyacı nasıl değerlendiriliyor?\n• Taşıma günü ekip ve araç planı nedir?\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/blog/nakliyat-firmasi-nasil-secilir/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
+      "timestamp": "2026-11-17T15:30:34+0000",
+      "shortcode": "Df2QbKsFfLa",
+      "metrics": {
+        "views": 85,
+        "likes": 0,
+        "replies": 0,
+        "reposts": 0,
+        "quotes": 0,
+        "shares": 0
+      },
+      "replies": [],
+      "replies_error": null
+    },
     {
       "id": "17965677696211811",
       "media_type": "IMAGE",
@@ -146,7 +188,7 @@
       "timestamp": "2026-11-15T13:27:52+0000",
       "shortcode": "Dfw4wUcqGqG",
       "metrics": {
-        "views": 6,
+        "views": 8,
         "likes": 0,
         "replies": 0,
         "reposts": 0,
@@ -450,44 +492,6 @@
       "shortcode": "DfNIWqrHBOm",
       "metrics": {
         "views": 8,
-        "likes": 1,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "replies": [],
-      "replies_error": null
-    },
-    {
-      "id": "18080852690411098",
-      "media_type": "CAROUSEL_ALBUM",
-      "permalink": "https://www.threads.com/@evdenevegaziantep/post/DfK_DaXnycA",
-      "username": "evdenevegaziantep",
-      "text": "Her koliye oda, içerik ve öncelik yazmak; hem araç içi düzeni hem de yeni evde yerleşimi kolaylaştırır.\n\n• Üst satıra gideceği odayı yazın\n• İkinci satıra genel içeriği yazın\n• Kırılacak eşya varsa görünür biçimde belirtin\n• İlk açılacak kolilere ayrı renk verin\n\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/blog/tasinma-kontrol-listesi/?utm_source=threads&utm_medium=organic_social&utm_campaign=threads",
-      "timestamp": "2026-10-31T20:11:26+0000",
-      "shortcode": "DfK_DaXnycA",
-      "metrics": {
-        "views": 27,
-        "likes": 0,
-        "replies": 0,
-        "reposts": 0,
-        "quotes": 0,
-        "shares": 0
-      },
-      "replies": [],
-      "replies_error": null
-    },
-    {
-      "id": "17872853886647187",
-      "media_type": "VIDEO",
-      "permalink": "https://www.threads.com/@evdenevegaziantep/post/DfKfYt9gB-b",
-      "username": "evdenevegaziantep",
-      "text": "Gaziantep’te gerçek bir asansörlü nakliyat operasyonu. 🚚 Dış cephe asansörü, profesyonel paketleme, mobilya söküm-montaj ve düzenli araç yükleme tek videoda.\n\nÜcretsiz ekspertiz ve net fiyat:\n📞 0546 112 27 97\n🌐 https://www.evdenevegaziantep.com/\n\nGaziantepNakliyat #EvdenEveNakliyat",
-      "timestamp": "2026-10-31T15:35:02+0000",
-      "shortcode": "DfKfYt9gB-b",
-      "metrics": {
-        "views": 5,
         "likes": 1,
         "replies": 0,
         "reposts": 0,
